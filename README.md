@@ -29,3 +29,4 @@ Suggestions and contributions are always welcome!
 * [Utilities](#utilities)
 * [Tutorials](#tutorials)
 * [IDEs](#ides)
+* [TorqueScript syntax highlighting](#tshighlighting)
