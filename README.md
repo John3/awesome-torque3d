@@ -4,3 +4,28 @@ A curated list of [Torque3D](http://torque3d.org), [Torque2D](http://torque2d.or
 
 Suggestions and contributions are always welcome! 
 
+## Table of contents
+
+* [3D](#3d)
+* [2D](#2d)
+* [AI](#ai)
+* [Augmented & Virtual Reality](#augmented--virtual-reality)
+* [Animation](#animation)
+* [Camera](#camera)
+* [Development](#development)
+* [Entity](#entity)
+* [Input](#input)
+* [Modeling](#modeling)
+* [Monetization](#monetization)
+* [Lighting](#lighting)
+* [Networking](#networking)
+* [Physics](#physics)
+* [Serialization](#serialization)
+* [Scripting](#scripting)
+* [Shaders](#shaders)
+* [Testing](#testing)
+* [Tweening](#tweening)
+* [UI](#ui)
+* [Utilities](#utilities)
+* [Tutorials](#tutorials)
+* [IDEs](#ides)
