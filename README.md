@@ -55,3 +55,9 @@ Suggestions and contributions are always welcome!
 * [Tutorials](#tutorials)
 * [IDEs](#ides)
 * [TorqueScript syntax highlighting](#tshighlighting)
+
+## Games
+
+Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
+
+### Action Games
