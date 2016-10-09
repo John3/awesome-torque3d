@@ -15,18 +15,18 @@ Suggestions and contributions are always welcome!
 * [Development](#development)
 * [Entity](#entity)
 * [Games](#games)
-  * [Action Games](#actiongames)
-    * [Platform games](#platformgames)
-    * [Shooter games](#shootergames)
+  * [Action Games](#action-games)
+    * [Platform games](#platform-games)
+    * [Shooter games](#shooter-games)
       * [First-person shooter (FPS)](#fps)
       * [Third-person shooter (TPS)](#tps)
-    * [Fighting games](#fightinggames)
-    * [Stealth game](#stealthgames)
-    * [Survival](#survivalgames)
+    * [Fighting games](#fighting-games)
+    * [Stealth game](#stealth-games)
+    * [Survival](#survival-games)
   * [Action-adventure]()
-    * [Survival horror](#survivalhorror)
-  * [Simulation games](#simulationgames)
-    * [Vehicle simulation](#vehiclesimulation)
+    * [Survival horror](#survival-horror)
+  * [Simulation games](#simulation-games)
+    * [Vehicle simulation](#vehicle-simulation)
   * [Role-playing game (RPG)](#rpg)
     * [Massively multiplayer online role-playing games (MMORPGs)](#mmorpgs)
   * [Strategy Games](#strategygames)
@@ -36,9 +36,9 @@ Suggestions and contributions are always welcome!
     * [Tower defense](#towerdefense)
     * [Turn-based strategy (TBS)](#tbs)
     * [Turn-based tactics (TBT)](#tbt)
-  * [Sports Games](#sportsgames)
+  * [Sports Games](#sports-games)
     * [Racing](#racing)
-    * [Sports-based fighting](#sportfighting)
+    * [Sports-based fighting](#sport-fighting)
 * [Input](#input)
 * [Modeling](#modeling)
 * [Monetization](#monetization)
@@ -61,3 +61,17 @@ Suggestions and contributions are always welcome!
 Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 
 ### Action Games
+
+#### Shooter Games
+
+##### FPS
+
+- [Terminal Overload](http://terminal-overload.org/) [github-repo](https://github.com/fr1tz/terminal-overload) 
+Free and open-source first person shooter.
+
+- [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps)
+
+- [Übergame](http://duion.com/games/uebergame/main) [github-repo](https://github.com/Duion/Uebergame) [store-steam](http://store.steampowered.com/app/391780) [forum](http://forums.torque3d.org/viewforum.php?f=42)
+Free and open source, realism like, multiplayer, casual, first-person-shooter.
+
+##### TPS
