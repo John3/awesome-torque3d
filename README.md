@@ -91,8 +91,7 @@ Third-person shooter (TPS)
 No games released yet.
 
 #### Fighting games
-- [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (
-Not Released)
+- [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (In development)
 - [Determinance](http://www.mode7games.com/content/game.html) - [1](http://www.determinance.com/) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
 
 #### Stealth game
@@ -117,7 +116,7 @@ No stealth games released yet.
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
-- [Life is Feudal: Your Own](http://lifeisfeudal.com/mmo) (In development) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world.
+- [Life is Feudal: Your Own](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 
 #### Tactical RPG
 
@@ -137,15 +136,20 @@ Multiplayer online battle arena (MOBA)
 #### Tower Defense
 - [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360)
 - [Monoliths of Terravia](http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
+
 #### TBS
 Turn-based strategy (TBS)
+
 #### TBT
 Turn-based tactics (TBT)
     
 ### Sports Games
+
 #### Racing
+
 #### Sport fighting
 Sports-based fighting
+
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350)
 
 ### Other genres
