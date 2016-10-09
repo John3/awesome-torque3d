@@ -79,7 +79,8 @@ Free and open source, realism like, multiplayer, casual, first-person-shooter.
 No game yet.
 
 #### Fighting games
-- [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (No release)
+- [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (
+Not Released)
 - [Determinance](http://www.mode7games.com/content/game.html) Multi-player action game which allows you to create your own fighting style.
 
 #### Stealth game
