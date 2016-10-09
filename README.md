@@ -93,14 +93,14 @@ No games released yet.
 #### Fighting games
 - [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (
 Not Released)
-- [Determinance](http://www.mode7games.com/content/game.html) [1](http://www.determinance.com/) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
+- [Determinance](http://www.mode7games.com/content/game.html) - [1](http://www.determinance.com/) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
 
 #### Stealth game
 
 No stealth games released yet.
 
 #### Survival games
-- [Undead Shadows](http://www.undeadshadows.com) [1](https://www.ignition-games.com/) [2](http://ignitiongames.tumblr.com/) - [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
+- [Undead Shadows](http://www.undeadshadows.com) - [1](https://www.ignition-games.com/) - [2](http://ignitiongames.tumblr.com/) - [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
 
 
 ### Action Adventure Games
@@ -116,10 +116,15 @@ No stealth games released yet.
 #### Action RPG
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
+
 - [Life is Feudal: Your Own](http://lifeisfeudal.com/mmo) (In development) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world.
+
 #### Tactical RPG
+
 #### Sandbox RPG
+
 - [Life is Feudal: Your Own](http://lifeisfeudal.com/yo) - [Store Steam](http://store.steampowered.com/app/290080/) A truly hardcore sandbox RPG with captivating survival aspects. Described as a real life Medieval simulator.
+
 #### Fantasy
 
 ### Strategy Games
