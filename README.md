@@ -66,12 +66,23 @@ Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 
 ##### FPS
 
-- [Terminal Overload](http://terminal-overload.org/) [github-repo](https://github.com/fr1tz/terminal-overload) 
+- [Terminal Overload](http://terminal-overload.org/) [GitHub Repo](https://github.com/fr1tz/terminal-overload) 
 Free and open-source first person shooter.
-
-- [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps)
-
-- [Übergame](http://duion.com/games/uebergame/main) [github-repo](https://github.com/Duion/Uebergame) [store-steam](http://store.steampowered.com/app/391780) [forum](http://forums.torque3d.org/viewforum.php?f=42)
+- [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
+Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
+- [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
+- [Ubergame](http://duion.com/games/uebergame/main) [GitHub Repo](https://github.com/Duion/Uebergame) [Store-Steam](http://store.steampowered.com/app/391780) [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
 
 ##### TPS
+
+No game yet.
+
+#### Fighting games
+- [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (No release)
+- [Determinance](http://www.mode7games.com/content/game.html) Multi-player action game which allows you to create your own fighting style.
+
+#### Stealth game
+
+#### Survival games
+- [Undead Shadows](http://www.undeadshadows.com) [Store](http://undeadshadows.com/buy/) [Store-Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter
