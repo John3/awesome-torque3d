@@ -23,22 +23,28 @@ Suggestions and contributions are always welcome!
     * [Fighting games](#fighting-games)
     * [Stealth game](#stealth-games)
     * [Survival](#survival-games)
-  * [Action-adventure]()
+  * [Action-adventure](#action-adventure)
     * [Survival horror](#survival-horror)
+  * [Adventure](#adventure)
   * [Simulation games](#simulation-games)
     * [Vehicle simulation](#vehicle-simulation)
   * [Role-playing game (RPG)](#rpg)
+    * [Action RPG](#action-rpg)
     * [Massively multiplayer online role-playing games (MMORPGs)](#mmorpgs)
-  * [Strategy Games](#strategygames)
+    * [Tactical RPG](#tactical-rpg)
+    * [Sandbox RPG](sandbox-rpg)
+    * [Fantasy](#fantasy)
+  * [Strategy Games](#strategy-games)
     * [Real-time strategy (RTS)](#rts)
     * [Real-time tactics (RTT)](#rtt)
     * [Multiplayer online battle arena (MOBA)](#moba)
-    * [Tower defense](#towerdefense)
+    * [Tower defense](#tower-defense)
     * [Turn-based strategy (TBS)](#tbs)
     * [Turn-based tactics (TBT)](#tbt)
   * [Sports Games](#sports-games)
     * [Racing](#racing)
     * [Sports-based fighting](#sport-fighting)
+  * [Other genres](#other-genres)
 * [Input](#input)
 * [Modeling](#modeling)
 * [Monetization](#monetization)
@@ -62,32 +68,80 @@ Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 
 ### Action Games
 
+#### Platform Games
+
 #### Shooter Games
 
 ##### FPS
 
-- [Terminal Overload](http://terminal-overload.org/) - [GitHub Repo](https://github.com/fr1tz/terminal-overload) 
-Free and open-source first person shooter.
+First-person shooter (FPS)
+
+- [Dots Net Crits](https://practicing01.itch.io/dots-net-crits) - [GitHub Repo](https://github.com/practicing01/T3D_GameModes) - [Forum](http://forums.torque3d.org/viewforum.php?f=43) Multiplayer game with lots of variations of weapons and gamemodes.
 - [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) - [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
 Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
+- [Terminal Overload](http://terminal-overload.org/) - [GitHub Repo](https://github.com/fr1tz/terminal-overload) 
+Free and open-source first person shooter.
 - [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
 - [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
 
 ##### TPS
+Third-person shooter (TPS)
 
-No third-person shooter games released yet.
+No games released yet.
 
 #### Fighting games
 - [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (
 Not Released)
-- [Determinance](http://www.mode7games.com/content/game.html) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
-
-Determinance is a multiplayer sword-fighting PC title.
+- [Determinance](http://www.mode7games.com/content/game.html) [1](http://www.determinance.com/) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
 
 #### Stealth game
 
 No stealth games released yet.
 
 #### Survival games
-- [Undead Shadows](http://www.undeadshadows.com) - [Store](http://undeadshadows.com/buy/) [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
+- [Undead Shadows](http://www.undeadshadows.com) [1](https://www.ignition-games.com/) [2](http://ignitiongames.tumblr.com/) - [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
+
+
+### Action Adventure Games
+#### Survival Horror
+
+### Adventure Games
+
+### Simulation games
+#### Vehicle Simulation
+- [BeamNG](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior.
+
+### RPG
+#### Action RPG
+#### MMORPGs
+Massively multiplayer online role-playing games (MMORPGs)
+- [Life is Feudal: Your Own](http://lifeisfeudal.com/mmo) (In development) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world.
+#### Tactical RPG
+#### Sandbox RPG
+- [Life is Feudal: Your Own](http://lifeisfeudal.com/yo) - [Store Steam](http://store.steampowered.com/app/290080/) A truly hardcore sandbox RPG with captivating survival aspects. Described as a real life Medieval simulator.
+#### Fantasy
+
+### Strategy Games
+#### RTS
+Real-time strategy (RTS)
+#### RTT
+Real-time tactics (RTT)
+#### MOBA
+Multiplayer online battle arena (MOBA)
+#### Tower Defense
+- [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360)
+- [Monoliths of Terravia](http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
+#### TBS
+Turn-based strategy (TBS)
+#### TBT
+Turn-based tactics (TBT)
+    
+### Sports Games
+#### Racing
+#### Sport fighting
+Sports-based fighting
+- [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350)
+
+### Other genres
+- [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
