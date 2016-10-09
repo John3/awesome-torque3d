@@ -71,7 +71,7 @@ Free and open-source first person shooter.
 - [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) - [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
 Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
 - [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
-- [Ubergame](http://duion.com/games/uebergame/main) [GitHub Repo](https://github.com/Duion/Uebergame) [Store-Steam](http://store.steampowered.com/app/391780) [Forum](http://forums.torque3d.org/viewforum.php?f=42)
+- [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store-Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
 
 ##### TPS
