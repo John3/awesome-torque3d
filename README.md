@@ -83,7 +83,7 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 First-person shooter (FPS)
 
 - [Dark Horizons Lore](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore) - [Video](https://www.youtube.com/playlist?list=PL4BB070AA105057F2)  The player takes control of a large mech in battle against the enemy team's mechs. (Dead game)
-- [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game)
+- [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game) - Download: [win](http://www.gamershell.com/download_28590.shtml)
 
 - [Dots Net Crits](https://practicing01.itch.io/dots-net-crits) - [GitHub Repo](https://github.com/practicing01/T3D_GameModes) - [Forum](http://forums.torque3d.org/viewforum.php?f=43) Multiplayer game with lots of variations of weapons and gamemodes.
 - [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) - [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
