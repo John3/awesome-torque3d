@@ -47,6 +47,7 @@ Suggestions and contributions are always welcome!
     * [Racing](#racing)
     * [Sports-based fighting](#sport-fighting)
   * [Other genres](#other-genres)
+      * [Card Games](#card-games)
 * [GUI](#gui)
 * [IDEs](#ides)
    * [Editors](#editors)
@@ -194,6 +195,7 @@ Role-playing games (RPG).
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
+- [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 - [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
 
@@ -229,6 +231,7 @@ Multiplayer online battle arena (MOBA)
 #### TBS
 Turn-based strategy (TBS)
 
+- [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
 
 #### TBT
@@ -241,12 +244,15 @@ Turn-based tactics (TBT)
 #### Sport fighting
 Sports-based fighting
 
+- [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat. Set in a post-apocalyptic world, it involves physics-based tactical combat and deathracing, online leagues as well as cooperative wilderness scouting and looting, trading and camp-based crafting.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
 - [Metal Drift](http://www.metaldrift.com/) - [Store Steam](http://store.steampowered.com/app/32200/) Is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena.
 
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
 - [CubistMT](http://joticarroll.github.io/Torque3D) - [GitHub Repo](https://github.com/joticarroll/Torque3D) - [Video](http://www.youtube.com/watch?v=lBv4S4ogXdE) Interactive and educational virtual reef. "The Reef" designed to represent a sample of the diversity of life on the Great Barrier Reef and be engaging to the general public and potential students. Note: Torque3D modification.
+#### Card Games
+- [Bellatorus Deluxe](http://www.garagegames.com/products/bellatorus) Is a strategic card game where you attempt to destroy your opponents tower while protecting your own. (Dead game) [Download Demo](http://demos.garagegames.com/pangus/Bellatorus_Win_ig_2.1.0.30.exe)
 
 ## Gui
 - [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
