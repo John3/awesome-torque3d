@@ -11,6 +11,7 @@ Suggestions and contributions are always welcome!
 * [AI](#ai)
 * [Augmented & Virtual Reality](#augmented--virtual-reality)
 * [Animation](#animation)
+* [Books](#books)
 * [Camera](#camera)
 * [Development](#development)
 * [Entity](#entity)
@@ -56,11 +57,21 @@ Suggestions and contributions are always welcome!
 * [Shaders](#shaders)
 * [Testing](#testing)
 * [Tweening](#tweening)
-* [UI](#ui)
+* [GUI](#gui)
 * [Utilities](#utilities)
 * [Tutorials](#tutorials)
 * [IDEs](#ides)
+   * [Editors](#editors)
 * [TorqueScript syntax highlighting](#tshighlighting)
+
+## AI
+
+Artificial Intelligence
+
+- [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
+- [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) Behavior Tree System.
+- [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
+- [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
 
 ## Games
 
@@ -189,3 +200,27 @@ Sports-based fighting
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
 - [CubistMT](http://joticarroll.github.io/Torque3D) - [GitHub Repo](https://github.com/joticarroll/Torque3D) - [Video](http://www.youtube.com/watch?v=lBv4S4ogXdE) Interactive and educational virtual reef. "The Reef" designed to represent a sample of the diversity of life on the Great Barrier Reef and be engaging to the general public and potential students. Note: Torque3D modification.
+
+## Gui
+- [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
+- [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
+- [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
+
+
+## IDEs
+- [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods.
+- [TorqueDev](https://github.com/John3/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
+- [IDEA](https://github.com/lukaspj/TorqueSense) - [1](http://wiki.torque3d.org/communityproject:new-scripting-ide-based-on-idea) Is a plugin that can be used with the free IntelliJ community edition IDE.
+- [TIDE](https://github.com/John3/torqueide) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor.
+- [Torque-IDE](https://github.com/John3/torque-ide)
+- [TorqueScript debugger](http://eviwo.free.fr/torque/Debugger-documentation.html) - [1](http://tdn.garagegames.com/wiki/TorqueScript/IDE/Guide/DebuggerForTorque) A Python-based debugger for Torque. Download: [1](http://eviwo.free.fr/download/DebuggerForTorque-V2-4.tar.gz) - [2](http://tdn.garagegames.com/wiki/images/c/c5/DebuggerForTorque.zip)
+
+
+### Editors
+TorqueScript syntax highlighting.
+
+- [Notepad++](https://forum.blockland.us/index.php?topic=152179.0) - [Download](https://drive.google.com/file/d/0B79CdBHH7jyoZGM3ZGIyNzUtZGRiMS00ZDE3LWE3NDQtNjhhNmQyMzA4NWFm)
+- [vim](https://github.com/crabmusket/vim-torquescript) - [1](http://www.garagegames.com/community/resources/view/22242)
+- [EMACS](http://forums.torque3d.org/viewtopic.php?f=12&t=173&p=1483&hilit=emacs#p1483)
+- [Atom](https://github.com/portify/language-torquescript)
+
