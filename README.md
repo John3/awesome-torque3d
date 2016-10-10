@@ -71,6 +71,8 @@ Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 - [Bit Shifter](http://bitshiftergame.com) - [1](http://plasticgames.com) - [Store Steam](http://store.steampowered.com/app/393170)  Is a full-featured game sporting novel gameplay. It is a 3D action/strategy game where you fly a hover-ship that can pickup, place, and heal your robotic soldiers; soldiers ready to fight in the war against the virus threatening your PC.
 - [Buccaneer: The Pursuit of Infamy](http://www.garagegames.com/community/blogs/view/15757) - [1](http://www.co-optimus.com/review/283/buccaneer-the-pursuit-of-infamy-co-op-review.html) - [Forum](http://steamcommunity.com/app/23100) - [Video](https://www.youtube.com/watch?v=pSpmYcwJFGo) - [Store](https://www.greenmangaming.com/games/buccaneer-the-pursuit-of-infamy)
 Become a famous pirate, sailing the seas and owning the biggest and baddest ship on the block. All the while you'll need to manage your crew's morale, upkeep and upgrade your ship, and of course - get the booty, er, infamy. (Dead game)
+- [Dark Horizons: Mechanized Corps](http://www.playmech.com) - [1](http://maxgaming.net) - [2](https://www.garagegames.com/community/blogs/view/22958) - [Video](https://www.youtube.com/playlist?list=PLP2sBuaPufMz0qvXwexvlK8X0D6tBpCyE) - [Store Steam](http://store.steampowered.com/app/266470/) Wage futuristic war by piloting a fully customizable 50 foot tall mech into battle. Fight for personal glory or battle for territorial domination in a persistent online warzone with your friends in various unique battlefields and combat environments. It is a sequel to Dark Horizons Lore: Invasion and the Lore Aftermath.
+- [Lore: Aftermath](https://www.garagegames.com/community/blogs/view/16545) - [1](http://dh-lore.wikia.com/wiki/Lore:_Aftermath) - [Video](https://www.youtube.com/playlist?list=PL5A6A711A73809005) Is a online mech simulation combat game, and the sequel to Dark Horizons Lore and Dark Horizon: Lore Invasion. (Dead game)
 
 #### Platform Games
 
@@ -79,6 +81,9 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 ##### FPS
 
 First-person shooter (FPS)
+
+- [Dark Horizons Lore](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore) - [Video](https://www.youtube.com/playlist?list=PL4BB070AA105057F2)  The player takes control of a large mech in battle against the enemy team's mechs. (Dead game)
+- [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game)
 
 - [Dots Net Crits](https://practicing01.itch.io/dots-net-crits) - [GitHub Repo](https://github.com/practicing01/T3D_GameModes) - [Forum](http://forums.torque3d.org/viewforum.php?f=43) Multiplayer game with lots of variations of weapons and gamemodes.
 - [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) - [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
@@ -132,6 +137,7 @@ Role-playing games (RPG).
 Massively multiplayer online role-playing games (MMORPGs)
 
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
+- [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
 
 #### Tactical RPG
 
