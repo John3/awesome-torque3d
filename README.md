@@ -9,7 +9,10 @@ Suggestions and contributions are always welcome!
 * [3D](#3d)
 * [2D](#2d)
 * [AI](#ai)
-* [Augmented & Virtual Reality](#augmented--virtual-reality)
+* [Assets](#assets)
+   * Free Assets(#free-assets)
+   * Pay assets(#pay-assets)
+* [Virtual Reality](#virtual-reality)
 * [Animation](#animation)
 * [Books](#books)
 * [Camera](#camera)
@@ -72,12 +75,31 @@ Suggestions and contributions are always welcome!
 
 Artificial Intelligence
 
-- [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
-- [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) Behavior Tree System.
-- [Basic AI Kit](http://www.mediafire.com/file/wcx237eausekut2/Basic_AI_Kit.zip)
+- [AITutorial](https://github.com/RichardRanft/AITutorial) - [1](http://forums.torque3d.org/viewtopic.php?f=11&t=25#p111) AI Tutorial scripts.
+- [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) - [1](http://forums.torque3d.org/viewtopic.php?f=8&t=74) Behavior Tree System.
+- [Basic AI Kit](http://www.mediafire.com/file/wcx237eausekut2/Basic_AI_Kit.zip) - [1](https://www.garagegames.com/community/forums/viewthread/141086/1#comment-863468) In the package is: "Improved AI Guard Unit by Twisted Jenius", "AI Marker Editor by Twisted Jenius", "Friendly AI Marker by Maximillian Brewer"
 - [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
 - [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
+
+## Assets
+
+### Free assets
+- [3td Studios Free Models](http://3tdstudios.com/models.html) - [1](http://opengameart.org/content/3td-studios-packs) Free 3D Assets for Game Developers and Hobbyists
+- [Art by hreikin](http://opengameart.org/users/hreikin)
+- [Collection by hreikin](http://opengameart.org/user/17697/collections)
+- [Art by Duion](http://opengameart.org/users/duion) - [Textures](http://duion.com/art/main)
+- [the3dmodelstore](http://www.the3dmodelstore.com/free.php)
+- [old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
+
+### Pay assets
+
+- [Monster Packs](http://www.monsterpacks.com)
+- [BAG_Buildingpack1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=7) These structures may look dirty, grungy and run-down, but they won’t let you down! You can use this pack to quickly design great looking urban scenes for your game or visual project. These are fully navigable buildings with stairs, balconies, windows, doorways and basements.
+- [MACK Lite](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=10) Just the character assets.
+
+## Virtual Reality
+- [Occulus Rift DK2 & OpenVR] - https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
 
 ## Animation
 - [AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
@@ -112,6 +134,11 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
 - [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
+
+## Development
+
+- [Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [1](https://github.com/John3/Torque3D_Unofficial/releases)
+- [Torque3D Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751&p=6248#p6229)
 
 ## FX
 
@@ -149,6 +176,7 @@ First-person shooter (FPS)
 Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
 - [Terminal Overload](http://terminal-overload.org/) - [GitHub Repo](https://github.com/fr1tz/terminal-overload) 
 Free and open-source first person shooter.
+- [Legions: Overdrive](http://www.legionsoverdrive.com) - [1](https://en.wikipedia.org/wiki/Legions:_Overdrive) formerly Fallen Empire: Legions was developed as a "spiritual successor" to Tribes. Is a fast paced Team Based FPS+Z with such games modes as Team Deathmatch, Rabbit, Team Rabbit, Hunters and of course the classic Capture the Flag.
 - [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
 - [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
@@ -171,6 +199,7 @@ No games released yet.
 
 
 ### Action Adventure Games
+- [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 - [Twisty's Asylum Escapades](http://asylumescapades.com) - [1](http://www.indiedb.com/games/twistys-asylum-escapades/) - [Store Steam](http://store.steampowered.com/app/506760/)  is a darkly fun action/adventure game with Metroidvania-like elements about a lovable floating brain monster trying to escape from an insane asylum.
 
 #### Survival Horror
@@ -187,10 +216,14 @@ No games released yet.
 ### RPG
 Role-playing games (RPG).
 
+- [Dead State](http://www.deadstate.doublebearproductions.com/) - [1](http://www.doublebearproductions.com/) - [Steam Store](http://store.steampowered.com/app/239840) Is a compelling, high-tension RPG set at the beginning of the zombie apocalypse, the player must organize a scant handful of allies, working on fortifying a shelter, scouting for food and supplies, making uncertain alliances with others.
 - [Frayed Knights: The Skull of S'makh-Daon](http://rampantgames.com/frayedknights/) - [Store Steam](http://store.steampowered.com/app/314120/) Featuring turn-based combat, old-school sensibilities, and a story of high adventure and comedy. 
+- [FreeRPG](https://freerpgproject.wordpress.com) - [FreeRPG Repo](https://gitlab.com/FreeRPG/FreeRPG) - [FreeRPG Engine](https://gitlab.com/FreeRPG/FreeRPG-Torque3D) - Is an idea to create a completely free and open-source RPG game, from game engine to all the assets included with the game.
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games.
 
 #### Action RPG
+
+- [Hinterland](http://www.tiltedmill.com/hinterland/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17140/) Loot, level and build with fast paced RPG combat and strategic base building! 
 
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
@@ -202,8 +235,6 @@ Massively multiplayer online role-playing games (MMORPGs)
 #### Tactical RPG
 
 #### Sandbox RPG
-- [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
-
 - [Life is Feudal: Your Own](http://lifeisfeudal.com/yo) - [Store Steam](http://store.steampowered.com/app/290080/) A truly hardcore sandbox RPG with captivating survival aspects. Described as a real life Medieval simulator.
 
 #### Fantasy
@@ -232,7 +263,9 @@ Multiplayer online battle arena (MOBA)
 Turn-based strategy (TBS)
 
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
+- [Dead State](http://www.deadstate.doublebearproductions.com/) - [1](http://www.doublebearproductions.com/) - [Steam Store](http://store.steampowered.com/app/239840) Is a compelling, high-tension RPG set at the beginning of the zombie apocalypse, the player must organize a scant handful of allies, working on fortifying a shelter, scouting for food and supplies, making uncertain alliances with others.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
+- [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
 
 #### TBT
 Turn-based tactics (TBT)
@@ -240,6 +273,7 @@ Turn-based tactics (TBT)
 ### Sports Games
 
 #### Racing
+- [Boost! - T3D Old-School racing](http://forums.torque3d.org/viewtopic.php?f=17&t=150&p=1310) Is a multiplayer racing game project that take it's major inspiration from good old arcade/NES game "SuperSprint" (In development)
 
 #### Sport fighting
 Sports-based fighting
@@ -254,17 +288,24 @@ Sports-based fighting
 #### Card Games
 - [Bellatorus Deluxe](http://www.garagegames.com/products/bellatorus) Is a strategic card game where you attempt to destroy your opponents tower while protecting your own. (Dead game) [Download Demo](http://demos.garagegames.com/pangus/Bellatorus_Win_ig_2.1.0.30.exe)
 
+#### Educational Games
+- [DimensionU](http://www.dimensionu.com/dimu/home/Games_Dimu.aspx) Multiplayer games with access to curriculum in both Math and Literacy, grades 3 – 9. Each game is designed with unique features to bring out distinct academic and strategic skills in students.
+
+#### Historical
+- [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
+
+#### Open World
+- [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
+
+#### Sandbox
+- [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
+
 ## Gui
 - [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 
 ## Modeling
-
-- [Monster Packs](http://www.monsterpacks.com)
-- [BAG_Buildingpack1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=7) These structures may look dirty, grungy and run-down, but they won’t let you down! You can use this pack to quickly design great looking urban scenes for your game or visual project. These are fully navigable buildings with stairs, balconies, windows, doorways and basements.
-- [MACK Lite](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=10) Just the character assets.
-- [old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
 
 ## Physics
 
@@ -302,6 +343,18 @@ Resources collections:
 - [EMACS](http://forums.torque3d.org/viewtopic.php?f=12&t=173&p=1483&hilit=emacs#p1483)
 - [Atom](https://github.com/portify/language-torquescript)
 
+## Store
+
+- [itch.io](https://itch.io/) An open marketplace for independent digital creators with a focus on independent video games. It’s a platform that enables anyone to sell the content they've created.
+- [Gumroad](https://gumroad.com) An all-in-one solution to sell your work and grow your audience.
+- http://www.desura.com/games
+- https://www.humblebundle.com/developer/widget
+- http://store.steampowered.com
+- https://www.gog.com/
+- https://indiegamestand.com
+- http://gamesplanet.com
+- https://www.greenmangaming.com/
+
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
 - [Shader Pack Vol 2](http://www.liman3d.com/shaderpackvol2_overview.html)
@@ -310,6 +363,7 @@ Resources collections:
 
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
 - [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
+- [How to compile Torque3D v3.9](http://forums.torque3d.org/viewtopic.php?f=12&t=713#p5913)
 
 ## Utilities
 
@@ -321,6 +375,9 @@ Resources collections:
 ### Tools
 
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
+
+- [TorqueProfTool](http://forums.torque3d.org/viewtopic.php?f=8&t=290) - [GitHub Repo](https://github.com/GuyAllard/TorqueProfTool) A tool for processing T3D profiler output.
+
 - [Male Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=3)
 - [Female Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=2)
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
