@@ -227,6 +227,7 @@ Role-playing games (RPG).
 - [Frayed Knights: The Skull of S'makh-Daon](http://rampantgames.com/frayedknights/) - [Store Steam](http://store.steampowered.com/app/314120/) Featuring turn-based combat, old-school sensibilities, and a story of high adventure and comedy. 
 - [FreeRPG](https://freerpgproject.wordpress.com) - [FreeRPG Repo](https://gitlab.com/FreeRPG/FreeRPG) - [FreeRPG Engine](https://gitlab.com/FreeRPG/FreeRPG-Torque3D) - Is an idea to create a completely free and open-source RPG game, from game engine to all the assets included with the game.
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games.
+- [The Age of Decadence]( http://irontowerstudio.com/age-of-decadence-news) - [1](http://irontowerstudio.com/) - [Store Steam](http://store.steampowered.com/app/230070/) A turn-based, isometric hardcore role-playing game set in a low magic, post-apocalyptic fantasy world. The game features a detailed skill-based character system, multiple skill-based ways to handle quests, choices & consequences, and extensive dialogue trees. 
 
 #### Action RPG
 
@@ -256,6 +257,8 @@ No games released yet.
 #### RTS
 Real-time strategy (RTS)
 
+- [Cyber-Wing](http://www.martianarctic.com/games/cyberwing/) - [1](https://sites.google.com/site/gamecyberwing/) It is a real-time strategy/action hybrid, where you build units like an RTS but must fly around and fight like in an action game. You capture bases and build and give orders such as attack and retreat to troops and ultimately destroy the enemy HQ to win the game. 
+
 #### RTT
 Real-time tactics (RTT)
 - [KingMania](http://kingmania.300ad.com) Quick action strategy game, is a fast and simple, yet challenging, game that will test your ability to make quick tactical decisions.
@@ -263,6 +266,8 @@ Real-time tactics (RTT)
 
 #### MOBA
 Multiplayer online battle arena (MOBA)
+
+- [Cyber-Wing](http://www.martianarctic.com/games/cyberwing/) - [1](https://sites.google.com/site/gamecyberwing/) It is a real-time strategy/action hybrid, where you build units like an RTS but must fly around and fight like in an action game. You capture bases and build and give orders such as attack and retreat to troops and ultimately destroy the enemy HQ to win the game. 
 
 #### Tower Defense
 - [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360) Combines elements of tower defense, RTS, and all-out multi-player mayhem to bring you a completely unique experience, delivered with a fun and funny not-so-old world style! 
@@ -274,6 +279,7 @@ Turn-based strategy (TBS)
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Dead State](http://www.deadstate.doublebearproductions.com/) - [1](http://www.doublebearproductions.com/) - [Steam Store](http://store.steampowered.com/app/239840) Is a compelling, high-tension RPG set at the beginning of the zombie apocalypse, the player must organize a scant handful of allies, working on fortifying a shelter, scouting for food and supplies, making uncertain alliances with others.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
+- [The Age of Decadence]( http://irontowerstudio.com/age-of-decadence-news) - [1](http://irontowerstudio.com/) - [Store Steam](http://store.steampowered.com/app/230070/) A turn-based, isometric hardcore role-playing game set in a low magic, post-apocalyptic fantasy world. The game features a detailed skill-based character system, multiple skill-based ways to handle quests, choices & consequences, and extensive dialogue trees. 
 - [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
 
 #### TBT
@@ -370,6 +376,9 @@ Resources collections:
 - [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
 - [How to compile Torque3D v3.9](http://forums.torque3d.org/viewtopic.php?f=12&t=713#p5913)
 - [CoinCollectionTutorial](https://github.com/lukaspj/Torque3D-Tutorials)
+- [Documentation](http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
+- [Torque Developer Network (TDN)](http://tdn.garagegames.com/wiki/TDN_Home) Online documentation site for GarageGames technologies.
+- [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
 
 ## Utilities
 
