@@ -15,6 +15,7 @@ Suggestions and contributions are always welcome!
 * [Camera](#camera)
 * [Development](#development)
 * [Entity](#entity)
+* [FX](#fx)
 * [Games](#games)
   * [Action Games](#action-games)
     * [Platform games](#platform-games)
@@ -46,10 +47,14 @@ Suggestions and contributions are always welcome!
     * [Racing](#racing)
     * [Sports-based fighting](#sport-fighting)
   * [Other genres](#other-genres)
+* [GUI](#gui)
+* [IDEs](#ides)
+   * [Editors](#editors)
+      * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
 * [Input](#input)
+* [Lighting](#lighting)
 * [Modeling](#modeling)
 * [Monetization](#monetization)
-* [Lighting](#lighting)
 * [Networking](#networking)
 * [Physics](#physics)
 * [Resources] (#resources)
@@ -57,13 +62,10 @@ Suggestions and contributions are always welcome!
 * [Scripting](#scripting)
 * [Shaders](#shaders)
 * [Testing](#testing)
-* [Tweening](#tweening)
-* [GUI](#gui)
-* [Utilities](#utilities)
 * [Tutorials](#tutorials)
-* [IDEs](#ides)
-   * [Editors](#editors)
-      * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
+* [Tweening](#tweening)
+* [Utilities](#utilities)
+   * [Tools](#tools)
 
 ## AI
 
@@ -73,6 +75,11 @@ Artificial Intelligence
 - [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) Behavior Tree System.
 - [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
 - [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
+- [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
+
+## Animation
+[AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
+
 
 ## Camera
 Cinematics and Cutscenes.
@@ -84,7 +91,15 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
-- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
+- [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
+
+## FX
+
+Special Effects & Particles
+
+- [ArcaneFX](https://github.com/faustlogic/Torque3D-plus-AFX) - [1](https://github.com/John3/faustlogic-Torque3D-plus-AFX) - [2](http://www.faustlogic.com/preview/arcanefx/) Is the long running and popular special effects
+- [ArcaneFX for T3D v3.8](https://github.com/Azaezel/Torque3D/tree/afx3.8_DX11) - ArcaneFX for Torque3D v3.8 and DX11
+
 
 ## Games
 
@@ -219,16 +234,26 @@ Sports-based fighting
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 
+## Modeling
+
+- [Monster Packs](http://www.monsterpacks.com)
+- [BAG_Buildingpack1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=7) These structures may look dirty, grungy and run-down, but they won’t let you down! You can use this pack to quickly design great looking urban scenes for your game or visual project. These are fully navigable buildings with stairs, balconies, windows, doorways and basements.
+- [MACK Lite](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=10) Just the character assets.
+- [old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
+
 ## Physics
+
+- [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere..
 
 Game Mechanics Kit (GMK) Provides functionality and tools for programmers and game designers to script and edit the mechanics of game process in very easy and visual way. Include PHYSICS PACK for full scale physics with rigid bodies and ragdoll and CUT SCENE EDITOR full featured editor that makes creation of in game Cut Scenes easy and straightforward
 
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
-- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
+- [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
 
 
 ## Resources
+
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
@@ -252,3 +277,29 @@ Resources collections:
 - [EMACS](http://forums.torque3d.org/viewtopic.php?f=12&t=173&p=1483&hilit=emacs#p1483)
 - [Atom](https://github.com/portify/language-torquescript)
 
+## Shaders
+- [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
+- [Shader Pack Vol 2](http://www.liman3d.com/shaderpackvol2_overview.html)
+
+## Utilities
+
+- [3D Action Adventure Kit](http://ubiqvisuals.com/index.php?option=com_content&view=article&id=49&Itemid=61)
+- [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere..
+- [The Modern Air Combat Starter Kit (MACSK)](https://www.ignition-games.com/store/viewProduct.php?id=1) - [Register first](https://store.ignition-games.com/store/register.php) A starter kit for the Torque 3D engine that gives developers all the basics to start their own air combat game.
+- [PGD Ultimate Torque Pack](http://www.phantomdev.net/Torque3D/Bundle1/index.php) You'll have access to all of our packs we have created, including the Multiplayer Assembly Package, the Dynamic Weather Pack, the Advanced FPS Kit, and all of the T3D Micro Packs we have created.
+
+### Tools
+
+- [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
+- [Male Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=3)
+- [Female Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=2)
+- [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
+
+RPG & MMORPGs Games
+- [RPG Tool Kit](https://gumroad.com/12catblack)
+- [RPG Art Starter Pack](http://www.turbosquid.com/Search/Artists/shoiko)
+- [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
+- [MyRPG Master](http://store.steampowered.com/app/329890/) Is a software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. 
+
+
+Note: For the pay old products that is still around. Not expect so much support.
