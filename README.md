@@ -80,11 +80,11 @@ Cinematics and Cutscenes.
 - [Verve Official repo](https://github.com/AnteSim/Verve) - [1](https://github.com/John3/Verve)
 - [Verve for T3D v3.5](https://github.com/J0linar/Verve) - [1](https://github.com/John3/J0linar-Verve) - [2](http://www.garagegames.com/community/blogs/view/22554)
 
-Game Mechanics Kit have a cutscenes integrated.
+Game Mechanics Kit (GMK) Provides functionality and tools for programmers and game designers to script and edit the mechanics of game process in very easy and visual way. Include PHYSICS PACK for full scale physics with rigid bodies and ragdoll and CUT SCENE EDITOR full featured editor that makes creation of in game Cut Scenes easy and straightforward
 
-- [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK)
+- [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
-- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728]T3D)
+- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
 
 ## Games
 
@@ -221,9 +221,11 @@ Sports-based fighting
 
 ## Physics
 
-- [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK)
+Game Mechanics Kit (GMK) Provides functionality and tools for programmers and game designers to script and edit the mechanics of game process in very easy and visual way. Include PHYSICS PACK for full scale physics with rigid bodies and ragdoll and CUT SCENE EDITOR full featured editor that makes creation of in game Cut Scenes easy and straightforward
+
+- [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
-- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728]T3D)
+- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
 
 
 ## Resources
