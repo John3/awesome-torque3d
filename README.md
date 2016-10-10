@@ -54,7 +54,7 @@ Suggestions and contributions are always welcome!
 * [GUI](#gui)
 * [IDEs](#ides)
    * [Editors](#editors)
-      * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
+   * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
 * [Input](#input)
 * [Lighting](#lighting)
 * [Modeling](#modeling)
@@ -99,7 +99,7 @@ Artificial Intelligence
 - [MACK Lite](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=10) Just the character assets.
 
 ## Virtual Reality
-- [Occulus Rift DK2 & OpenVR] - https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
+- [Occulus Rift DK2 & OpenVR](https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate) - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
 
 ## Animation
 - [AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
@@ -133,7 +133,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
-- [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
+- [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728) T3D v2.0 + Bullet
 
 ## Development
 
@@ -285,6 +285,7 @@ Sports-based fighting
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
 - [CubistMT](http://joticarroll.github.io/Torque3D) - [GitHub Repo](https://github.com/joticarroll/Torque3D) - [Video](http://www.youtube.com/watch?v=lBv4S4ogXdE) Interactive and educational virtual reef. "The Reef" designed to represent a sample of the diversity of life on the Great Barrier Reef and be engaging to the general public and potential students. Note: Torque3D modification.
+
 #### Card Games
 - [Bellatorus Deluxe](http://www.garagegames.com/products/bellatorus) Is a strategic card game where you attempt to destroy your opponents tower while protecting your own. (Dead game) [Download Demo](http://demos.garagegames.com/pangus/Bellatorus_Win_ig_2.1.0.30.exe)
 
@@ -315,8 +316,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
 - [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
-- [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728)
-
+- [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728) T3D v2.0 + Bullet
 
 ## Resources
 
