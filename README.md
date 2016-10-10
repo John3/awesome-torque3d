@@ -69,7 +69,7 @@ Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 ### Action Games
 
 - [Bit Shifter](http://bitshiftergame.com) - [1](http://plasticgames.com) - [Store Steam](http://store.steampowered.com/app/393170)  Is a full-featured game sporting novel gameplay. It is a 3D action/strategy game where you fly a hover-ship that can pickup, place, and heal your robotic soldiers; soldiers ready to fight in the war against the virus threatening your PC.
-- [Buccaneer: The Pursuit of Infamy] - [1](http://www.co-optimus.com/review/283/buccaneer-the-pursuit-of-infamy-co-op-review.html) - [Video](https://www.youtube.com/watch?v=pSpmYcwJFGo) - [Store](https://www.greenmangaming.com/games/buccaneer-the-pursuit-of-infamy)
+- [Buccaneer: The Pursuit of Infamy](http://www.garagegames.com/community/blogs/view/15757) - [1](http://www.co-optimus.com/review/283/buccaneer-the-pursuit-of-infamy-co-op-review.html) - [Forum](http://steamcommunity.com/app/23100) - [Video](https://www.youtube.com/watch?v=pSpmYcwJFGo) - [Store](https://www.greenmangaming.com/games/buccaneer-the-pursuit-of-infamy)
 Become a famous pirate, sailing the seas and owning the biggest and baddest ship on the block. All the while you'll need to manage your crew's morale, upkeep and upgrade your ship, and of course - get the booty, er, infamy. (Dead game)
 
 #### Platform Games
