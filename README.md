@@ -52,6 +52,7 @@ Suggestions and contributions are always welcome!
 * [Lighting](#lighting)
 * [Networking](#networking)
 * [Physics](#physics)
+* [Resources] (#resources)
 * [Serialization](#serialization)
 * [Scripting](#scripting)
 * [Shaders](#shaders)
@@ -62,7 +63,7 @@ Suggestions and contributions are always welcome!
 * [Tutorials](#tutorials)
 * [IDEs](#ides)
    * [Editors](#editors)
-* [TorqueScript syntax highlighting](#tshighlighting)
+      * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
 
 ## AI
 
@@ -72,6 +73,18 @@ Artificial Intelligence
 - [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) Behavior Tree System.
 - [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
 - [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
+
+## Camera
+Cinematics and Cutscenes.
+
+- [Verve Official repo](https://github.com/AnteSim/Verve) - [1](https://github.com/John3/Verve)
+- [Verve for T3D v3.5](https://github.com/J0linar/Verve) - [1](https://github.com/John3/J0linar-Verve) - [2](http://www.garagegames.com/community/blogs/view/22554)
+
+Game Mechanics Kit have a cutscenes integrated.
+
+- [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK)
+- [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
+- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728]T3D)
 
 ## Games
 
@@ -206,6 +219,19 @@ Sports-based fighting
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 
+## Physics
+
+- [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK)
+- [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
+- [GMK foc T3D v2.0 + Bullet](https://github.com/John3/T3D_GMK_BULLET) T3D v2.0 + Bullet - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728]T3D)
+
+
+## Resources
+Resources collections:
+- [GarageGames Resources](http://www.garagegames.com/community/resources)
+- [A big hole of resources](http://abighole.hngamers.com)
+- [Assimilating GG Resources for FPS](http://www.garagegames.com/community/blogs/view/15915)
+- [The big addon thread!](http://www.garagegames.com/community/forums/viewthread/131140)
 
 ## IDEs
 - [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods.
@@ -217,7 +243,7 @@ Sports-based fighting
 
 
 ### Editors
-TorqueScript syntax highlighting.
+#### TorqueScript syntax highlighting
 
 - [Notepad++](https://forum.blockland.us/index.php?topic=152179.0) - [Download](https://drive.google.com/file/d/0B79CdBHH7jyoZGM3ZGIyNzUtZGRiMS00ZDE3LWE3NDQtNjhhNmQyMzA4NWFm)
 - [vim](https://github.com/crabmusket/vim-torquescript) - [1](http://www.garagegames.com/community/resources/view/22242)
