@@ -143,6 +143,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 - [Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [1](https://github.com/John3/Torque3D_Unofficial/releases)
 - [Torque3D Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751&p=6248#p6229)
+- [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 
 ## FX
 
@@ -204,7 +205,7 @@ No games released yet.
 - [Undead Shadows](http://www.undeadshadows.com) - [1](https://www.ignition-games.com/) - [2](http://ignitiongames.tumblr.com/) - [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
 
 
-### Action Adventure Games
+### Action Adventure
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 - [Twisty's Asylum Escapades](http://asylumescapades.com) - [1](http://www.indiedb.com/games/twistys-asylum-escapades/) - [Store Steam](http://store.steampowered.com/app/506760/)  is a darkly fun action/adventure game with Metroidvania-like elements about a lovable floating brain monster trying to escape from an insane asylum.
 
@@ -355,13 +356,9 @@ Resources collections:
 
 - [itch.io](https://itch.io/) An open marketplace for independent digital creators with a focus on independent video games. It’s a platform that enables anyone to sell the content they've created.
 - [Gumroad](https://gumroad.com) An all-in-one solution to sell your work and grow your audience.
-- http://www.desura.com/games
-- https://www.humblebundle.com/developer/widget
-- http://store.steampowered.com
-- https://www.gog.com/
-- https://indiegamestand.com
-- http://gamesplanet.com
-- https://www.greenmangaming.com/
+- [Humble  Bundle Developer Resources](https://www.humblebundle.com/developer/) We want to share Humble Bundle's experience and scale to help every developer make more games and reach more customers. 
+- [Steam Greenlight](http://steamcommunity.com/greenlight) - [Submission Fee](http://store.steampowered.com/app/219820) Is a system that enlists the community's help in picking some of the new games to be released on Steam
+- [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
