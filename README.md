@@ -68,6 +68,10 @@ Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 
 ### Action Games
 
+- [Bit Shifter](http://bitshiftergame.com) - [1](http://plasticgames.com) - [Store Steam](http://store.steampowered.com/app/393170)  Is a full-featured game sporting novel gameplay. It is a 3D action/strategy game where you fly a hover-ship that can pickup, place, and heal your robotic soldiers; soldiers ready to fight in the war against the virus threatening your PC.
+- [Buccaneer: The Pursuit of Infamy] - [1](http://www.co-optimus.com/review/283/buccaneer-the-pursuit-of-infamy-co-op-review.html) - [Video](https://www.youtube.com/watch?v=pSpmYcwJFGo) - [Store](https://www.greenmangaming.com/games/buccaneer-the-pursuit-of-infamy)
+Become a famous pirate, sailing the seas and owning the biggest and baddest ship on the block. All the while you'll need to manage your crew's morale, upkeep and upgrade your ship, and of course - get the booty, er, infamy. (Dead game)
+
 #### Platform Games
 
 #### Shooter Games
@@ -96,49 +100,72 @@ No games released yet.
 
 #### Stealth game
 
-No stealth games released yet.
+No games released yet.
 
 #### Survival games
 - [Undead Shadows](http://www.undeadshadows.com) - [1](https://www.ignition-games.com/) - [2](http://ignitiongames.tumblr.com/) - [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
 
 
 ### Action Adventure Games
+- [Twisty's Asylum Escapades](http://asylumescapades.com) - [1](http://www.indiedb.com/games/twistys-asylum-escapades/) - [Store Steam](http://store.steampowered.com/app/506760/)  is a darkly fun action/adventure game with Metroidvania-like elements about a lovable floating brain monster trying to escape from an insane asylum.
+
 #### Survival Horror
+
+No games released yet.
 
 ### Adventure Games
 
 ### Simulation games
+
 #### Vehicle Simulation
-- [BeamNG](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior.
+- [BeamNG.drive](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior. Note: Has Torque3D modification.
 
 ### RPG
+Role-playing games (RPG).
+
+- [Frayed Knights: The Skull of S'makh-Daon](http://rampantgames.com/frayedknights/) - [Store Steam](http://store.steampowered.com/app/314120/) Featuring turn-based combat, old-school sensibilities, and a story of high adventure and comedy. 
+- [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890)  Software for the creation of your own role playing 3D worlds, is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games.
+
 #### Action RPG
+
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
-- [Life is Feudal: Your Own](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
+- [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 
 #### Tactical RPG
 
 #### Sandbox RPG
+- [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
 
 - [Life is Feudal: Your Own](http://lifeisfeudal.com/yo) - [Store Steam](http://store.steampowered.com/app/290080/) A truly hardcore sandbox RPG with captivating survival aspects. Described as a real life Medieval simulator.
 
 #### Fantasy
 
+- [The Master's Eye](http://www.richardsgamestudio.com/games.html) Is a first person, role-playing game in a fantasy and medieval setting and takes place in the lands of Ishkandragh.
+- [World of Antra](http://www.worldofantra.com)  is a fantasy MMORPG where players are dropped into the world and left to explore vast landscapes under their own direction. World of Antra draws inspiration from MUDs rather than traditional MMORPG.
+
 ### Strategy Games
+
 #### RTS
 Real-time strategy (RTS)
+
 #### RTT
 Real-time tactics (RTT)
+- [KingMania](http://kingmania.300ad.com) Quick action strategy game, is a fast and simple, yet challenging, game that will test your ability to make quick tactical decisions.
+- [KingMania Advanced](http://kingmania.300ad.com/#kingmania_advanced) Is a version of KingMania with shaders for Windows with DirectX 9.0c.
+
 #### MOBA
 Multiplayer online battle arena (MOBA)
+
 #### Tower Defense
-- [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360)
+- [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360) Combines elements of tower defense, RTS, and all-out multi-player mayhem to bring you a completely unique experience, delivered with a fun and funny not-so-old world style! 
 - [Monoliths of Terravia](http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
 
 #### TBS
 Turn-based strategy (TBS)
+
+- [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
 
 #### TBT
 Turn-based tactics (TBT)
@@ -150,7 +177,9 @@ Turn-based tactics (TBT)
 #### Sport fighting
 Sports-based fighting
 
-- [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350)
+- [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
+- [Metal Drift](http://www.metaldrift.com/) - [Store Steam](http://store.steampowered.com/app/32200/) Is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena.
 
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
+- [CubistMT](http://joticarroll.github.io/Torque3D) - [GitHub Repo](https://github.com/joticarroll/Torque3D) - [Video](http://www.youtube.com/watch?v=lBv4S4ogXdE) Interactive and educational virtual reef. "The Reef" designed to represent a sample of the diversity of life on the Great Barrier Reef and be engaging to the general public and potential students. Note: Torque3D modification.
