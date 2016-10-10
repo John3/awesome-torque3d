@@ -78,8 +78,26 @@ Artificial Intelligence
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
 
 ## Animation
-[AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
+- [AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
 
+## Books
+
+- The Game Programmer's Guide to Torque: Under the Hood of the Torque Game Engine - April 15, 2006
+by Edward F. Maurina III
+
+- Torque for Teens, 2nd Edition - July 16, 2010 by Michael Duggan
+
+- 3D Game Programming All in One, Third Edition - December 3, 2012 by Kenneth C Finney
+
+- Advanced 3D Game Programming All in One - August 24, 2005 by Kenneth C Finney
+
+- Creating Game Art for 3D Engines - September 21, 2007 by Brad Strong
+
+- Torque 3D Game Development Cookbook - Jan 25, 2013 by David Wyand
+
+- Multiplayer Gaming and Engine Coding for the Torque Game Engine - May 9, 2008 by Edward F. Maurina
+
+- [The Ultimate Guide to Torque 3D - Apr 22, 2015 by Robert Fritzen](www.phantomdev.net/Torque3D/Micro/guide.php) - [preview](www.phantomdev.net/staff/phantom139/public/RFT3DGuide_PREV.pdf) A massive resource collection of tutorials and guides to teach everyone. Topics included in this first edition are: 'The World Editor', 'The GUI Editor', 'Basic & Advanced TorqueScript', 'Basic - Advanced C++', 'Wiring Techniques', and much more!
 
 ## Camera
 Cinematics and Cutscenes.
@@ -168,7 +186,7 @@ No games released yet.
 Role-playing games (RPG).
 
 - [Frayed Knights: The Skull of S'makh-Daon](http://rampantgames.com/frayedknights/) - [Store Steam](http://store.steampowered.com/app/314120/) Featuring turn-based combat, old-school sensibilities, and a story of high adventure and comedy. 
-- [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890)  Software for the creation of your own role playing 3D worlds, is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games.
+- [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games.
 
 #### Action RPG
 
@@ -299,7 +317,7 @@ RPG & MMORPGs Games
 - [RPG Tool Kit](https://gumroad.com/12catblack)
 - [RPG Art Starter Pack](http://www.turbosquid.com/Search/Artists/shoiko)
 - [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
-- [MyRPG Master](http://store.steampowered.com/app/329890/) Is a software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. 
+- [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games. 
 
 
 Note: For the pay old products that is still around. Not expect so much support.
