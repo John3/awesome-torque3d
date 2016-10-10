@@ -146,6 +146,8 @@ Special Effects & Particles
 
 - [ArcaneFX](https://github.com/faustlogic/Torque3D-plus-AFX) - [1](https://github.com/John3/faustlogic-Torque3D-plus-AFX) - [2](http://www.faustlogic.com/preview/arcanefx/) Is the long running and popular special effects
 - [ArcaneFX for T3D v3.8](https://github.com/Azaezel/Torque3D/tree/afx3.8_DX11) - ArcaneFX for Torque3D v3.8 and DX11
+- [IPS Lite](https://github.com/lukaspj/IPS-Lite-for-T3D) An advanced particle system featuring GraphEmitters and MeshEmitters.
+- [Spellcasting system](https://github.com/lukaspj/Spellcasting-system-T3D) A basic spellcasting system based on the IPS Lite.
 
 
 ## Games
@@ -364,6 +366,7 @@ Resources collections:
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
 - [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
 - [How to compile Torque3D v3.9](http://forums.torque3d.org/viewtopic.php?f=12&t=713#p5913)
+- [CoinCollectionTutorial](https://github.com/lukaspj/Torque3D-Tutorials)
 
 ## Utilities
 
