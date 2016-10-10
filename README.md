@@ -51,6 +51,10 @@ Suggestions and contributions are always welcome!
     * [Sports-based fighting](#sport-fighting)
   * [Other genres](#other-genres)
       * [Card Games](#card-games)
+      * [Educational Games](#educational-games)
+      * [Historical Games](#historical-games)
+      * [Open World Games](#open-world-games)
+      * [Sandbox Games](#sandbox-games)
 * [GUI](#gui)
 * [IDEs](#ides)
    * [Editors](#editors)
@@ -236,6 +240,8 @@ Massively multiplayer online role-playing games (MMORPGs)
 
 #### Tactical RPG
 
+No games released yet.
+
 #### Sandbox RPG
 - [Life is Feudal: Your Own](http://lifeisfeudal.com/yo) - [Store Steam](http://store.steampowered.com/app/290080/) A truly hardcore sandbox RPG with captivating survival aspects. Described as a real life Medieval simulator.
 
@@ -294,13 +300,13 @@ Sports-based fighting
 #### Educational Games
 - [DimensionU](http://www.dimensionu.com/dimu/home/Games_Dimu.aspx) Multiplayer games with access to curriculum in both Math and Literacy, grades 3 – 9. Each game is designed with unique features to bring out distinct academic and strategic skills in students.
 
-#### Historical
+#### Historical Games
 - [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
 
-#### Open World
+#### Open World Games
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 
-#### Sandbox
+#### Sandbox Games
 - [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
 
 ## Gui
