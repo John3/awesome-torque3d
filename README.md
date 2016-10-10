@@ -73,6 +73,7 @@ Artificial Intelligence
 
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
 - [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) Behavior Tree System.
+- [Basic AI Kit](http://www.mediafire.com/file/wcx237eausekut2/Basic_AI_Kit.zip)
 - [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
 - [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
@@ -82,22 +83,22 @@ Artificial Intelligence
 
 ## Books
 
-- The Game Programmer's Guide to Torque: Under the Hood of the Torque Game Engine - April 15, 2006
-by Edward F. Maurina III
+- [The Game Programmer's Guide to Torque: Under the Hood of the Torque Game Engine - April 15, 2006
+by Edward F. Maurina III](https://www.amazon.com/gp/product/1568812841) - [support materials](https://github.com/roaminggamer/GPGT-Support)
 
-- Torque for Teens, 2nd Edition - July 16, 2010 by Michael Duggan
+- [Torque for Teens, 2nd Edition - July 16, 2010 by Michael Duggan](https://www.amazon.com/Torque-Teens-Michael-Duggan/dp/1435456424)
 
-- 3D Game Programming All in One, Third Edition - December 3, 2012 by Kenneth C Finney
+- [3D Game Programming All in One, Third Edition - December 3, 2012 by Kenneth C Finney](https://www.amazon.com/Game-Programming-All-One-Third/dp/1435457447) - [1](https://www.garagegames.com/community/forums/viewthread/18132)
 
-- Advanced 3D Game Programming All in One - August 24, 2005 by Kenneth C Finney
+- [Advanced 3D Game Programming All in One - August 24, 2005 by Kenneth C Finney](https://www.amazon.com/Advanced-Game-Programming-All-One/dp/1592007333)
 
-- Creating Game Art for 3D Engines - September 21, 2007 by Brad Strong
+- [Creating Game Art for 3D Engines - September 21, 2007 by Brad Strong](https://www.amazon.com/dp/158450548)
 
-- Torque 3D Game Development Cookbook - Jan 25, 2013 by David Wyand
+- [Torque 3D Game Development Cookbook - Jan 25, 2013 by David Wyand](https://www.packtpub.com/game-development/torque-3d-game-development-cookbook) - [1](https://www.amazon.com/Torque-3D-Game-Development-Cookbook/dp/1849693544) - [2](https://www.garagegames.com/community/blogs/view/22146)
 
-- Multiplayer Gaming and Engine Coding for the Torque Game Engine - May 9, 2008 by Edward F. Maurina
+- [Multiplayer Gaming and Engine Coding for the Torque Game Engine - May 9, 2008 by Edward F. Maurina](https://www.amazon.com/Multiplayer-Gaming-Engine-Coding-Torque/dp/1568814224) - [1](http://www.garagegames.com/community/blogs/view/14494) - [support materials](https://github.com/roaminggamer/MGEC-Support)
 
-- [The Ultimate Guide to Torque 3D - Apr 22, 2015 by Robert Fritzen](www.phantomdev.net/Torque3D/Micro/guide.php) - [preview](www.phantomdev.net/staff/phantom139/public/RFT3DGuide_PREV.pdf) A massive resource collection of tutorials and guides to teach everyone. Topics included in this first edition are: 'The World Editor', 'The GUI Editor', 'Basic & Advanced TorqueScript', 'Basic - Advanced C++', 'Wiring Techniques', and much more!
+- [The Ultimate Guide to Torque 3D - Apr 22, 2015 by Robert Fritzen](http://www.phantomdev.net/Torque3D/Micro/guide.php) - [preview](http://www.phantomdev.net/staff/phantom139/public/RFT3DGuide_PREV.pdf) A massive resource collection of tutorials and guides to teach everyone. Topics included in this first edition are: 'The World Editor', 'The GUI Editor', 'Basic & Advanced TorqueScript', 'Basic - Advanced C++', 'Wiring Techniques', and much more!
 
 ## Camera
 Cinematics and Cutscenes.
@@ -298,6 +299,11 @@ Resources collections:
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
 - [Shader Pack Vol 2](http://www.liman3d.com/shaderpackvol2_overview.html)
+
+## Tutorials
+
+- [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
+- [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
 
 ## Utilities
 
