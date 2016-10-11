@@ -425,6 +425,15 @@ Documentation & Tutorials
 - [Torque Developer Network (TDN)](http://tdn.garagegames.com/wiki/TDN_Home) Online documentation site for GarageGames technologies.
 - [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
 - [T3D Documentation by RichardRanft](https://github.com/RichardRanft/Torque3D-Documentation)
+- [CodeSamples Tutorials](http://www.codesampler.com/torque.htm)
+
+## Tweening
+
+Easing/Tweening system
+
+- [Twillex](https://sourceforge.net/projects/twillex/) - [1](https://github.com/John3/Twillex) - [wiki](https://sourceforge.net/p/twillex/wiki/Home/) - [1](https://www.garagegames.com/community/resources/view/21480)
+- [Animation Threads](http://garagegames.com/community/resources/view/14856)
+- [Ease](http://www.garagegames.com/community/resources/view/14863)
 
 ## Utilities
 
