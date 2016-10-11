@@ -99,6 +99,7 @@ Artificial Intelligence
 - [the3dmodelstore](http://www.the3dmodelstore.com/free.php)
 - [old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
 - [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
+- [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu#) These textures are made in substance designer(procedural texture)
 
 ### Pay assets
 
@@ -242,6 +243,7 @@ Role-playing games (RPG).
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
+- [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 - [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
@@ -255,6 +257,7 @@ No games released yet.
 
 #### Fantasy
 
+- [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
 - [The Master's Eye](http://www.richardsgamestudio.com/games.html) Is a first person, role-playing game in a fantasy and medieval setting and takes place in the lands of Ishkandragh.
 - [World of Antra](http://www.worldofantra.com)  is a fantasy MMORPG where players are dropped into the world and left to explore vast landscapes under their own direction. World of Antra draws inspiration from MUDs rather than traditional MMORPG.
 
@@ -330,8 +333,6 @@ Sports-based fighting
 ## Modeling
 
 ## Monetization
-
-- [Torque3D GratiPay](https://gratipay.com/torque3d/)
  
 ## Physics
 
@@ -351,6 +352,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
 - [Save and Load Game System](http://www.garagegames.com/community/resources/view/21450)
 - [Starter.Racing](http://forums.torque3d.org/viewtopic.php?f=23&t=821) - [GitHub Repo](https://github.com/yourarcade/torque/tree/master/t3d/resources/starter.racing) Slightly enhanced port of the original TGE starter.racing demo.
+- [Hover Vehicle](http://forums.torque3d.org/viewtopic.php?f=12&t=605#p5027) - Download: [1](https://www.mediafire.com/?paehuce9926sx1e)
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -382,6 +384,10 @@ Resources collections:
 - [Humble  Bundle Developer Resources](https://www.humblebundle.com/developer/) We want to share Humble Bundle's experience and scale to help every developer make more games and reach more customers. 
 - [Steam Greenlight](http://steamcommunity.com/greenlight) - [Submission Fee](http://store.steampowered.com/app/219820) Is a system that enlists the community's help in picking some of the new games to be released on Steam
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
+
+## Scripting
+
+- [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
 
 ## Social
 
