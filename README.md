@@ -67,13 +67,16 @@ Suggestions and contributions are always welcome!
 * [Physics](#physics)
 * [Resources] (#resources)
 * [Serialization](#serialization)
+* [Social](#social)
 * [Scripting](#scripting)
 * [Shaders](#shaders)
 * [Testing](#testing)
+* [Terrain](#terrain)
 * [Tutorials](#tutorials)
 * [Tweening](#tweening)
 * [Utilities](#utilities)
    * [Tools](#tools)
+   * [RPG & MMORPGs](rpg-&-mmorpgs)
 
 ## AI
 
@@ -95,6 +98,7 @@ Artificial Intelligence
 - [Art by Duion](http://opengameart.org/users/duion) - [Textures](http://duion.com/art/main)
 - [the3dmodelstore](http://www.the3dmodelstore.com/free.php)
 - [old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
+- [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
 
 ### Pay assets
 
@@ -144,6 +148,8 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [1](https://github.com/John3/Torque3D_Unofficial/releases)
 - [Torque3D Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751&p=6248#p6229)
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
+- [IPV6 Support](http://forums.torque3d.org/viewtopic.php?f=10&t=819) - [GitHub Repo](https://github.com/jamesu/Torque3D/tree/ipv6_support) ipv6 support for the T3D (and T2D) networking.
+- [Mac OSX support](http://forums.torque3d.org/viewtopic.php?f=40&t=815) Initial setup for Mac OSX support.
 
 ## FX
 
@@ -323,6 +329,10 @@ Sports-based fighting
 
 ## Modeling
 
+## Monetization
+
+- [Torque3D GratiPay](https://gratipay.com/torque3d/)
+ 
 ## Physics
 
 - [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere..
@@ -334,6 +344,13 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728) T3D v2.0 + Bullet
 
 ## Resources
+
+- [Extended GuiObjectView](https://github.com/Will-of-the-Wisp/Resources/tree/Extended-GuiObjectView) - [1](http://www.willowispgames.com/) - [Forum](http://forums.torque3d.org/viewtopic.php?f=26&t=809) An extension to the GuiObjectView class.
+- [Fading Gui Controls](https://github.com/Will-of-the-Wisp/Resources/tree/Fading-Gui-Controls) - [1](http://www.willowispgames.com/) New gui control classes that support fading via custom rendering code and script commands.
+- [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
+- [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
+- [Save and Load Game System](http://www.garagegames.com/community/resources/view/21450)
+- [Starter.Racing](http://forums.torque3d.org/viewtopic.php?f=23&t=821) - [GitHub Repo](https://github.com/yourarcade/torque/tree/master/t3d/resources/starter.racing) Slightly enhanced port of the original TGE starter.racing demo.
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -366,11 +383,33 @@ Resources collections:
 - [Steam Greenlight](http://steamcommunity.com/greenlight) - [Submission Fee](http://store.steampowered.com/app/219820) Is a system that enlists the community's help in picking some of the new games to be released on Steam
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 
+## Social
+
+Torque3D
+- [Main Site](http://www.torque3d.org)
+- [Forum](http://forums.torque3d.org)
+- [Wiki](http://wiki.torque3d.org)
+- [Twitter](https://twitter.com/Torque_3D_MIT)
+- [Facebook](https://www.facebook.com/Torque3D)
+- IndieDB: [T3D](http://www.indiedb.com/engines/torque-3d) - [TGEA](http://www.indiedb.com/engines/torque-game-engine-advanced) - [TGE](http://www.indiedb.com/engines/torque-game-engine)
+- [GratiPay](https://gratipay.com/torque3d/)
+
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
 - [Shader Pack Vol 2](http://www.liman3d.com/shaderpackvol2_overview.html)
+- [Outline Shader](http://forums.torque3d.org/viewtopic.php?f=27&t=560#p4824)
+- [Toon Shading](http://forums.torque3d.org/viewtopic.php?f=27&t=560#p4776)
+- [Sun glare/screen dirt shader](http://www.garagegames.com/community/resource/view/22785) - [1](http://forums.torque3d.org/viewtopic.php?f=10&t=698)
+
+## Terrain
+
+- [Terrain edge seams](http://forums.torque3d.org/viewtopic.php?f=9&t=722#p5992) - [GitHub](https://github.com/GarageGames/Torque3D/pull/1542)
+- [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
+
 
 ## Tutorials
+
+Documentation & Tutorials
 
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
 - [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
@@ -379,6 +418,7 @@ Resources collections:
 - [Documentation](http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
 - [Torque Developer Network (TDN)](http://tdn.garagegames.com/wiki/TDN_Home) Online documentation site for GarageGames technologies.
 - [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
+- [T3D Documentation by RichardRanft](https://github.com/RichardRanft/Torque3D-Documentation)
 
 ## Utilities
 
@@ -390,17 +430,20 @@ Resources collections:
 ### Tools
 
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
-
 - [TorqueProfTool](http://forums.torque3d.org/viewtopic.php?f=8&t=290) - [GitHub Repo](https://github.com/GuyAllard/TorqueProfTool) A tool for processing T3D profiler output.
-
 - [Male Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=3)
 - [Female Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=2)
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
 
-RPG & MMORPGs Games
+Level Editor
+- [Trenchbroom](http://forums.torque3d.org/viewtopic.php?f=25&t=600) - [main site](http://kristianduske.com/trenchbroom/)
+- [LevelBuddy](http://forums.torque3d.org/viewtopic.php?f=25&t=639) - [main site](https://matt-lucas.itch.io/level-buddy)
+
+### RPG & MMORPGs
 - [RPG Tool Kit](https://gumroad.com/12catblack)
 - [RPG Art Starter Pack](http://www.turbosquid.com/Search/Artists/shoiko)
 - [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
+- [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games. 
 
 
