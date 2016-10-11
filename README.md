@@ -336,7 +336,8 @@ Sports-based fighting
  
 ## Physics
 
-- [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere..
+- [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere...
+- [Creating Physics Shapes](http://www.garagegames.com/community/forums/viewthread/119211)
 
 Game Mechanics Kit (GMK) Provides functionality and tools for programmers and game designers to script and edit the mechanics of game process in very easy and visual way. Include PHYSICS PACK for full scale physics with rigid bodies and ragdoll and CUT SCENE EDITOR full featured editor that makes creation of in game Cut Scenes easy and straightforward
 
@@ -406,6 +407,9 @@ Torque3D
 - [Outline Shader](http://forums.torque3d.org/viewtopic.php?f=27&t=560#p4824)
 - [Toon Shading](http://forums.torque3d.org/viewtopic.php?f=27&t=560#p4776)
 - [Sun glare/screen dirt shader](http://www.garagegames.com/community/resource/view/22785) - [1](http://forums.torque3d.org/viewtopic.php?f=10&t=698)
+- [Custom Shader - Part 1](http://www.garagegames.com/community/blogs/view/20989)
+- [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
+- [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
 
 ## Terrain
 
@@ -418,14 +422,20 @@ Torque3D
 Documentation & Tutorials
 
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
+- [CodeSamples Tutorials](http://www.codesampler.com/torque.htm)
+- [CoinCollectionTutorial](https://github.com/lukaspj/Torque3D-Tutorials)
+- [Creating Physics Shapes](http://www.garagegames.com/community/forums/viewthread/119211)
+- [Destroying things is fun!](http://www.garagegames.com/community/blogs/view/21709) Series of resources, Damage and Destruction.
+- [Documentation](http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
+- [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
 - [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
 - [How to compile Torque3D v3.9](http://forums.torque3d.org/viewtopic.php?f=12&t=713#p5913)
-- [CoinCollectionTutorial](https://github.com/lukaspj/Torque3D-Tutorials)
-- [Documentation](http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
 - [Torque Developer Network (TDN)](http://tdn.garagegames.com/wiki/TDN_Home) Online documentation site for GarageGames technologies.
-- [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
 - [T3D Documentation by RichardRanft](https://github.com/RichardRanft/Torque3D-Documentation)
-- [CodeSamples Tutorials](http://www.codesampler.com/torque.htm)
+- [Custom Shader - Part 1](http://www.garagegames.com/community/blogs/view/20989)
+- [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
+- [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
+
 
 ## Tweening
 
