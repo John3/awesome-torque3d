@@ -97,7 +97,7 @@ Artificial Intelligence
 - [Collection by hreikin](http://opengameart.org/user/17697/collections)
 - [Art by Duion](http://opengameart.org/users/duion) - [Textures](http://duion.com/art/main)
 - [the3dmodelstore](http://www.the3dmodelstore.com/free.php)
-- [old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
+- [Old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
 - [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
 - [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu#) These textures are made in substance designer(procedural texture)
 
@@ -132,6 +132,8 @@ by Edward F. Maurina III](https://www.amazon.com/gp/product/1568812841) - [suppo
 - [Multiplayer Gaming and Engine Coding for the Torque Game Engine - May 9, 2008 by Edward F. Maurina](https://www.amazon.com/Multiplayer-Gaming-Engine-Coding-Torque/dp/1568814224) - [1](http://www.garagegames.com/community/blogs/view/14494) - [support materials](https://github.com/roaminggamer/MGEC-Support)
 
 - [The Ultimate Guide to Torque 3D - Apr 22, 2015 by Robert Fritzen](http://www.phantomdev.net/Torque3D/Micro/guide.php) - [preview](http://www.phantomdev.net/staff/phantom139/public/RFT3DGuide_PREV.pdf) A massive resource collection of tutorials and guides to teach everyone. Topics included in this first edition are: 'The World Editor', 'The GUI Editor', 'Basic & Advanced TorqueScript', 'Basic - Advanced C++', 'Wiring Techniques', and much more!
+
+- [ShaderX7: Advanced Rendering Techniques - Mar 12, 2009 by Wolfgang Engel](https://www.amazon.com/ShaderX7-Rendering-Techniques-Wolfgang-Engel/dp/1584505982) Indispensable series for game and graphics programmers.This all-new volume is packed with a collection of insightful techniques, innovative solutions to common problems, and practical tools and tricks that provide you with a complete shader programming toolbox. [1](https://www.garagegames.com/community/blogs/view/22621)
 
 ## Camera
 Cinematics and Cutscenes.
