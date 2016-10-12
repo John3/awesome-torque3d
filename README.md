@@ -435,6 +435,7 @@ Torque3D
 - [Custom Shader - Part 1](http://www.garagegames.com/community/blogs/view/20989)
 - [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
 - [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
+- [Sample Fullscreen Shaders](http://www.garagegames.com/community/resources/view/15648)
 
 ## Terrain
 
