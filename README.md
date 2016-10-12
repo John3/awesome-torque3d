@@ -76,7 +76,7 @@ Suggestions and contributions are always welcome!
 * [Tweening](#tweening)
 * [Utilities](#utilities)
    * [Tools](#tools)
-   * [RPG & MMORPGs](rpg-&-mmorpgs)
+   * [RPG & MMORPGs](rpg--mmorpgs)
 
 ## AI
 
