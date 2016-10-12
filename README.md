@@ -66,8 +66,9 @@ Suggestions and contributions are always welcome!
 * [Monetization](#monetization)
 * [Networking](#networking)
 * [Physics](#physics)
-* [Resources] (#resources)
+* [Resources](#resources)
 * [Serialization](#serialization)
+* [Sound & Music](#sound--music)
 * [Social](#social)
 * [Scripting](#scripting)
 * [Shaders](#shaders)
@@ -395,6 +396,10 @@ Resources collections:
 - [vim](https://github.com/crabmusket/vim-torquescript) - [1](http://www.garagegames.com/community/resources/view/22242)
 - [EMACS](http://forums.torque3d.org/viewtopic.php?f=12&t=173&p=1483&hilit=emacs#p1483)
 - [Atom](https://github.com/portify/language-torquescript)
+
+## Sound & Music
+
+- [Sound Image](http://soundimage.org/) Over 1000 Tracks of Free Music and Sound Effects for Your Projects by Eric Matyas.
 
 ## Store
 
