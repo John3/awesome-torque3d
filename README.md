@@ -79,7 +79,7 @@ Suggestions and contributions are always welcome!
 * [Utilities](#utilities)
    * [Tools](#tools)
    * [RPG & MMORPGs](#rpg--mmorpgs)
-   * [Zombie Resources](#zombie)
+   * [Zombie Resources](#zombie-resources)
 
 ## AI
 
