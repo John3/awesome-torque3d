@@ -18,6 +18,7 @@ Suggestions and contributions are always welcome!
 * [Camera](#camera)
 * [Development](#development)
 * [Entity](#entity)
+* [Funds](#funds)
 * [FX](#fx)
 * [Games](#games)
   * [Action Games](#action-games)
@@ -154,6 +155,15 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 - [IPV6 Support](http://forums.torque3d.org/viewtopic.php?f=10&t=819) - [GitHub Repo](https://github.com/jamesu/Torque3D/tree/ipv6_support) ipv6 support for the T3D (and T2D) networking.
 - [Mac OSX support](http://forums.torque3d.org/viewtopic.php?f=40&t=815) Initial setup for Mac OSX support.
+
+## Funds
+
+Raise funds.
+
+- [Indiegogo](https://www.indiegogo.com) Our mission is to empower people to unite around ideas that matter to them and together make those ideas come to life.
+- [Kickstarter](https://www.kickstarter.com/) Helps artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.
+- [GoFundMe](https://www.gofundme.com) Allows campaign organizers to invite others to take part in their story, share your dreams, pursuits, celebrations and challenges online with crowdfunding.
+
 
 ## FX
 
