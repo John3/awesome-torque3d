@@ -79,7 +79,8 @@ Suggestions and contributions are always welcome!
 * [Utilities](#utilities)
    * [Tools](#tools)
    * [RPG & MMORPGs](#rpg--mmorpgs)
-   * [Zombie Resources](#zombie-resources)
+   * [Stealth](#stealth)
+   * [Zombie](#zombie)
 
 ## AI
 
@@ -349,6 +350,7 @@ Sports-based fighting
 - [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
+- [Simple GUI list](http://www.garagegames.com/community/resources/view/23043)
 
 ## Modeling
 
@@ -375,6 +377,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Starter.Racing](http://forums.torque3d.org/viewtopic.php?f=23&t=821) - [GitHub Repo](https://github.com/yourarcade/torque/tree/master/t3d/resources/starter.racing) Slightly enhanced port of the original TGE starter.racing demo.
 - [Hover Vehicle](http://forums.torque3d.org/viewtopic.php?f=12&t=605#p5027) - Download: [1](https://www.mediafire.com/?paehuce9926sx1e)
 - [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
+- [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -412,6 +415,8 @@ Resources collections:
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 
 ## Scripting
+
+Related to TorqueScript.
 
 - [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
 
@@ -497,7 +502,11 @@ Level Editor
 - [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games. 
 
-### Zombie Resources
+### Stealth
+
+- [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+
+### Zombie
 
 - [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
 
