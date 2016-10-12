@@ -382,6 +382,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Hover Vehicle](http://forums.torque3d.org/viewtopic.php?f=12&t=605#p5027) - Download: [1](https://www.mediafire.com/?paehuce9926sx1e)
 - [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
 - [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+- [Creating a Dungeon](http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -471,6 +472,17 @@ Documentation & Tutorials
 - [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
 - [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
 
+MMORPG Tutorial
+- [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
+- [2 RPG style targeting](http://www.garagegames.com/community/resources/view/7515)
+- [3 part 1, RPG Style Animals](http://www.garagegames.com/community/resources/view/7516)
+- [3 part 2, Gone Fishin!](http://www.garagegames.com/community/resources/view/7517)
+- [4 Server Side Melee Redux!](http://www.garagegames.com/community/resources/view/7583)
+- [5 Simply Magic..](http://www.garagegames.com/community/resources/view/7584)
+- [6 Logins R US](http://www.garagegames.com/community/resources/view/7605)
+- [7 Pick a Char Any Char!](http://www.garagegames.com/community/resources/view/7695)
+- [8 Forage, Bake and Eat a Cake!](http://www.garagegames.com/community/resources/view/7886)
+- [9 Dreamers Theory on Quests](http://www.garagegames.com/community/resources/view/7987)
 
 ## Tweening
 
