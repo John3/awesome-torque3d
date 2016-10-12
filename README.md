@@ -79,6 +79,7 @@ Suggestions and contributions are always welcome!
 * [Utilities](#utilities)
    * [Tools](#tools)
    * [RPG & MMORPGs](#rpg--mmorpgs)
+   * [Zombie Resources](#zombie)
 
 ## AI
 
@@ -495,7 +496,7 @@ Level Editor
 - [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games. 
 
-### Zombie
+### Zombie Resources
 
 - [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
 
