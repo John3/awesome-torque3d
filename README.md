@@ -109,6 +109,7 @@ Artificial Intelligence
 
 ## Virtual Reality
 - [Occulus Rift DK2 & OpenVR](https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate) - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
 
 ## Animation
 - [AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
@@ -213,6 +214,7 @@ No games released yet.
 
 
 ### Action Adventure
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 - [Twisty's Asylum Escapades](http://asylumescapades.com) - [1](http://www.indiedb.com/games/twistys-asylum-escapades/) - [Store Steam](http://store.steampowered.com/app/506760/)  is a darkly fun action/adventure game with Metroidvania-like elements about a lovable floating brain monster trying to escape from an insane asylum.
 
@@ -243,6 +245,7 @@ Role-playing games (RPG).
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
 - [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
@@ -276,6 +279,7 @@ Real-time tactics (RTT)
 #### MOBA
 Multiplayer online battle arena (MOBA)
 
+- [Crit & Splash](http://steamcommunity.com/sharedfiles/filedetails/?id=766192818) - [1](http://forums.torque3d.org/viewtopic.php?f=2&t=802) Command shooter with Abilities, leveling Stats and Modifiers attacks. (In development)
 - [Cyber-Wing](http://www.martianarctic.com/games/cyberwing/) - [1](https://sites.google.com/site/gamecyberwing/) It is a real-time strategy/action hybrid, where you build units like an RTS but must fly around and fight like in an action game. You capture bases and build and give orders such as attack and retreat to troops and ultimately destroy the enemy HQ to win the game. 
 
 #### Tower Defense
@@ -323,6 +327,7 @@ Sports-based fighting
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 
 #### Sandbox Games
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
 - [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
 
 ## Gui
