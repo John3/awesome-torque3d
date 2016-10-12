@@ -352,6 +352,10 @@ Sports-based fighting
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 - [Simple GUI list](http://www.garagegames.com/community/resources/view/23043)
 
+## Lighting
+
+- [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+
 ## Modeling
 
 ## Monetization
