@@ -32,6 +32,7 @@ Suggestions and contributions are always welcome!
   * [Action-adventure](#action-adventure)
     * [Survival horror](#survival-horror)
   * [Adventure](#adventure)
+     * [Survival Adventure](#survival-adventure)
   * [Simulation games](#simulation-games)
     * [Vehicle simulation](#vehicle-simulation)
   * [Role-playing game (RPG)](#rpg)
@@ -238,6 +239,10 @@ No games released yet.
 No games released yet.
 
 ### Adventure Games
+
+#### Survival Adventure
+
+- [Homo Sapiens](http://www.homosapiens.game3d.ch/) - [1](http://www.garagegames.com/community/blogs/view/22964/1#comment-199996) Start with only some little food, in a beatyful stoneage environment. Search for resources, make weapons, fight with a lot creatures that will not make life easy.
 
 ### Simulation games
 
