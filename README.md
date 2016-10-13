@@ -469,6 +469,7 @@ Documentation & Tutorials
 - [Destroying things is fun!](http://www.garagegames.com/community/blogs/view/21709) Series of resources, Damage and Destruction.
 - [Documentation](http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
 - [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
+- [Gem-A-Day](http://garagegames.com/community/resources/view/14868) A gem is a self contained bit of code and/or art, often along with some useful conventions, that solves a particular problem in a way that makes it easy to use this solution again in the future.
 - [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078)
 - [How to compile Torque3D v3.9](http://forums.torque3d.org/viewtopic.php?f=12&t=713#p5913)
 - [Torque Developer Network (TDN)](http://tdn.garagegames.com/wiki/TDN_Home) Online documentation site for GarageGames technologies.
