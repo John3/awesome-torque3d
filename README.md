@@ -111,6 +111,7 @@ Artificial Intelligence
 - [Monster Packs](http://www.monsterpacks.com)
 - [BAG_Buildingpack1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=7) These structures may look dirty, grungy and run-down, but they won’t let you down! You can use this pack to quickly design great looking urban scenes for your game or visual project. These are fully navigable buildings with stairs, balconies, windows, doorways and basements.
 - [MACK Lite](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=10) Just the character assets.
+- http://www.frogames.net/content-packs.html - Content packs for game development.
 
 ## Virtual Reality
 - [Occulus Rift DK2 & OpenVR](https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate) - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
