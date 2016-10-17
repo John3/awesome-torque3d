@@ -202,7 +202,6 @@ First-person shooter (FPS)
 
 - [Dark Horizons Lore](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore) - [Video](https://www.youtube.com/playlist?list=PL4BB070AA105057F2)  The player takes control of a large mech in battle against the enemy team's mechs. (Dead game)
 - [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game) - Download: [win](http://www.gamershell.com/download_28590.shtml)
-
 - [Dots Net Crits](https://practicing01.itch.io/dots-net-crits) - [GitHub Repo](https://github.com/practicing01/T3D_GameModes) - [Forum](http://forums.torque3d.org/viewforum.php?f=43) Multiplayer game with lots of variations of weapons and gamemodes.
 - [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) - [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
 Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
@@ -210,6 +209,7 @@ Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
 Free and open-source first person shooter.
 - [Legions: Overdrive](http://www.legionsoverdrive.com) - [1](https://en.wikipedia.org/wiki/Legions:_Overdrive) formerly Fallen Empire: Legions was developed as a "spiritual successor" to Tribes. Is a fast paced Team Based FPS+Z with such games modes as Team Deathmatch, Rabbit, Team Rabbit, Hunters and of course the classic Capture the Flag.
 - [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
+- [Penguins Arena: Sedna's World](http://www.frogames.com/penguins_arena/) - [1](https://www.garagegames.com/community/blogs/view/15819) - [Store Steam](http://store.steampowered.com/app/11280/) - [Itch.io Store](https://frogames.itch.io/penguins-arena) A innovative First Penguin Shooter with very short rounds and where the magic of reincarnation, combined with the supernatural ability to return to the game as a ghost.
 - [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
 
@@ -324,6 +324,7 @@ Turn-based tactics (TBT)
 
 #### Racing
 - [Boost! - T3D Old-School racing](http://forums.torque3d.org/viewtopic.php?f=17&t=150&p=1310) Is a multiplayer racing game project that take it's major inspiration from good old arcade/NES game "SuperSprint" (In development)
+- [MiniOne Racing](http://www.frogames.com/minione_racing/) - [Store Steam](http://store.steampowered.com/app/380000/) - [Itch.io Store](https://frogames.itch.io/minione-racing) Is a thrilling racing game which lets players drive colorful, humorous miniature vehicles around various locations created by a kid: beach, playground... and even other planet! 
 
 #### Sport fighting
 Sports-based fighting
