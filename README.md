@@ -382,6 +382,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 ## Resources
 
+- [Door Class](http://www.richardsgamestudio.com/downloadDoorPack.html) This pack contains all the necessary source files to add the Door class.
 - [Extended GuiObjectView](https://github.com/Will-of-the-Wisp/Resources/tree/Extended-GuiObjectView) - [1](http://www.willowispgames.com/) - [Forum](http://forums.torque3d.org/viewtopic.php?f=26&t=809) An extension to the GuiObjectView class.
 - [Fading Gui Controls](https://github.com/Will-of-the-Wisp/Resources/tree/Fading-Gui-Controls) - [1](http://www.willowispgames.com/) New gui control classes that support fading via custom rendering code and script commands.
 - [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
