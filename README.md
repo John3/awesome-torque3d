@@ -309,9 +309,8 @@ Multiplayer online battle arena (MOBA)
 - [Monoliths of Terravia](http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
 
 #### TBS
-Turn-based strategy (TBS)
+[Turn-based strategy (TBS)](https://en.wikipedia.org/wiki/Turn-based_strategy)
 
-- [Airship Dragoon](http://www.yorkshirerifles.com/) - [1](http://www.indiedb.com/games/airship-dragoon) - [Store Steam](http://store.steampowered.com/app/308380) Steampunk squad tactical combat and global strategy with emergent gameplay. 
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Dead State](http://www.deadstate.doublebearproductions.com/) - [1](http://www.doublebearproductions.com/) - [Steam Store](http://store.steampowered.com/app/239840) Is a compelling, high-tension RPG set at the beginning of the zombie apocalypse, the player must organize a scant handful of allies, working on fortifying a shelter, scouting for food and supplies, making uncertain alliances with others.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
@@ -319,7 +318,7 @@ Turn-based strategy (TBS)
 - [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
 
 #### TBT
-Turn-based tactics (TBT)
+[Turn-based tactics (TBT)](https://en.wikipedia.org/wiki/Turn-based_tactics)
 
 - [Airship Dragoon](http://www.yorkshirerifles.com/) - [1](http://www.indiedb.com/games/airship-dragoon) - [Store Steam](http://store.steampowered.com/app/308380) Steampunk squad tactical combat and global strategy with emergent gameplay. 
     
