@@ -144,6 +144,7 @@ by Edward F. Maurina III](https://www.amazon.com/gp/product/1568812841) - [suppo
 ## Camera
 Cinematics and Cutscenes.
 
+- [Camera system for TGEA 1.8.1/T3D](http://www.garagegames.com/community/forums/viewthread/143037) The real gem being offered here is the camera math. It accepts keyframes and times, builds a path stored in a scriptObject and spits back the smoothest camera movement you have ever seen with a sample function. - Download: [1](https://www.dropbox.com/s/i15upcnj51lteuh/LODC%201.0.rar)
 - [Verve Official repo](https://github.com/AnteSim/Verve) - [1](https://github.com/John3/Verve)
 - [Verve for T3D v3.5](https://github.com/J0linar/Verve) - [1](https://github.com/John3/J0linar-Verve) - [2](http://www.garagegames.com/community/blogs/view/22554)
 
