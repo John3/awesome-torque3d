@@ -483,6 +483,7 @@ Documentation & Tutorials
 - [Custom Shader - Part 1](http://www.garagegames.com/community/blogs/view/20989)
 - [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
 - [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
+- [L3DT - Making terrain](http://www.bundysoft.com/wiki/doku.php?id=tutorials:torque:t3d:aaron)
 
 MMORPG Tutorial
 - [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
