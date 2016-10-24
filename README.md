@@ -474,7 +474,7 @@ Torque3D
 
 - [Terrain edge seams](http://forums.torque3d.org/viewtopic.php?f=9&t=722#p5992) - [GitHub](https://github.com/GarageGames/Torque3D/pull/1542)
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
-
+- [L3DT - Making terrain](http://www.bundysoft.com/wiki/doku.php?id=tutorials:torque:t3d:aaron)
 
 ## Tutorials
 
