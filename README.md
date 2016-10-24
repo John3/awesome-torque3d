@@ -365,10 +365,9 @@ Sports-based fighting
 
 ## License
 
-Torque 3D Game Engine License.
-- MIT License: [1](http://choosealicense.com/licenses/mit/) - [2](https://tldrlegal.com/license/mit-license)
+- MIT License: [1](http://choosealicense.com/licenses/mit/) - [2](https://tldrlegal.com/license/mit-license) Torque 3D Game Engine License.
 
-Open Source Licenes.
+Open Source Licenses.
 
 - http://choosealicense.com/
 - https://tldrlegal.com/
