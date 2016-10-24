@@ -62,6 +62,7 @@ Suggestions and contributions are always welcome!
    * [Editors](#editors)
    * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
 * [Input](#input)
+* [License](#license)
 * [Lighting](#lighting)
 * [Modeling](#modeling)
 * [Monetization](#monetization)
@@ -361,6 +362,18 @@ Sports-based fighting
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 - [Simple GUI list](http://www.garagegames.com/community/resources/view/23043)
+
+## License
+
+Torque 3D Game Engine License.
+- MIT License: [1](http://choosealicense.com/licenses/mit/) - [2](https://tldrlegal.com/license/mit-license)
+
+Open Source Licenes.
+
+- http://choosealicense.com/
+- https://tldrlegal.com/
+- https://opensource.org/licenses/alphabetical
+- https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
 
 ## Lighting
 
