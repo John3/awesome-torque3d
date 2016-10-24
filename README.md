@@ -406,6 +406,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
 - [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
 - [Creating a Dungeon](http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
+- [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -445,8 +446,6 @@ Resources collections:
 ## Scripting
 
 Related to TorqueScript.
-
-- [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
 
 ## Social
 
