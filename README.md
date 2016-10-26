@@ -106,6 +106,7 @@ Artificial Intelligence
 - [Old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
 - [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
 - [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu#) These textures are made in substance designer(procedural texture)
+- [Mobile Game Graphics (MGG)](https://mobilegamegraphics.com/product-category/all_products/freestuff/)
 
 ### Pay assets
 
@@ -162,6 +163,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 - [IPV6 Support](http://forums.torque3d.org/viewtopic.php?f=10&t=819) - [GitHub Repo](https://github.com/jamesu/Torque3D/tree/ipv6_support) ipv6 support for the T3D (and T2D) networking.
 - [Mac OSX support](http://forums.torque3d.org/viewtopic.php?f=40&t=815) Initial setup for Mac OSX support.
+- [Indie Teamup](http://www.indieteamup.com/) Is where you go to discover indie devs and teams. You can easily collaborate with each other to take your ideas from paper to production.
 
 ## Funds
 
@@ -457,6 +459,7 @@ Torque3D
 - [Facebook](https://www.facebook.com/Torque3D)
 - IndieDB: [T3D](http://www.indiedb.com/engines/torque-3d) - [TGEA](http://www.indiedb.com/engines/torque-game-engine-advanced) - [TGE](http://www.indiedb.com/engines/torque-game-engine)
 - [GratiPay](https://gratipay.com/torque3d/)
+- [Indie Teamup](http://www.indieteamup.com/) Is where you go to discover indie devs and teams. You can easily collaborate with each other to take your ideas from paper to production.
 
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
