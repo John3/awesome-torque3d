@@ -107,14 +107,18 @@ Artificial Intelligence
 - [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
 - [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu#) These textures are made in substance designer(procedural texture)
 - [Mobile Game Graphics (MGG)](https://mobilegamegraphics.com/product-category/all_products/freestuff/)
-- [3DRT](http://3drt.com/store/free-downloads/)
+- [3DRT Free Characters](http://3drt.com/store/free-downloads/free-characters/)
+- [3DRT Free Buildings](http://3drt.com/store/free-downloads/free-buildings/)
+- [3DRTh Free Vehicles](http://3drt.com/store/free-downloads/free-vehicles/)
+
 
 ### Pay assets
 
 - [Monster Packs](http://www.monsterpacks.com)
 - [BAG_Buildingpack1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=7) These structures may look dirty, grungy and run-down, but they won’t let you down! You can use this pack to quickly design great looking urban scenes for your game or visual project. These are fully navigable buildings with stairs, balconies, windows, doorways and basements.
 - [MACK Lite](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=10) Just the character assets.
-- http://www.frogames.net/content-packs.html - Content packs for game development.
+- [FroGames](http://www.frogames.net/content-packs.html) - Content packs for game development.
+- [3DRT](http://3drt.com/store/) - We specialize in high-quality 3D models for video games.
 
 ## Virtual Reality
 - [Occulus Rift DK2 & OpenVR](https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate) - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
