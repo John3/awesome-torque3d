@@ -409,6 +409,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
 - [Save and Load Game System](http://www.garagegames.com/community/resources/view/21450)
 - [Starter.Racing](http://forums.torque3d.org/viewtopic.php?f=23&t=821) - [GitHub Repo](https://github.com/yourarcade/torque/tree/master/t3d/resources/starter.racing) Slightly enhanced port of the original TGE starter.racing demo.
+- [FlyingCar](http://www.garagegames.com/community/forums/viewthread/141128/1#comment-863559) - Download: [1](https://www.mediafire.com/?uhboziwwpwtd4hc)
 - [Hover Vehicle](http://forums.torque3d.org/viewtopic.php?f=12&t=605#p5027) - Download: [1](https://www.mediafire.com/?paehuce9926sx1e)
 - [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
 - [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
