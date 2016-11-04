@@ -98,7 +98,7 @@ Artificial Intelligence
 ## Assets
 
 ### Free assets
-- [3td Studios Free Models](http://3tdstudios.com/models.html) - [1](http://opengameart.org/content/3td-studios-packs) Free 3D Assets for Game Developers and Hobbyists
+- [3td Studios Free Models](https://www.cgtrader.com/3tdstudiosron) - [1](http://opengameart.org/content/3td-studios-packs) Free 3D Assets for Game Developers and Hobbyists
 - [Art by hreikin](http://opengameart.org/users/hreikin)
 - [Collection by hreikin](http://opengameart.org/user/17697/collections)
 - [Art by Duion](http://opengameart.org/users/duion) - [Textures](http://duion.com/art/main)
