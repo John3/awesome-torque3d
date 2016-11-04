@@ -347,7 +347,7 @@ Sports-based fighting
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
 - [CubistMT](http://joticarroll.github.io/Torque3D) - [GitHub Repo](https://github.com/joticarroll/Torque3D) - [Video](http://www.youtube.com/watch?v=lBv4S4ogXdE) Interactive and educational virtual reef. "The Reef" designed to represent a sample of the diversity of life on the Great Barrier Reef and be engaging to the general public and potential students. Note: Torque3D modification.
-- [NCC1701 Exploration: VR Edition](http://gambitrealm.com/index.php?ID=50&Lang=En) you can explore the entire ship, repel Klingon boarders, and fly various flight and combat missions in the shuttle or in the Klingon fighter. Download: [1](https://1drv.ms/u/s!ACiusoQV-IpRjEo) **TODO!**
+- [NCC1701 Exploration: VR Edition](http://gambitrealm.com/index.php?ID=50&Lang=En) you can explore the entire ship, repel Klingon boarders, and fly various flight and combat missions in the shuttle or in the Klingon fighter. Download: [1](https://1drv.ms/u/s!ACiusoQV-IpRjEo)
 - [Star Trek 50th Anniversary Tribute Game](http://gambitrealm.com/INSTALLER/download_release45_vr.php) - [Forum](http://forums.torque3d.org/viewtopic.php?f=17&t=551) - Download: [1](http://gambitrealm.com/INSTALLER/50thAnniversaryFanCreatedTrekTribute.rar)
 
 #### Card Games
