@@ -355,6 +355,7 @@ Sports-based fighting
 
 #### Educational Games
 - [DimensionU](http://www.dimensionu.com/dimu/home/Games_Dimu.aspx) Multiplayer games with access to curriculum in both Math and Literacy, grades 3 – 9. Each game is designed with unique features to bring out distinct academic and strategic skills in students.
+- [MoonBaseOne](http://moonbaseone.blogspot.com/) A tool to be used at FOGE summer camps to teach kids about space. The game centers on an astronaut, who newly arrived to MoonBaseOne. Download: [v4](http://wecreategames.com/games/MoonBaseOne/MoonBaseOneVersion4.zip) - [v3](http://wecreategames.com/games/MoonBaseOne/MoonBaseOneInstaller.msi)
 
 #### Historical Games
 - [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
