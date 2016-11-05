@@ -57,6 +57,7 @@ Suggestions and contributions are always welcome!
       * [Historical Games](#historical-games)
       * [Open World Games](#open-world-games)
       * [Sandbox Games](#sandbox-games)
+      * [6Dof Games](#6dof-games)
 * [GUI](#gui)
 * [IDEs](#ides)
    * [Editors](#editors)
@@ -122,7 +123,7 @@ Artificial Intelligence
 
 ## Virtual Reality
 - [Occulus Rift DK2 & OpenVR](https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate) - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
-- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 
 ## Animation
 - [AnimationMegaPack vol. 1](http://www.brokeassgames.com/Community/index.php?action=store;sa=view;id=5)  Includes over 500 motion capture animations sequences in .DSQ format
@@ -240,7 +241,7 @@ No games released yet.
 
 
 ### Action Adventure
-- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 - [Twisty's Asylum Escapades](http://asylumescapades.com) - [1](http://www.indiedb.com/games/twistys-asylum-escapades/) - [Store Steam](http://store.steampowered.com/app/506760/)  is a darkly fun action/adventure game with Metroidvania-like elements about a lovable floating brain monster trying to escape from an insane asylum.
 
@@ -276,7 +277,7 @@ Role-playing games (RPG).
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
-- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
@@ -334,15 +335,15 @@ Multiplayer online battle arena (MOBA)
 ### Sports Games
 
 #### Racing
-- [Boost! - T3D Old-School racing](http://forums.torque3d.org/viewtopic.php?f=17&t=150&p=1310) Is a multiplayer racing game project that take it's major inspiration from good old arcade/NES game "SuperSprint" (In development)
+- [Boost! - Old-School racing](http://forums.torque3d.org/viewtopic.php?f=17&t=150&p=1310) Is a multiplayer racing game project that take it's major inspiration from good old arcade/NES game "SuperSprint" (In development)
 - [MiniOne Racing](http://www.frogames.com/minione_racing/) - [Store Steam](http://store.steampowered.com/app/380000/) - [Itch.io Store](https://frogames.itch.io/minione-racing) Is a thrilling racing game which lets players drive colorful, humorous miniature vehicles around various locations created by a kid: beach, playground... and even other planet! 
 
 #### Sport fighting
 Sports-based fighting
 
-- [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat. Set in a post-apocalyptic world, it involves physics-based tactical combat and deathracing, online leagues as well as cooperative wilderness scouting and looting, trading and camp-based crafting.
+- [Darkwind: War on Wheels](http://www.dark-wind.com) - [1](http://www.garagegames.com/community/blogs/view/20451) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat. Set in a post-apocalyptic world, it involves physics-based tactical combat and deathracing, online leagues as well as cooperative wilderness scouting and looting, trading and camp-based crafting.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
-- [Metal Drift](http://www.metaldrift.com/) - [Store Steam](http://store.steampowered.com/app/32200/) Is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena.
+- [Metal Drift](http://www.metaldrift.com/) - [1](https://www.garagegames.com/community/blogs/view/18571) - [Store Steam](http://store.steampowered.com/app/32200/) Is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena.
 
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
@@ -364,9 +365,14 @@ Sports-based fighting
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 
 #### Sandbox Games
-- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (Is development)
+- [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
-- [BlokAbout](http://blockabout.ca.s175791.gridserver.com/index.php?Lang=En&ID=1) - Download: [1](http://blockabout.ca.s175791.gridserver.com/INSTALLER/Blockabout-Beta-1.4.1.zip)
+
+#### 6DoF Games
+
+Six degrees of freedom.
+
+- [Talon](http://www.talongame.com) - [1](http://www.refractorystudios.com/) - [2](https://www.garagegames.com/community/blog/view/22395) Is a true 6DoF multiplayer sci-fi flight combat game blending elements from FPS, flight sim, and space combat for adrenaline-fueled high-speed action in a team-based tactical shooter with colorful weapons and plentiful explosions. Download: [1](http://talongame.com/download/talon_setup_1.1.0.2.exe) - Mirror: [1]()
 
 ## Gui
 - [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
