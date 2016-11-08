@@ -1,6 +1,6 @@
 # Awesome Torque3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of [Torque3D](http://torque3d.org) and related Torque Game Engine (TGA & TGEA) of awesome games, products, scripts and resources.
+A curated list of [Torque3D](http://torque3d.org) and related Torque Game Engine (TGA & TGEA) of games, products, scripts and resources.
 
 Suggestions and contributions are always welcome! 
 
@@ -425,6 +425,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
 - [Creating a Dungeon](http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
 - [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
+- [Radar (C++)](http://www.garagegames.com/community/forums/viewthread/101223)
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
