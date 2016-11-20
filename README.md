@@ -372,7 +372,7 @@ Sports-based fighting
 
 Six degrees of freedom.
 
-- [Talon](http://www.talongame.com) - [1](http://www.refractorystudios.com/) - [2](https://www.garagegames.com/community/blog/view/22395) Is a true 6DoF multiplayer sci-fi flight combat game blending elements from FPS, flight sim, and space combat for adrenaline-fueled high-speed action in a team-based tactical shooter with colorful weapons and plentiful explosions. Download: [1](http://talongame.com/download/talon_setup_1.1.0.2.exe) - Mirror: [1]()
+- [Talon](http://www.talongame.com) - [1](http://www.refractorystudios.com/) - [2](https://www.garagegames.com/community/blog/view/22395) Is a true 6DoF multiplayer sci-fi flight combat game blending elements from FPS, flight sim, and space combat for adrenaline-fueled high-speed action in a team-based tactical shooter with colorful weapons and plentiful explosions. Download: [1](http://talongame.com/download/talon_setup_1.1.0.2.exe) - Mirror: [1](http://www.4shared.com/archive/aMai2Brmce/Talon_Game.html)
 
 ## Gui
 - [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
