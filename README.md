@@ -70,6 +70,7 @@ Suggestions and contributions are always welcome!
 * [Networking](#networking)
 * [Physics](#physics)
 * [Resources](#resources)
+* [Server](#server)
 * [Serialization](#serialization)
 * [Sound & Music](#sound--music)
 * [Social](#social)
@@ -468,6 +469,9 @@ Resources collections:
 ## Scripting
 
 Related to TorqueScript.
+
+## Server
+- [PHP MasterServer for Torque](https://www.garagegames.com/community/resources/view/14857)
 
 ## Social
 
