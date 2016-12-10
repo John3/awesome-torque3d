@@ -205,6 +205,8 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 
 #### Platform Games
 
+- [Deo](http://www.liman3d.com/deohome.html) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=131064456) 3D adventure-platform game with unique input model. The rich set of actions and game mechanics make Deo a truly challenging game for even the most experienced gamers. This is Deo - ultimate platformer for hardcore gamers.
+
 #### Shooter Games
 
 ##### FPS
@@ -281,7 +283,7 @@ Massively multiplayer online role-playing games (MMORPGs)
 - [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
-- [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
+- [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) - [1](http://www.garagegames.com/community/blogs/view/22833) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 - [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
 
 #### Tactical RPG
@@ -331,7 +333,7 @@ Multiplayer online battle arena (MOBA)
 #### TBT
 [Turn-based tactics (TBT)](https://en.wikipedia.org/wiki/Turn-based_tactics)
 
-- [Airship Dragoon](http://www.yorkshirerifles.com/) - [1](http://www.indiedb.com/games/airship-dragoon) - [Store Steam](http://store.steampowered.com/app/308380) Steampunk squad tactical combat and global strategy with emergent gameplay. 
+- [Airship Dragoon](http://www.yorkshirerifles.com/) - [1](http://www.indiedb.com/games/airship-dragoon) - [2](http://www.garagegames.com/community/blogs/view/22499) - [Store Steam](http://store.steampowered.com/app/308380) Steampunk squad tactical combat and global strategy with emergent gameplay. 
     
 ### Sports Games
 
