@@ -432,6 +432,8 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Creating a Dungeon](http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
 - [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
 - [Radar (C++)](http://www.garagegames.com/community/forums/viewthread/101223)
+- [Player Hit Explosions](https://github.com/Duion/Torque3D/commit/308063a006b6f6dfee1b55154a8d7d28da18fe60) [1](http://forums.torque3d.org/viewtopic.php?f=42&p=7042#p7035)
+- [Bullet decals disappear if the base is destroyed (C++)](http://forums.torque3d.org/viewtopic.php?f=23&t=741#p6163)
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -440,7 +442,7 @@ Resources collections:
 - [The big addon thread!](http://www.garagegames.com/community/forums/viewthread/131140)
 
 ## IDEs
-- [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods.
+- [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods. - [Download](http://ghc-games.com/SC/Torsion.zip)
 - [TorqueDev](https://github.com/John3/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
 - [IDEA](https://github.com/lukaspj/TorqueSense) - [1](http://wiki.torque3d.org/communityproject:new-scripting-ide-based-on-idea) Is a plugin that can be used with the free IntelliJ community edition IDE.
 - [TIDE](https://github.com/John3/torqueide) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor.
