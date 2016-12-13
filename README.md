@@ -527,6 +527,7 @@ Documentation & Tutorials
 - [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
 - [L3DT - Making terrain](http://www.bundysoft.com/wiki/doku.php?id=tutorials:torque:t3d:aaron)
 - [T3D v3.9+ Editors video tutorials](http://forums.torque3d.org/viewtopic.php?f=12&t=862#p6927) Useful video tutorials using the latest version of T3D 3.9+.
+- [Torque3D v3.9 Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751#p6229)
 
 MMORPG Tutorial
 - [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
