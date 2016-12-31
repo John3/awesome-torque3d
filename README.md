@@ -112,6 +112,7 @@ Artificial Intelligence
 - [3DRT Free Characters](http://3drt.com/store/free-downloads/free-characters/)
 - [3DRT Free Buildings](http://3drt.com/store/free-downloads/free-buildings/)
 - [3DRTh Free Vehicles](http://3drt.com/store/free-downloads/free-vehicles/)
+- [Collection Art Assets](http://letsmakegames.org/resources/art-assets-for-game-developers/)
 
 
 ### Pay assets
@@ -257,8 +258,11 @@ No games released yet.
 #### Survival Adventure
 
 - [Homo Sapiens](http://www.homosapiens.game3d.ch/) - [1](http://www.garagegames.com/community/blogs/view/22964/1#comment-199996) Start with only some little food, in a beatyful stoneage environment. Search for resources, make weapons, fight with a lot creatures that will not make life easy.
+- [Mars Colony:Challenger](http://hyperkat.com/marschallenger.html) - [1](http://www.garagegames.com/community/forums/authorID/36603) - [Store Steam](http://store.steampowered.com/app/277910) You will have to setup and maintain the equipment that supplies pressure and a breathable atmosphere to the base. You are also tasked with growing food, setting up communications and extracting resources in order to make the base self-sufficient. 
 
 ### Simulation games
+
+- [Mars Colony:Challenger](http://hyperkat.com/marschallenger.html) - [1](http://www.garagegames.com/community/forums/authorID/36603) - [Store Steam](http://store.steampowered.com/app/277910) You will have to setup and maintain the equipment that supplies pressure and a breathable atmosphere to the base. You are also tasked with growing food, setting up communications and extracting resources in order to make the base self-sufficient. 
 
 #### Vehicle Simulation
 - [BeamNG.drive](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior. Note: Has Torque3D modification.
@@ -434,6 +438,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Radar (C++)](http://www.garagegames.com/community/forums/viewthread/101223)
 - [Player Hit Explosions](https://github.com/Duion/Torque3D/commit/308063a006b6f6dfee1b55154a8d7d28da18fe60) [1](http://forums.torque3d.org/viewtopic.php?f=42&p=7042#p7035)
 - [Bullet decals disappear if the base is destroyed (C++)](http://forums.torque3d.org/viewtopic.php?f=23&t=741#p6163)
+- [Random Explosions For Projectiles](http://forums.torque3d.org/viewtopic.php?t=611)
 
 Resources collections:
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
@@ -488,6 +493,7 @@ Torque3D
 - IndieDB: [T3D](http://www.indiedb.com/engines/torque-3d) - [TGEA](http://www.indiedb.com/engines/torque-game-engine-advanced) - [TGE](http://www.indiedb.com/engines/torque-game-engine)
 - [GratiPay](https://gratipay.com/torque3d/)
 - [Indie Teamup](http://www.indieteamup.com/) Is where you go to discover indie devs and teams. You can easily collaborate with each other to take your ideas from paper to production.
+- [Streamtip](https://streamtip.com/) Streamtip provides you with a personalized, simplified tipping page that allows you to display a short message to your supporters.
 
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
