@@ -70,6 +70,7 @@ Suggestions and contributions are always welcome!
 * [Networking](#networking)
 * [Physics](#physics)
 * [Resources](#resources)
+	* [Resource collections](#resource-collection)
 * [Server](#server)
 * [Serialization](#serialization)
 * [Sound & Music](#sound--music)
@@ -442,7 +443,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Bullet decals disappear if the base is destroyed (C++)](http://forums.torque3d.org/viewtopic.php?f=23&t=741#p6163)
 - [Random Explosions For Projectiles](http://forums.torque3d.org/viewtopic.php?t=611)
 
-Resources collections:
+### Resources collections
 - [My publics collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
