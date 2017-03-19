@@ -35,6 +35,7 @@ Suggestions and contributions are always welcome!
      * [Survival Adventure](#survival-adventure)
   * [Simulation games](#simulation-games)
     * [Vehicle simulation](#vehicle-simulation)
+	* [Aircraft Simulation](#aircraft-simulation)
   * [Role-playing game (RPG)](#rpg)
     * [Action RPG](#action-rpg)
     * [Massively multiplayer online role-playing games (MMORPGs)](#mmorpgs)
@@ -238,6 +239,7 @@ No games released yet.
 #### Fighting games
 - [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (In development)
 - [Determinance](http://www.mode7games.com/content/game.html) - [1](http://www.determinance.com/) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
+- [AX:EL - Air XenoDawn](http://axeeel.com/site/) - [1](http://www.indiedb.com/games/morphshift-wars) - [Store Steam](http://store.steampowered.com/app/319830) Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean. 
 
 #### Stealth game
 
@@ -245,7 +247,6 @@ No games released yet.
 
 #### Survival games
 - [Undead Shadows](http://www.undeadshadows.com) - [1](https://www.ignition-games.com/) - [2](http://ignitiongames.tumblr.com/) - [Store Steam](http://store.steampowered.com/app/346920) A fast paced action zombie shooter.
-
 
 ### Action Adventure
 - [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
@@ -269,6 +270,9 @@ No games released yet.
 
 #### Vehicle Simulation
 - [BeamNG.drive](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior. Note: Has Torque3D modification.
+
+#### Aircraft Simulation
+- [AX:EL - Air XenoDawn](http://axeeel.com/site/) - [1](http://www.indiedb.com/games/morphshift-wars) - [Store Steam](http://store.steampowered.com/app/319830) Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean. 
 
 ### RPG
 Role-playing games (RPG).
@@ -392,6 +396,7 @@ Six degrees of freedom.
 
 # Input
 - [Rally Car and Xbox One Gamepad Example](http://forums.torque3d.org/viewtopic.php?f=24&t=853) - Download: [1](https://drive.google.com/file/d/0B4K1M7P0W_qbOWxpaERrUE50Mk0/view) I wanted to see if my old xbox keybinds would work with an Xbox One gamepad.
+- [Joystick axis support in guiInputCtrl](https://www.garagegames.com/community/resources/view/22448) how to add joystick axis mapping in options gui.
 
 ## License
 
