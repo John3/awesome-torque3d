@@ -570,12 +570,10 @@ Easing/Tweening system
 
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
 - [TorqueProfTool](http://forums.torque3d.org/viewtopic.php?f=8&t=290) - [GitHub Repo](https://github.com/GuyAllard/TorqueProfTool) A tool for processing T3D profiler output.
-- [Male Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=3)
-- [Female Advanced Character Kit](http://www.brokeassgames.com/Community/index.php?PHPSESSID=ffi831irndp6a7jel23mbgq9k3&action=store;sa=view;id=2)
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
 
 Level Editor
-- [Trenchbroom](http://forums.torque3d.org/viewtopic.php?f=25&t=600) - [main site](http://kristianduske.com/trenchbroom/)
+- [Trenchbroom](http://forums.torque3d.org/viewtopic.php?f=25&t=600) - [1](https://www.garagegames.com/community/forums/viewthread/135318) - [tutorial](http://www.moddb.com/games/zentense/tutorials/from-a-quake-map-to-torque3d) - [main site](http://kristianduske.com/trenchbroom/)
 - [LevelBuddy](http://forums.torque3d.org/viewtopic.php?f=25&t=639) - [main site](https://matt-lucas.itch.io/level-buddy)
 
 ### RPG & MMORPGs
