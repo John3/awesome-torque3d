@@ -442,8 +442,10 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Player Hit Explosions](https://github.com/Duion/Torque3D/commit/308063a006b6f6dfee1b55154a8d7d28da18fe60) [1](http://forums.torque3d.org/viewtopic.php?f=42&p=7042#p7035)
 - [Bullet decals disappear if the base is destroyed (C++)](http://forums.torque3d.org/viewtopic.php?f=23&t=741#p6163)
 - [Random Explosions For Projectiles](http://forums.torque3d.org/viewtopic.php?t=611)
+- [Future fighterjet for T3D](http://forums.torque3d.org/viewtopic.php?f=24&t=930#p7504) - [Download](http://opengameart.org/content/future-fighterjet-for-torque3d)
+- [Basic flyingVehicle mod](http://forums.torque3d.org/viewtopic.php?f=23&t=931&p=7509#p7509)
 
-### Resources collections
+### Resource collections
 - [My publics collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
