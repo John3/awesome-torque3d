@@ -445,7 +445,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Future fighterjet for T3D](http://forums.torque3d.org/viewtopic.php?f=24&t=930#p7504) - [Download](http://opengameart.org/content/future-fighterjet-for-torque3d)
 - [Basic flyingVehicle mod](http://forums.torque3d.org/viewtopic.php?f=23&t=931&p=7509#p7509)
 
-### Resource collections
+### Resource collection
 - [My publics collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
