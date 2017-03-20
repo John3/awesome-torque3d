@@ -81,6 +81,7 @@ Suggestions and contributions are always welcome!
 * [Testing](#testing)
 * [Terrain](#terrain)
 * [Tutorials](#tutorials)
+   * [MMORPG Tutorial](#mmorpg-tutorial)
 * [Tweening](#tweening)
 * [Utilities](#utilities)
    * [Tools](#tools)
@@ -546,7 +547,7 @@ Documentation & Tutorials
 - [T3D v3.9+ Editors video tutorials](http://forums.torque3d.org/viewtopic.php?f=12&t=862#p6927) Useful video tutorials using the latest version of T3D 3.9+.
 - [Torque3D v3.9 Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751#p6229)
 
-MMORPG Tutorial
+### MMORPG Tutorial
 - [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
 - [2 RPG style targeting](http://www.garagegames.com/community/resources/view/7515)
 - [3 part 1, RPG Style Animals](http://www.garagegames.com/community/resources/view/7516)
