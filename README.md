@@ -558,6 +558,9 @@ Documentation & Tutorials
 - [7 Pick a Char Any Char!](http://www.garagegames.com/community/resources/view/7695)
 - [8 Forage, Bake and Eat a Cake!](http://www.garagegames.com/community/resources/view/7886)
 - [9 Dreamers Theory on Quests](http://www.garagegames.com/community/resources/view/7987)
+- [Part1, Building a simple yet powerful MMO game architecture](https://www.ibm.com/developerworks/library/ar-powerup1/index.html) Introduction
+- [Part2, Building a simple yet powerful MMO game architecture](https://www.ibm.com/developerworks/library/ar-powerup2/index.html) Gaming and Web integration
+- [Part3, Building a simple yet powerful MMO game architecture](https://www.ibm.com/developerworks/library/ar-powerup3/ar-powerup3.html) Capabilities and limitations
 
 ## Tweening
 
