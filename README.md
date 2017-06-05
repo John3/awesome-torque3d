@@ -232,6 +232,7 @@ Free and open-source first person shooter.
 - [Penguins Arena: Sedna's World](http://www.frogames.com/penguins_arena/) - [1](https://www.garagegames.com/community/blogs/view/15819) - [Store Steam](http://store.steampowered.com/app/11280/) - [Itch.io Store](https://frogames.itch.io/penguins-arena) A innovative First Penguin Shooter with very short rounds and where the magic of reincarnation, combined with the supernatural ability to return to the game as a ghost.
 - [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
+- [60 Tons](http://www.60tons.com/) [1](https://www.garagegames.com/community/blogs/view/22737) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=258785771) [3](http://www.indiedb.com/games/60-tons) is an intense online multiplayer tank game that pits 4 teams of 5 players each against each other. Join one of the four teams to capture the flag or dominate control of the arena.
 
 ##### TPS
 Third-person shooter (TPS)
@@ -272,6 +273,7 @@ No games released yet.
 
 #### Vehicle Simulation
 - [BeamNG.drive](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior. Note: Has Torque3D modification.
+- [60 Tons](http://www.60tons.com/) [1](https://www.garagegames.com/community/blogs/view/22737) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=258785771) [3](http://www.indiedb.com/games/60-tons) is an intense online multiplayer tank game that pits 4 teams of 5 players each against each other. Join one of the four teams to capture the flag or dominate control of the arena.
 
 #### Aircraft Simulation
 - [AX:EL - Air XenoDawn](http://axeeel.com/site/) - [1](http://www.indiedb.com/games/morphshift-wars) - [Store Steam](http://store.steampowered.com/app/319830) Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean. 
