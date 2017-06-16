@@ -489,6 +489,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Humble  Bundle Developer Resources](https://www.humblebundle.com/developer/) We want to share Humble Bundle's experience and scale to help every developer make more games and reach more customers. 
 - [Steam Greenlight](http://steamcommunity.com/greenlight) - [Submission Fee](http://store.steampowered.com/app/219820) Is a system that enlists the community's help in picking some of the new games to be released on Steam
 - [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
+- [Game Jolt](http://gamejolt.com/) Where anyone can create a game, show it off, and build an audience.  In 2008 it became one of the biggest indie gaming platforms in existence. Today, millions of gamers, let's players, and indie developers visit Game Jolt each month.
 
 ## Scripting
 
