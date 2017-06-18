@@ -227,7 +227,7 @@ First-person shooter (FPS)
 Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
 - [Terminal Overload](http://terminal-overload.org/) - [GitHub Repo](https://github.com/fr1tz/terminal-overload) 
 Free and open-source first person shooter.
-- [Legions: Overdrive](http://www.legionsoverdrive.com) - [1](https://en.wikipedia.org/wiki/Legions:_Overdrive) formerly Fallen Empire: Legions was developed as a "spiritual successor" to Tribes. Is a fast paced Team Based FPS+Z with such games modes as Team Deathmatch, Rabbit, Team Rabbit, Hunters and of course the classic Capture the Flag.
+- [Legions: Overdrive](http://www.legionsoverdrive.com) - [1](http://www.indiedb.com/games/legions-overdrive) [2](https://en.wikipedia.org/wiki/Legions:_Overdrive) formerly Fallen Empire: Legions was developed as a "spiritual successor" to Tribes. Is a fast paced Team Based FPS+Z with such games modes as Team Deathmatch, Rabbit, Team Rabbit, Hunters and of course the classic Capture the Flag. [Reddit.com](https://www.reddit.com/r/legionsoverdrive/)
 - [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
 - [Penguins Arena: Sedna's World](http://www.frogames.com/penguins_arena/) - [1](https://www.garagegames.com/community/blogs/view/15819) - [Store Steam](http://store.steampowered.com/app/11280/) - [Itch.io Store](https://frogames.itch.io/penguins-arena) A innovative First Penguin Shooter with very short rounds and where the magic of reincarnation, combined with the supernatural ability to return to the game as a ghost.
 - [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
@@ -287,6 +287,7 @@ Role-playing games (RPG).
 - [Gods & Nemesis](http://godsandnemesis.com) - [1](http://mefflabs.com) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=594012595) - [Videos](https://www.youtube.com/channel/UC2z923PauVTVLQvQxSl_DVg) If you are interested in making video games then check out the videos which shows how to accomplish some basic concepts such as making 3D objects using free software such as Blender 3D.
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games.
 - [The Age of Decadence]( http://irontowerstudio.com/age-of-decadence-news) - [1](http://irontowerstudio.com/) - [Store Steam](http://store.steampowered.com/app/230070/) A turn-based, isometric hardcore role-playing game set in a low magic, post-apocalyptic fantasy world. The game features a detailed skill-based character system, multiple skill-based ways to handle quests, choices & consequences, and extensive dialogue trees. 
+- [Dungeon Rats] (http://irontowerstudio.com/dungeon-rats-news) - [1](http://irontowerstudio.com/) - [Store Steam](http://store.steampowered.com/app/531930/Dungeon_Rats/) A turn-based, party-based RPG focused on squad level tactical combat. Fight your way out of prison mine or die trying. 
 
 #### Action RPG
 
@@ -385,6 +386,7 @@ Sports-based fighting
 #### Sandbox Games
 - [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
+- [blockabout](http://www.indiedb.com/games/blockabout) Add vehicles, boats, turrets, weapons, ammo, buildings, destroyable objects, or use the library of building blocks to construct your own creations!
 
 #### 6DoF Games
 
