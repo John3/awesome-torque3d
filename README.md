@@ -15,6 +15,7 @@ Suggestions and contributions are always welcome!
 * [Virtual Reality](#virtual-reality)
 * [Animation](#animation)
 * [Books](#books)
+* [Blogs](#blogs)
 * [Camera](#camera)
 * [Development](#development)
 * [Entity](#entity)
@@ -156,6 +157,10 @@ by Edward F. Maurina III](https://www.amazon.com/gp/product/1568812841) - [suppo
 - [The Ultimate Guide to Torque 3D - Apr 22, 2015 by Robert Fritzen](http://www.phantomdev.net/Torque3D/Micro/guide.php) - [preview](http://www.phantomdev.net/staff/phantom139/public/RFT3DGuide_PREV.pdf) A massive resource collection of tutorials and guides to teach everyone. Topics included in this first edition are: 'The World Editor', 'The GUI Editor', 'Basic & Advanced TorqueScript', 'Basic - Advanced C++', 'Wiring Techniques', and much more!
 
 - [ShaderX7: Advanced Rendering Techniques - Mar 12, 2009 by Wolfgang Engel](https://www.amazon.com/ShaderX7-Rendering-Techniques-Wolfgang-Engel/dp/1584505982) Indispensable series for game and graphics programmers.This all-new volume is packed with a collection of insightful techniques, innovative solutions to common problems, and practical tools and tricks that provide you with a complete shader programming toolbox. [1](https://www.garagegames.com/community/blogs/view/22621)
+
+## Blogs
+
+- [Steve Yorkshire](http://yorkshirerifles.blogspot.com) - [7drl](http://7drl.org/author/steve_yorkshire/) One bloke... in his bedroom... making indie games..
 
 ## Camera
 Cinematics and Cutscenes.
@@ -457,6 +462,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Random Explosions For Projectiles](http://forums.torque3d.org/viewtopic.php?t=611)
 - [Future fighterjet for T3D](http://forums.torque3d.org/viewtopic.php?f=24&t=930#p7504) - [Download](http://opengameart.org/content/future-fighterjet-for-torque3d)
 - [Basic flyingVehicle mod](http://forums.torque3d.org/viewtopic.php?f=23&t=931&p=7509#p7509)
+- [ExplosionShape Improvement](http://forums.torque3d.org/viewtopic.php?f=10&p=7429) - [1](http://yorkshirerifles.blogspot.mx/2017/01/fancy-pants-stuff.html)
 
 ### Resource collection
 - [My publics collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
@@ -498,6 +504,8 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 ## Scripting
 
 Related to TorqueScript.
+
+- [Drop/Throw All Items in Player Inventory](https://www.garagegames.com/community/forums/viewthread/134795/1#comment-848508)
 
 ## Server
 - [PHP MasterServer for Torque](https://www.garagegames.com/community/resources/view/14857)
