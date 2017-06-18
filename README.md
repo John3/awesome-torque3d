@@ -213,6 +213,7 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 #### Platform Games
 
 - [Deo](http://www.liman3d.com/deohome.html) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=131064456) 3D adventure-platform game with unique input model. The rich set of actions and game mechanics make Deo a truly challenging game for even the most experienced gamers. This is Deo - ultimate platformer for hardcore gamers.
+- [Tankya’s Adventure: The Curse of Zoltar] - [1](http://www.indiedb.com/games/tankyas-adventure-the-curse-of-zoltar) - [Download](http://gamejolt.com/games/tankya-s-adventure-the-curse-of-zoltar/21443) - [Video](https://www.youtube.com/watch?v=Nqen1BXnVuw) - [Video](https://www.youtube.com/watch?v=rLupl6Yuepg) Is a cartoon adventure indie game, featuring elements of platform games and shooters. A colourful and exciting journey where players pit steel fists against dark voodoo magic across beautiful landscapes in order to save the island.
 
 #### Shooter Games
 
@@ -255,6 +256,7 @@ No games released yet.
 - [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
 - [Twisty's Asylum Escapades](http://asylumescapades.com) - [1](http://www.indiedb.com/games/twistys-asylum-escapades/) - [Store Steam](http://store.steampowered.com/app/506760/)  is a darkly fun action/adventure game with Metroidvania-like elements about a lovable floating brain monster trying to escape from an insane asylum.
+- [Tankya’s Adventure: The Curse of Zoltar] - [1](http://www.indiedb.com/games/tankyas-adventure-the-curse-of-zoltar) - [Download](http://gamejolt.com/games/tankya-s-adventure-the-curse-of-zoltar/21443) - [Video](https://www.youtube.com/watch?v=Nqen1BXnVuw) - [Video](https://www.youtube.com/watch?v=rLupl6Yuepg) Is a cartoon adventure indie game, featuring elements of platform games and shooters. A colourful and exciting journey where players pit steel fists against dark voodoo magic across beautiful landscapes in order to save the island.
 
 #### Survival Horror
 
