@@ -227,7 +227,7 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 First-person shooter (FPS)
 
 - [Dark Horizons Lore](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore) - [Video](https://www.youtube.com/playlist?list=PL4BB070AA105057F2)  The player takes control of a large mech in battle against the enemy team's mechs. (Dead game)
-- [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game) - Download: [win](http://www.gamershell.com/download_28590.shtml)
+- [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game) - [Download](http://www.gamershell.com/pc/dark_horizons_lore_invasion/downloads.html) Linux & Win
 - [Dots Net Crits](https://practicing01.itch.io/dots-net-crits) - [GitHub Repo](https://github.com/practicing01/T3D_GameModes) - [Forum](http://forums.torque3d.org/viewforum.php?f=43) Multiplayer game with lots of variations of weapons and gamemodes.
 - [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch) - [GitHub Repo](https://github.com/fr1tz/rotc-ethernet-game)
 Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
@@ -243,7 +243,8 @@ Free and open source, realism like, multiplayer, casual, first-person-shooter.
 ##### TPS
 Third-person shooter (TPS)
 
-No games released yet.
+- [Dark Horizons: Mechanized Corps](http://www.playmech.com) - [1](http://maxgaming.net) - [2](https://www.garagegames.com/community/blogs/view/22958) - [Video](https://www.youtube.com/playlist?list=PLP2sBuaPufMz0qvXwexvlK8X0D6tBpCyE) - [Store Steam](http://store.steampowered.com/app/266470/) Wage futuristic war by piloting a fully customizable 50 foot tall mech into battle. Fight for personal glory or battle for territorial domination in a persistent online warzone with your friends in various unique battlefields and combat environments. It is a sequel to Dark Horizons Lore: Invasion and the Lore Aftermath.
+- [Lore: Aftermath](https://www.garagegames.com/community/blogs/view/16545) - [1](http://dh-lore.wikia.com/wiki/Lore:_Aftermath) - [Video](https://www.youtube.com/playlist?list=PL5A6A711A73809005) Is a online mech simulation combat game, and the sequel to Dark Horizons Lore and Dark Horizon: Lore Invasion. (Dead game)
 
 #### Fighting games
 - [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (In development)
@@ -308,6 +309,7 @@ Massively multiplayer online role-playing games (MMORPGs)
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) - [1](http://www.garagegames.com/community/blogs/view/22833) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 - [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
+- [World of Antra](http://www.worldofantra.com)  is a fantasy MMORPG where players are dropped into the world and left to explore vast landscapes under their own direction. World of Antra draws inspiration from MUDs rather than traditional MMORPG.
 
 #### Tactical RPG
 
