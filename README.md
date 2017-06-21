@@ -218,7 +218,8 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 #### Platform Games
 
 - [Deo](http://www.liman3d.com/deohome.html) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=131064456) 3D adventure-platform game with unique input model. The rich set of actions and game mechanics make Deo a truly challenging game for even the most experienced gamers. This is Deo - ultimate platformer for hardcore gamers.
-- [Tankya’s Adventure: The Curse of Zoltar] - [1](http://www.indiedb.com/games/tankyas-adventure-the-curse-of-zoltar) - [Download](http://gamejolt.com/games/tankya-s-adventure-the-curse-of-zoltar/21443) - [Video](https://www.youtube.com/watch?v=Nqen1BXnVuw) - [Video](https://www.youtube.com/watch?v=rLupl6Yuepg) Is a cartoon adventure indie game, featuring elements of platform games and shooters. A colourful and exciting journey where players pit steel fists against dark voodoo magic across beautiful landscapes in order to save the island.
+- [Tankya’s Adventure: The Curse of Zoltar](http://www.yoshellshell.com/games/ta) - [1](http://www.indiedb.com/games/tankyas-adventure-the-curse-of-zoltar) - [Download](http://gamejolt.com/games/tankya-s-adventure-the-curse-of-zoltar/21443) [1](https://gumroad.com/l/ujSO) - [Video](https://www.youtube.com/watch?v=Nqen1BXnVuw) - [Video](https://www.youtube.com/watch?v=rLupl6Yuepg) Is a cartoon adventure indie game, featuring elements of platform games and shooters. A colourful and exciting journey where players pit steel fists against dark voodoo magic across beautiful landscapes in order to save the island.
+- [Drains](http://drains.pathea.net/) [1](http://www.indiedb.com/games/drains) - Video: [1](https://www.youtube.com/watch?v=wx07f4W0rao) [2](https://www.youtube.com/watch?v=8gc4hIQtSOI)
 
 #### Shooter Games
 
@@ -310,6 +311,7 @@ Massively multiplayer online role-playing games (MMORPGs)
 - [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) - [1](http://www.garagegames.com/community/blogs/view/22833) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 - [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
 - [World of Antra](http://www.worldofantra.com)  is a fantasy MMORPG where players are dropped into the world and left to explore vast landscapes under their own direction. World of Antra draws inspiration from MUDs rather than traditional MMORPG.
+- [Steam Hammer](https://steamhammer.us) - [Reddit](https://www.reddit.com/r/steamhammergame/) - [Store Steam](http://store.steampowered.com/app/530560/STEAM_HAMMER/) - [Youtube Channel](https://www.youtube.com/channel/UC4NPspsDNSwOFaCKzIoQvbA) is the first hardcore sandbox RPG in a steampunk setting featuring survival elements. Try yourself as an explorer, craftsman, architect, industrialist and conqueror. Forge weapons and armor, build houses, factories and towers, fly airships and jetpacks and stand up to the enemy. Here you'll find all the advantages of sandbox games in the mysterious world of steam engines. [Video](https://www.youtube.com/watch?v=pg8v3eVDa4U)
 
 #### Tactical RPG
 
@@ -317,6 +319,7 @@ No games released yet.
 
 #### Sandbox RPG
 - [Life is Feudal: Your Own](http://lifeisfeudal.com/yo) - [Store Steam](http://store.steampowered.com/app/290080/) A truly hardcore sandbox RPG with captivating survival aspects. Described as a real life Medieval simulator.
+- [Steam Hammer](https://steamhammer.us) - [Reddit](https://www.reddit.com/r/steamhammergame/) - [Store Steam](http://store.steampowered.com/app/530560/STEAM_HAMMER/) - [Youtube Channel](https://www.youtube.com/channel/UC4NPspsDNSwOFaCKzIoQvbA) is the first hardcore sandbox RPG in a steampunk setting featuring survival elements. Try yourself as an explorer, craftsman, architect, industrialist and conqueror. Forge weapons and armor, build houses, factories and towers, fly airships and jetpacks and stand up to the enemy. Here you'll find all the advantages of sandbox games in the mysterious world of steam engines. Video](https://www.youtube.com/watch?v=pg8v3eVDa4U)
 
 #### Fantasy
 
@@ -396,6 +399,7 @@ Sports-based fighting
 - [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
 - [blockabout](http://www.indiedb.com/games/blockabout) Add vehicles, boats, turrets, weapons, ammo, buildings, destroyable objects, or use the library of building blocks to construct your own creations!
+- [Steam Hammer](https://steamhammer.us) - [Reddit](https://www.reddit.com/r/steamhammergame/) - [Store Steam](http://store.steampowered.com/app/530560/STEAM_HAMMER/) - [Youtube Channel](https://www.youtube.com/channel/UC4NPspsDNSwOFaCKzIoQvbA) is the first hardcore sandbox RPG in a steampunk setting featuring survival elements. Try yourself as an explorer, craftsman, architect, industrialist and conqueror. Forge weapons and armor, build houses, factories and towers, fly airships and jetpacks and stand up to the enemy. Here you'll find all the advantages of sandbox games in the mysterious world of steam engines. Video](https://www.youtube.com/watch?v=pg8v3eVDa4U)
 
 #### 6DoF Games
 
@@ -408,6 +412,9 @@ Six degrees of freedom.
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 - [Simple GUI list](http://www.garagegames.com/community/resources/view/23043)
+- [Dark UI by Nils Eikelenboom](https://www.garagegames.com/community/resources/view/22855) - [Download](i-dropper.net/torque/darkUI/T3D361_DarkUI_Beta14.zip)
+- [Dark UI modified by Janders](http://forums.torque3d.org/viewtopic.php?f=26&t=380) - [Download](https://www.dropbox.com/s/swb334sxjjkw1mk/T3D361_DarkUI_Beta14_Jan_Edition.zip?dl=0)
+- [SQL GUI system gets XML](http://forums.torque3d.org/viewtopic.php?f=17&t=604) - [GitHub](https://github.com/ChrisCalef/Torque3D/tree/uiForms)
 
 # Input
 - [Rally Car and Xbox One Gamepad Example](http://forums.torque3d.org/viewtopic.php?f=24&t=853) - Download: [1](https://drive.google.com/file/d/0B4K1M7P0W_qbOWxpaERrUE50Mk0/view) I wanted to see if my old xbox keybinds would work with an Xbox One gamepad.
