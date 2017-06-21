@@ -219,7 +219,7 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 
 - [Deo](http://www.liman3d.com/deohome.html) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=131064456) 3D adventure-platform game with unique input model. The rich set of actions and game mechanics make Deo a truly challenging game for even the most experienced gamers. This is Deo - ultimate platformer for hardcore gamers.
 - [Tankya’s Adventure: The Curse of Zoltar](http://www.yoshellshell.com/games/ta) - [1](http://www.indiedb.com/games/tankyas-adventure-the-curse-of-zoltar) - [Download](http://gamejolt.com/games/tankya-s-adventure-the-curse-of-zoltar/21443) [1](https://gumroad.com/l/ujSO) - [Video](https://www.youtube.com/watch?v=Nqen1BXnVuw) - [Video](https://www.youtube.com/watch?v=rLupl6Yuepg) Is a cartoon adventure indie game, featuring elements of platform games and shooters. A colourful and exciting journey where players pit steel fists against dark voodoo magic across beautiful landscapes in order to save the island.
-- [Drains](http://drains.pathea.net/) [1](http://www.indiedb.com/games/drains) - Video: [1](https://www.youtube.com/watch?v=wx07f4W0rao) [2](https://www.youtube.com/watch?v=8gc4hIQtSOI)
+- [Drains](http://drains.pathea.net/) [1](http://www.indiedb.com/games/drains) Is a sidescrolling action platforming game. Aspect of the game is based on a corridor, the player will be able to freely move around within the corridor. Also offers some roleplay elements by allowing the player to gain levels and get more powerful attacks. - Video: [1](https://www.youtube.com/watch?v=wx07f4W0rao) [2](https://www.youtube.com/watch?v=8gc4hIQtSOI)
 
 #### Shooter Games
 
