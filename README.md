@@ -119,6 +119,9 @@ Artificial Intelligence
 - [3DRT Free Vehicles](http://3drt.com/store/free-downloads/free-vehicles/)
 - [Collection Art Assets](http://letsmakegames.org/resources/art-assets-for-game-developers/)
 - [OpenGameArt](http://opengameart.org/)
+- [Free3D](https://free3d.com/)  is the place to share your 3d models with the world. Build your own portofolio to show your skills and get hired in the 3D industry.
+- [Blend Swap](https://www.blendswap.com/) Is a community of passionate blender artists who share their work under creative commons licenses.
+- [TurboSquid](https://www.turbosquid.com/Search/Index.cfm?keyword=null&max_price=0&min_price=0) Save artists the time of making a great model, and instead let them add their own personality to their creations.
 
 
 ### Pay assets
@@ -531,6 +534,7 @@ Torque3D
 - [GratiPay](https://gratipay.com/torque3d/)
 - [Indie Teamup](http://www.indieteamup.com/) Is where you go to discover indie devs and teams. You can easily collaborate with each other to take your ideas from paper to production.
 - [Streamtip](https://streamtip.com/) Streamtip provides you with a personalized, simplified tipping page that allows you to display a short message to your supporters.
+- [Pledgie](https://pledgie.com/) is a framework of services which creates an open collaborative context around the act of giving.
 
 ## Shaders
 - [Shader Pack Vol 1](http://www.liman3d.com/shaderpackvol1_overview.html)
@@ -623,6 +627,7 @@ Level Editor
 ### Stealth
 
 - [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+- [Cloak pickup](https://www.garagegames.com/community/forums/viewthread/5220)
 
 ### Zombie
 
