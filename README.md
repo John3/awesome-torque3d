@@ -120,7 +120,6 @@ Artificial Intelligence
 - [the3dmodelstore](http://www.the3dmodelstore.com/free.php)
 - [Old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
 - [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
-- [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu#) These textures are made in substance designer(procedural texture)
 - [Mobile Game Graphics (MGG)](https://mobilegamegraphics.com/product-category/all_products/freestuff/)
 - [3DRT Free Characters](http://3drt.com/store/free-downloads/free-characters/)
 - [3DRT Free Buildings](http://3drt.com/store/free-downloads/free-buildings/)
