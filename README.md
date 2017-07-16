@@ -10,6 +10,7 @@ Suggestions and contributions are always welcome!
 * [2D](#2d)
 * [AI](#ai)
 * [Assets](#assets)
+  * [PBR Materials](#pbr-materials)
   * [Free Assets](#free-assets)
   * [Pay assets](#pay-assets)
 * [Virtual Reality](#virtual-reality)
@@ -60,11 +61,11 @@ Suggestions and contributions are always welcome!
       * [Open World Games](#open-world-games)
       * [Sandbox Games](#sandbox-games)
       * [6Dof Games](#6dof-games)
-* [GUI](#gui)
 * [IDEs](#ides)
    * [Editors](#editors)
    * [TorqueScript syntax highlighting](#torquescript-syntax-highlighting)
 * [Input](#input)
+* [GUI](#gui)
 * [License](#license)
 * [Lighting](#lighting)
 * [Modeling](#modeling)
@@ -102,6 +103,12 @@ Artificial Intelligence
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
 
 ## Assets
+
+### PBR Materials
+- [Free PBR Materials](https://freepbr.com/)
+- [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu)
+- [PBR_material_Free_01 (substance designer)](https://gumroad.com/l/PBRpack01)
+- [Stone Pack](https://gumroad.com/l/kzsgw)
 
 ### Free assets
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
