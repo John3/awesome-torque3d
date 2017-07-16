@@ -105,10 +105,11 @@ Artificial Intelligence
 ## Assets
 
 ### PBR Materials
-- [Free PBR Materials](https://freepbr.com/)
-- [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu)
-- [PBR_material_Free_01 (substance designer)](https://gumroad.com/l/PBRpack01)
-- [Stone Pack](https://gumroad.com/l/kzsgw)
+- [Free PBR Materials](https://freepbr.com/) 100% free PBR materials and texture files, use the metalness/roughness workflow.
+- [Free PBR Texture Vol.1](https://gumroad.com/l/HEZvu) These textures are made in substance designer(procedural texture).
+- [PBR_material_Free_01](https://gumroad.com/l/PBRpack01) ) Includes 4 types of materials created in Substance Designer 5 By Igor Dmytrenko.
+- [Stone Pack](https://gumroad.com/l/kzsgw) PBR texture Metallic/Roughness. Igor Dmytrenko.
+- [Free Collection - Vol1](https://www.renderosity.com/mod/freestuff/free-collection---vol1-pbr-textures-/76206) PBR Textures by KobaAlexander.
 
 ### Free assets
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
