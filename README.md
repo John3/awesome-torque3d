@@ -482,6 +482,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Future fighterjet for T3D](http://forums.torque3d.org/viewtopic.php?f=24&t=930#p7504) - [Download](http://opengameart.org/content/future-fighterjet-for-torque3d)
 - [Basic flyingVehicle mod](http://forums.torque3d.org/viewtopic.php?f=23&t=931&p=7509#p7509)
 - [ExplosionShape Improvement](http://forums.torque3d.org/viewtopic.php?f=10&p=7429) - [1](http://yorkshirerifles.blogspot.mx/2017/01/fancy-pants-stuff.html)
+- [Jeep-like Vehicle with Mounted Gun and Headlamps](http://www.garagegames.com/community/resources/view/23050) - [Download 1](https://www.mediafire.com/?ldiiahyr2di85l0) - [Download 2](https://drive.google.com/file/d/0B0d1pOYTSlgIY09YaENBSkhpRlU/view?usp=sharing)
 
 ### Resource collection
 - [My publics collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
@@ -583,6 +584,9 @@ Documentation & Tutorials
 - [L3DT - Making terrain](http://www.bundysoft.com/wiki/doku.php?id=tutorials:torque:t3d:aaron)
 - [T3D v3.9+ Editors video tutorials](http://forums.torque3d.org/viewtopic.php?f=12&t=862#p6927) Useful video tutorials using the latest version of T3D 3.9+.
 - [Torque3D v3.9 Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751#p6229)
+- [T3D Car Tutorial Part 1](https://vimeo.com/57474314)
+- [T3D Car Tutorial Part 2](https://vimeo.com/57482910)
+- [T3D Car Tutorial Part 3](https://vimeo.com/57546491)
 
 ### MMORPG Tutorial
 - [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
