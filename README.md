@@ -498,7 +498,7 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 
 - [Main Torque3D](https://github.com/GarageGames/Torque3D) The main repo of Torque3D. (Where the development is going)
 
-- [Mirror "Main" Torque3D]()(https://github.com/Torque3D-GameEngine) A mirror of Torque3D Engine, official documentation and stuff related.
+- [Mirror "Main" Torque3D](https://github.com/Torque3D-GameEngine) A mirror of Torque3D Engine, official documentation and stuff related.
 - [Unnofficial Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [GitHub](https://github.com/John3/Torque3D_Unofficial/releases) Torque3D Game Engine - Unofficial Repository. Clean Torque3D dev builds.
 - [Collection Games & Demos T3D](https://github.com/orgs/Torque3D-Games-Demos/) A mirror of games, demos and prototypes using T3D or related technology.
 - [My 2nd public collection of resources](https://github.com/orgs/Torque3D-Resources/) A mirror of repositories of resources, products or related technology.
