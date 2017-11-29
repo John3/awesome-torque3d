@@ -74,6 +74,7 @@ Suggestions and contributions are always welcome!
 * [Physics](#physics)
 * [Resources](#resources)
 	* [Resource collections](#resource-collection)
+* [Repositories](#repositories)
 * [Server](#server)
 * [Serialization](#serialization)
 * [Sound & Music](#sound--music)
@@ -187,12 +188,8 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 ## Development
 
-- [Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [1](https://github.com/John3/Torque3D_Unofficial/releases)
-- [Torque3D Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751&p=6248#p6229)
-- [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 - [IPV6 Support](http://forums.torque3d.org/viewtopic.php?f=10&t=819) - [GitHub Repo](https://github.com/jamesu/Torque3D/tree/ipv6_support) ipv6 support for the T3D (and T2D) networking.
 - [Mac OSX support](http://forums.torque3d.org/viewtopic.php?f=40&t=815) Initial setup for Mac OSX support.
-- [Indie Teamup](http://www.indieteamup.com/) Is where you go to discover indie devs and teams. You can easily collaborate with each other to take your ideas from paper to production.
 
 ## Funds
 
@@ -201,7 +198,10 @@ Raise funds.
 - [Indiegogo](https://www.indiegogo.com) Our mission is to empower people to unite around ideas that matter to them and together make those ideas come to life.
 - [Kickstarter](https://www.kickstarter.com/) Helps artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.
 - [GoFundMe](https://www.gofundme.com) Allows campaign organizers to invite others to take part in their story, share your dreams, pursuits, celebrations and challenges online with crowdfunding.
-
+- [Open Collective](https://opencollective.com/) Enables groups to quickly set up a collective, raise funds and manage them transparently.
+- [Patreon] Is a platform that provides business tools for creators to run a subscription content service, as well as ways for artists to build relationships and provide exclusive experiences to their subscribers. It allows artists to receive funding directly from their fans, or patrons, on a recurring basis or per work of art.
+- [Bountysource](https://bountysource.com/)  Is the funding platform for open-source software. Users can improve the open-source projects they love by creating/collecting bounties and pledging to fundraisers.
+- [Liberapay](https://liberapay.com/) Is a way to donate money recurrently to people whose work you appreciate.
 
 ## FX
 
@@ -422,7 +422,7 @@ Six degrees of freedom.
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
 - [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
 - [Simple GUI list](http://www.garagegames.com/community/resources/view/23043)
-- [Dark UI by Nils Eikelenboom](https://www.garagegames.com/community/resources/view/22855) - [Download](i-dropper.net/torque/darkUI/T3D361_DarkUI_Beta14.zip)
+- [Dark UI by Nils Eikelenboom](https://www.garagegames.com/community/resources/view/22855) - [Download](http://i-dropper.net/torque/darkUI/T3D361_DarkUI_Beta14.zip)
 - [Dark UI modified by Janders](http://forums.torque3d.org/viewtopic.php?f=26&t=380) - [Download](https://www.dropbox.com/s/swb334sxjjkw1mk/T3D361_DarkUI_Beta14_Jan_Edition.zip?dl=0)
 - [SQL GUI system gets XML](http://forums.torque3d.org/viewtopic.php?f=17&t=604) - [GitHub](https://github.com/ChrisCalef/Torque3D/tree/uiForms)
 
@@ -485,20 +485,31 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Jeep-like Vehicle with Mounted Gun and Headlamps](http://www.garagegames.com/community/resources/view/23050) - [Download 1](https://www.mediafire.com/?ldiiahyr2di85l0) - [Download 2](https://drive.google.com/file/d/0B0d1pOYTSlgIY09YaENBSkhpRlU/view?usp=sharing)
 
 ### Resource collection
-- [My publics collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
+- [My public collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
+- [My 2nd public collection of resources](https://github.com/orgs/Torque3D-Resources/) A mirror of repositories of resources.
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
 - [Assimilating GG Resources for FPS](http://www.garagegames.com/community/blogs/view/15915)
 - [The big addon thread!](http://www.garagegames.com/community/forums/viewthread/131140)
 
+# Repositories
+
+All repositories related to Torque 3D or the related to the Torque Technology.
+
+- [Main Torque3D](https://github.com/GarageGames/Torque3D) The main repo of Torque3D. (Where the development is going)
+
+- [Mirror "Main" Torque3D]()(https://github.com/Torque3D-GameEngine) A mirror of Torque3D Engine, official documentation and stuff related.
+- [Unnofficial Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [GitHub](https://github.com/John3/Torque3D_Unofficial/releases) Torque3D Game Engine - Unofficial Repository. Clean Torque3D dev builds.
+- [Collection Games & Demos T3D](https://github.com/orgs/Torque3D-Games-Demos/) A mirror of games, demos and prototypes using T3D or related technology.
+- [My 2nd public collection of resources](https://github.com/orgs/Torque3D-Resources/) A mirror of repositories of resources, products or related technology.
+
 ## IDEs
 - [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods. - [Download](http://ghc-games.com/SC/Torsion.zip)
-- [TorqueDev](https://github.com/John3/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
+- [TorqueDev](https://github.com/Torque3D-Resources/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
 - [IDEA](https://github.com/lukaspj/TorqueSense) - [1](http://wiki.torque3d.org/communityproject:new-scripting-ide-based-on-idea) Is a plugin that can be used with the free IntelliJ community edition IDE.
 - [TIDE](https://github.com/John3/torqueide) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor.
 - [Torque-IDE](https://github.com/John3/torque-ide)
 - [TorqueScript debugger](http://eviwo.free.fr/torque/Debugger-documentation.html) - [1](http://tdn.garagegames.com/wiki/TorqueScript/IDE/Guide/DebuggerForTorque) A Python-based debugger for Torque. Download: [1](http://eviwo.free.fr/download/DebuggerForTorque-V2-4.tar.gz) - [2](http://tdn.garagegames.com/wiki/images/c/c5/DebuggerForTorque.zip)
-
 
 ### Editors
 #### TorqueScript syntax highlighting
@@ -518,7 +529,6 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Gumroad](https://gumroad.com) An all-in-one solution to sell your work and grow your audience.
 - [Humble  Bundle Developer Resources](https://www.humblebundle.com/developer/) We want to share Humble Bundle's experience and scale to help every developer make more games and reach more customers. 
 - [Steam Greenlight](http://steamcommunity.com/greenlight) - [Submission Fee](http://store.steampowered.com/app/219820) Is a system that enlists the community's help in picking some of the new games to be released on Steam
-- [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
 - [Game Jolt](http://gamejolt.com/) Where anyone can create a game, show it off, and build an audience.  In 2008 it became one of the biggest indie gaming platforms in existence. Today, millions of gamers, let's players, and indie developers visit Game Jolt each month.
 
 ## Scripting
@@ -540,6 +550,10 @@ Torque3D
 - [Facebook](https://www.facebook.com/Torque3D)
 - IndieDB: [T3D](http://www.indiedb.com/engines/torque-3d) - [TGEA](http://www.indiedb.com/engines/torque-game-engine-advanced) - [TGE](http://www.indiedb.com/engines/torque-game-engine)
 - [GratiPay](https://gratipay.com/torque3d/)
+
+- [Concepts in Steam Greenlight](http://steamcommunity.com/workshop/browse/?appid=765&browsesort=trend&section=concepts) Is intended for items looking to gather feedback from the potential customers and begin building a community.
+- [IndieDB](http://www.indiedb.com) The aim of Indie DB is to connect independent developers of games with players, from the day they start developing their game to the day they release it.
+- [Patreon] Is a platform that provides business tools for creators to run a subscription content service, as well as ways for artists to build relationships and provide exclusive experiences to their subscribers. It allows artists to receive funding directly from their fans, or patrons, on a recurring basis or per work of art.
 - [Indie Teamup](http://www.indieteamup.com/) Is where you go to discover indie devs and teams. You can easily collaborate with each other to take your ideas from paper to production.
 - [Streamtip](https://streamtip.com/) Streamtip provides you with a personalized, simplified tipping page that allows you to display a short message to your supporters.
 - [Pledgie](https://pledgie.com/) is a framework of services which creates an open collaborative context around the act of giving.
@@ -565,6 +579,7 @@ Torque3D
 
 Documentation & Tutorials
 
+- [Torque3D Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751&p=6248#p6229) - [GitHub](https://github.com/John3/Torque3D_Unofficial/tree/master/Documentation) Engine Reference, TorqueScript reference with function, classes and modules.
 - [Compiling 3.10 for macOS](http://forums.torque3d.org/viewtopic.php?f=12&t=954&p=7616#p7616)
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
 - [CodeSamples Tutorials](http://www.codesampler.com/torque.htm)
