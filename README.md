@@ -497,7 +497,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 All repositories related to Torque 3D or the related to the Torque Technology.
 
-- [Main Torque3D](https://github.com/GarageGames/Torque3D) The main repo of Torque3D. (Where the development is going)
+- [Main Torque3D](https://github.com/GarageGames/Torque3D) The official engine repository. The current development version is here.
 
 - [Mirror "Main" Torque3D](https://github.com/Torque3D-GameEngine) A mirror of Torque3D Engine, official documentation and stuff related.
 - [Unnofficial Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [GitHub](https://github.com/John3/Torque3D_Unofficial/releases) Torque3D Game Engine - Unofficial Repository. Clean Torque3D dev builds.
