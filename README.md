@@ -483,6 +483,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Basic flyingVehicle mod](http://forums.torque3d.org/viewtopic.php?f=23&t=931&p=7509#p7509)
 - [ExplosionShape Improvement](http://forums.torque3d.org/viewtopic.php?f=10&p=7429) - [1](http://yorkshirerifles.blogspot.mx/2017/01/fancy-pants-stuff.html)
 - [Jeep-like Vehicle with Mounted Gun and Headlamps](http://www.garagegames.com/community/resources/view/23050) - [Download 1](https://www.mediafire.com/?ldiiahyr2di85l0) - [Download 2](https://drive.google.com/file/d/0B0d1pOYTSlgIY09YaENBSkhpRlU/view?usp=sharing)
+- [MiniMap](http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
 
 ### Resource collection
 - [My public collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
@@ -536,6 +537,7 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 Related to TorqueScript.
 
 - [Drop/Throw All Items in Player Inventory](https://www.garagegames.com/community/forums/viewthread/134795/1#comment-848508)
+- [MiniMap](http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
 
 ## Server
 - [PHP MasterServer for Torque](https://www.garagegames.com/community/resources/view/14857)
