@@ -237,6 +237,7 @@ Become a famous pirate, sailing the seas and owning the biggest and baddest ship
 
 First-person shooter (FPS)
 
+- [THE TRENCH](http://www.indiedb.com/games/the-trench) - [Homepage](http://www.prophecyresurection.com/) Taking place during the First World War. One of the main gameplay mechanics is that you begin the game 3 days before the German assault on the 21st February 1916. This time allows you to prepare for the future assaults of the Germans. You can request field artillery placements on a precise zone, air support, Trench raiding and the positioning of foot soldiers in strategic places. These 3 days will allow you to prepare the structure and the scene of the approaching battle. This also offers the player an important level of replayability. (In development)
 - [Dark Horizons Lore](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore) - [Video](https://www.youtube.com/playlist?list=PL4BB070AA105057F2)  The player takes control of a large mech in battle against the enemy team's mechs. (Dead game)
 - [Dark Horizons Lore: Invasion](http://dh-lore.wikia.com/wiki/Dark_Horizons_Lore:_Invasion) - [Video](https://www.youtube.com/playlist?list=PL16DA385970C809BB) Largely the same as the original Dark Horizons Lore, with most of the updates being in the game's visuals, with updated visual effects and models. (Dead game) - [Download](http://www.gamershell.com/pc/dark_horizons_lore_invasion/downloads.html) Linux & Win
 - [Dots Net Crits](https://practicing01.itch.io/dots-net-crits) - [GitHub Repo](https://github.com/practicing01/T3D_GameModes) - [Forum](http://forums.torque3d.org/viewforum.php?f=43) Multiplayer game with lots of variations of weapons and gamemodes.
@@ -356,6 +357,7 @@ Multiplayer online battle arena (MOBA)
 - [Cyber-Wing](http://www.martianarctic.com/games/cyberwing/) - [1](https://sites.google.com/site/gamecyberwing/) It is a real-time strategy/action hybrid, where you build units like an RTS but must fly around and fight like in an action game. You capture bases and build and give orders such as attack and retreat to troops and ultimately destroy the enemy HQ to win the game. 
 
 #### Tower Defense
+- [Cogflicts](http://www.indiedb.com/games/cogflicts) - [HomePage](http://ratfishstudios.com/2017/index.php/cogflicts/) is a Real Time Strategic shooter with Tower Defense inspiration. Seamlessly integrating first person and tactical decision making into every moment of gameplay. (In development)
 - [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360) Combines elements of tower defense, RTS, and all-out multi-player mayhem to bring you a completely unique experience, delivered with a fun and funny not-so-old world style! 
 - [Monoliths of Terravia](http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
 
