@@ -494,6 +494,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [A big hole of resources](http://abighole.hngamers.com)
 - [Assimilating GG Resources for FPS](http://www.garagegames.com/community/blogs/view/15915)
 - [The big addon thread!](http://www.garagegames.com/community/forums/viewthread/131140)
+- [Bookmarked resources](http://www.garagegames.com/community/blogs/view/15983)
 
 # Repositories
 
@@ -606,6 +607,11 @@ Documentation & Tutorials
 - [T3D Car Tutorial Part 1](https://vimeo.com/57474314)
 - [T3D Car Tutorial Part 2](https://vimeo.com/57482910)
 - [T3D Car Tutorial Part 3](https://vimeo.com/57546491)
+
+Audio & Sound
+- [Quick guide to sound and audio](http://www.garagegames.com/community/forums/viewthread/126888)
+- [SFX Workflows](http://www.garagegames.com/community/forums/viewthread/106725)
+- [SFX Changes](http://www.garagegames.com/community/forums/viewthread/106271) 
 
 ### MMORPG Tutorial
 - [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
