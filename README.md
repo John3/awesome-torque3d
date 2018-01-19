@@ -60,6 +60,7 @@ Suggestions and contributions are always welcome!
       * [Historical Games](#historical-games)
       * [Open World Games](#open-world-games)
       * [Sandbox Games](#sandbox-games)
+      * [Virtual World](#virtual-world)
       * [6Dof Games](#6dof-games)
 * [IDEs](#ides)
    * [Editors](#editors)
@@ -412,6 +413,9 @@ Sports-based fighting
 - [Blockland](http://blockland.us/) - [Store Steam](http://store.steampowered.com/app/250340/) Is a non-linear online multiplayer sandbox game with no set goals where you build have the freedom to design and construct elaborate structures with bricks.
 - [blockabout](http://www.indiedb.com/games/blockabout) Add vehicles, boats, turrets, weapons, ammo, buildings, destroyable objects, or use the library of building blocks to construct your own creations!
 - [Steam Hammer](https://steamhammer.us) - [Reddit](https://www.reddit.com/r/steamhammergame/) - [Store Steam](http://store.steampowered.com/app/530560/STEAM_HAMMER/) - [Youtube Channel](https://www.youtube.com/channel/UC4NPspsDNSwOFaCKzIoQvbA) is the first hardcore sandbox RPG in a steampunk setting featuring survival elements. Try yourself as an explorer, craftsman, architect, industrialist and conqueror. Forge weapons and armor, build houses, factories and towers, fly airships and jetpacks and stand up to the enemy. Here you'll find all the advantages of sandbox games in the mysterious world of steam engines. Video](https://www.youtube.com/watch?v=pg8v3eVDa4U)
+
+#### Virtual World
+- [vSide](http://www.vside.com/app/start) - [1](https://en.wikipedia.org/wiki/VSide) Is an Internet-based 3D virtual world, inside the game's universe, users can interact with each other through social networking, celebrity entertainment, virtual boutique shopping and self-expression. vSide is designed to be an online social environment where teenagers can hang out in real-time with their friends in public and personal spaces.
 
 #### 6DoF Games
 
