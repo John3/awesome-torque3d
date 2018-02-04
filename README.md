@@ -12,6 +12,7 @@ Suggestions and contributions are always welcome!
 * [Assets](#assets)
   * [PBR Materials](#pbr-materials)
   * [Free Assets](#free-assets)
+    * [Demo Levels](#demo-levels)
   * [Pay assets](#pay-assets)
 * [Virtual Reality](#virtual-reality)
 * [Animation](#animation)
@@ -114,6 +115,7 @@ Artificial Intelligence
 - [Free Collection - Vol1](https://www.renderosity.com/mod/freestuff/free-collection---vol1-pbr-textures-/76206) PBR Textures by KobaAlexander.
 
 ### Free assets
+
 - [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 - [3td Studios Free Models](https://www.cgtrader.com/3tdstudiosron) - [1](http://opengameart.org/content/3td-studios-packs) Free 3D Assets for Game Developers and Hobbyists
 - [Art by hreikin](http://opengameart.org/users/hreikin)
@@ -131,6 +133,11 @@ Artificial Intelligence
 - [Free3D](https://free3d.com/)  is the place to share your 3d models with the world. Build your own portofolio to show your skills and get hired in the 3D industry.
 - [Blend Swap](https://www.blendswap.com/) Is a community of passionate blender artists who share their work under creative commons licenses.
 - [TurboSquid](https://www.turbosquid.com/Search/Index.cfm?keyword=null&max_price=0&min_price=0) Save artists the time of making a great model, and instead let them add their own personality to their creations.
+
+#### Demo Levels
+- [T3D Demos](https://github.com/Torque3D-GameEngine/T3D-Demos) GarageGames released the arts of T3D Demos with MIT License.
+- [Torque3D Arts & Demos from Ron](https://github.com/Torque3D-Games-Demos/T3D_Ron_Demos)
+- [Torque3D Terrains by Andy](https://github.com/Torque3D-Games-Demos/Torque3D_Terrains)
 
 
 ### Pay assets
@@ -583,6 +590,7 @@ Torque3D
 - [Terrain edge seams](http://forums.torque3d.org/viewtopic.php?f=9&t=722#p5992) - [GitHub](https://github.com/GarageGames/Torque3D/pull/1542)
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
 - [L3DT - Making terrain](http://www.bundysoft.com/wiki/doku.php?id=tutorials:torque:t3d:aaron)
+- [Torque3D Terrains by Andy](https://github.com/Torque3D-Games-Demos/Torque3D_Terrains)
 
 ## Tutorials
 
@@ -642,7 +650,7 @@ Easing/Tweening system
 
 ## Utilities
 
-- [3D Action Adventure Kit](http://ubiqvisuals.com/index.php?option=com_content&view=article&id=49&Itemid=61)
+- [3D Action Adventure Kit for T3D](http://ubiqvisuals.com/index.php?option=com_content&view=article&id=55) - [GitHub](https://github.com/UbiqVisuals/3DAAK) Is a great foundation for aspiring game designers to create their own adventure games. It provides all the necessary building blocks to create adventure games such as Mario Galaxy, Shadow of the Colossus, ICO, and Zelda. The flexible camera system will also allows the creation of 2D platforming games like Little Big Planet and fixed camera games like God of War, Metal Gear Solid, and Devil May Cry.
 - [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere..
 - [The Modern Air Combat Starter Kit (MACSK)](https://www.ignition-games.com/store/viewProduct.php?id=1) - [Register first](https://store.ignition-games.com/store/register.php) A starter kit for the Torque 3D engine that gives developers all the basics to start their own air combat game.
 - [PGD Ultimate Torque Pack](http://www.phantomdev.net/Torque3D/Bundle1/index.php) You'll have access to all of our packs we have created, including the Multiplayer Assembly Package, the Dynamic Weather Pack, the Advanced FPS Kit, and all of the T3D Micro Packs we have created.
