@@ -80,6 +80,7 @@ Suggestions and contributions are always welcome!
 * [Server](#server)
 * [Serialization](#serialization)
 * [Sound & Music](#sound--music)
+* [Store](#store)
 * [Social](#social)
 * [Scripting](#scripting)
 * [Shaders](#shaders)
@@ -207,8 +208,8 @@ Raise funds.
 - [Kickstarter](https://www.kickstarter.com/) Helps artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.
 - [GoFundMe](https://www.gofundme.com) Allows campaign organizers to invite others to take part in their story, share your dreams, pursuits, celebrations and challenges online with crowdfunding.
 - [Open Collective](https://opencollective.com/) Enables groups to quickly set up a collective, raise funds and manage them transparently.
-- [Patreon] Is a platform that provides business tools for creators to run a subscription content service, as well as ways for artists to build relationships and provide exclusive experiences to their subscribers. It allows artists to receive funding directly from their fans, or patrons, on a recurring basis or per work of art.
-- [Bountysource](https://bountysource.com/)  Is the funding platform for open-source software. Users can improve the open-source projects they love by creating/collecting bounties and pledging to fundraisers.
+- [Patreon](https://www.patreon.com) Is a platform that provides business tools for creators to run a subscription content service, as well as ways for artists to build relationships and provide exclusive experiences to their subscribers. It allows artists to receive funding directly from their fans, or patrons, on a recurring basis or per work of art.
+- [Bountysource](https://www.bountysource.com/)  Is the funding platform for open-source software. Users can improve the open-source projects they love by creating/collecting bounties and pledging to fundraisers.
 - [Liberapay](https://liberapay.com/) Is a way to donate money recurrently to people whose work you appreciate.
 
 ## FX
@@ -545,8 +546,18 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [itch.io](https://itch.io/) An open marketplace for independent digital creators with a focus on independent video games. It’s a platform that enables anyone to sell the content they've created.
 - [Gumroad](https://gumroad.com) An all-in-one solution to sell your work and grow your audience.
 - [Humble  Bundle Developer Resources](https://www.humblebundle.com/developer/) We want to share Humble Bundle's experience and scale to help every developer make more games and reach more customers. 
-- [Steam Greenlight](http://steamcommunity.com/greenlight) - [Submission Fee](http://store.steampowered.com/app/219820) Is a system that enlists the community's help in picking some of the new games to be released on Steam
+- [Steam Direct](https://partner.steamgames.com/steamdirect) - [1](https://partner.steamgames.com/doc/gettingstarted) - [Store](http://store.steampowered.com) Steam Direct provide a streamlined, transparent, and affordable route for new game developers from anywhere in the world to bring games to Steam.
 - [Game Jolt](http://gamejolt.com/) Where anyone can create a game, show it off, and build an audience.  In 2008 it became one of the biggest indie gaming platforms in existence. Today, millions of gamers, let's players, and indie developers visit Game Jolt each month.
+- [GOG](https://www.gog.com) is a digital distribution platform with a curated selection of games, a "you buy it, you own it" philosophy, and utmost care about customers.
+- [GamesPlanet](http://gamesplanet.com)
+- [Green Mangaming](https://www.greenmangaming.com/)
+- [Fireflowergames](http://fireflowergames.com)
+- [Direct2drive](https://www.direct2drive.com)
+- [Iplay](https://www.iplay.com/)
+- [Gamestop](http://www.gamestop.com/pcgames)
+- [Gamehouse](http://www.gamehouse.com)
+- [Gamersgate](http://www.gamersgate.com)
+- [Amazon](https://www.amazon.com/b/ref=sv_vg_dl_3?ie=UTF8&node=2445220011)
 
 ## Scripting
 
