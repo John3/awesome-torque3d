@@ -134,6 +134,7 @@ Artificial Intelligence
 - [Free3D](https://free3d.com/)  is the place to share your 3d models with the world. Build your own portofolio to show your skills and get hired in the 3D industry.
 - [Blend Swap](https://www.blendswap.com/) Is a community of passionate blender artists who share their work under creative commons licenses.
 - [TurboSquid](https://www.turbosquid.com/Search/Index.cfm?keyword=null&max_price=0&min_price=0) Save artists the time of making a great model, and instead let them add their own personality to their creations.
+- [GameDev Market](https://www.gamedevmarket.net/?s=&post_type=product&tags=1&limit=5&ixwps=1&type=free) A single place for indie game developers to buy and sell high quality game assets with really simple licensing, regardless of experience, budget or engine choice.
 
 #### Demo Levels
 - [T3D Demos](https://github.com/Torque3D-GameEngine/T3D-Demos) GarageGames released the arts of T3D Demos with MIT License.
@@ -148,7 +149,8 @@ Artificial Intelligence
 - [FroGames](http://www.frogames.net/content-packs.html) - Content packs for game development.
 - [3DRT](http://3drt.com/store/) - We specialize in high-quality 3D models for video games.
 - [TurboSquid](https://www.turbosquid.com/) - Our goal is to save artists the time of making a great model, and instead let them add their own personality to their creations.
-- [CGTrader ](https://www.cgtrader.com/) - is the largest 3D model marketplace for computer graphics, virtual/augmented reality/ and gaming, backed by a strong professional designer community. 
+- [CGTrader ](https://www.cgtrader.com/) - is the largest 3D model marketplace for computer graphics, virtual/augmented reality/ and gaming, backed by a strong professional designer community.
+- [GameDev Market](https://www.gamedevmarket.net/) A single place for indie game developers to buy and sell high quality game assets with really simple licensing, regardless of experience, budget or engine choice.
 
 ## Virtual Reality
 - [Occulus Rift DK2 & OpenVR](https://github.com/Areloch/Torque3D/tree/OpenVRFullTemplate) - [1](http://forums.torque3d.org/viewtopic.php?f=9&t=63&p=6683#p6641)
@@ -558,6 +560,8 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [Gamehouse](http://www.gamehouse.com)
 - [Gamersgate](http://www.gamersgate.com)
 - [Amazon](https://www.amazon.com/b/ref=sv_vg_dl_3?ie=UTF8&node=2445220011)
+- [Fanatical](https://www.fanatical.com) We're on a mission to help gamers from all over the world find amazing games at amazing prices. Fanatical lets you quickly find what you want from a selection of over 4,500 officially licenced digital games.
+- [Indie Gala](http://www.indiegala.com/)  Is a digital distribution platform. If you like videogames, especially PC games that can be redeemed on Steam, you'll find on Indiegala PC games at the best prices you can find on the market in quick deals limited by time or quantity!
 
 ## Scripting
 
