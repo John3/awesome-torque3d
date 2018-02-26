@@ -527,9 +527,10 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods. - [Download](http://ghc-games.com/SC/Torsion.zip)
 - [TorqueDev](https://github.com/Torque3D-Resources/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
 - [IDEA](https://github.com/lukaspj/TorqueSense) - [1](http://wiki.torque3d.org/communityproject:new-scripting-ide-based-on-idea) Is a plugin that can be used with the free IntelliJ community edition IDE.
-- [TIDE](https://github.com/John3/torqueide) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor.
+
+- [TIDE](http://torqueide.sourceforge.net/) - [1](https://sourceforge.net/projects/torqueide/) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor. [Fork](https://github.com/John3/torqueide) 
+
 - [Torque-IDE](https://github.com/John3/torque-ide)
-- [TorqueScript debugger](http://eviwo.free.fr/torque/Debugger-documentation.html) - [1](http://tdn.garagegames.com/wiki/TorqueScript/IDE/Guide/DebuggerForTorque) A Python-based debugger for Torque. Download: [1](http://eviwo.free.fr/download/DebuggerForTorque-V2-4.tar.gz) - [2](http://tdn.garagegames.com/wiki/images/c/c5/DebuggerForTorque.zip)
 
 ### Editors
 #### TorqueScript syntax highlighting
@@ -538,6 +539,10 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [vim](https://github.com/crabmusket/vim-torquescript) - [1](http://www.garagegames.com/community/resources/view/22242)
 - [EMACS](http://forums.torque3d.org/viewtopic.php?f=12&t=173&p=1483&hilit=emacs#p1483)
 - [Atom](https://github.com/portify/language-torquescript)
+
+#### Debugger for TorqueScript
+[gtdb](https://gitlab.com/andijh92/gtdb) - [1](http://forums.torque3d.org/viewtopic.php?t=987) GTDB is a graphical debugger for Torque3d.
+- [TorqueScript debugger](http://eviwo.free.fr/torque/Debugger-documentation.html) - [1](http://tdn.garagegames.com/wiki/TorqueScript/IDE/Guide/DebuggerForTorque) A Python-based debugger for Torque. Download: [1](http://eviwo.free.fr/download/DebuggerForTorque-V2-4.tar.gz) - [2](http://tdn.garagegames.com/wiki/images/c/c5/DebuggerForTorque.zip)
 
 ## Sound & Music
 
@@ -674,11 +679,13 @@ Easing/Tweening system
 
 ### Tools
 
+Torque related tools
+
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
 - [TorqueProfTool](http://forums.torque3d.org/viewtopic.php?f=8&t=290) - [GitHub Repo](https://github.com/GuyAllard/TorqueProfTool) A tool for processing T3D profiler output.
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
 
-Level Editor
+### Level Editor
 - [Trenchbroom](http://forums.torque3d.org/viewtopic.php?f=25&t=600) - [1](https://www.garagegames.com/community/forums/viewthread/135318) - [tutorial](http://www.moddb.com/games/zentense/tutorials/from-a-quake-map-to-torque3d) - [main site](http://kristianduske.com/trenchbroom/)
 - [LevelBuddy](http://forums.torque3d.org/viewtopic.php?f=25&t=639) - [main site](https://matt-lucas.itch.io/level-buddy)
 
