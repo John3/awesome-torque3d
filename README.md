@@ -524,7 +524,7 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [My 2nd public collection of resources](https://github.com/orgs/Torque3D-Resources/) A mirror of repositories of resources, products or related technology.
 
 ## IDEs
-- [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods. - [Download](http://ghc-games.com/SC/Torsion.zip)
+- [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods. - [Download](http://ghc-games.com/SC/Torsion.zip) - [Mirror](http://www.mediafire.com/view/76t9hlhf6ihanz2)
 - [TorqueDev](https://github.com/Torque3D-Resources/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
 - [IDEA](https://github.com/lukaspj/TorqueSense) - [1](http://wiki.torque3d.org/communityproject:new-scripting-ide-based-on-idea) Is a plugin that can be used with the free IntelliJ community edition IDE.
 
