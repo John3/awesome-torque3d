@@ -541,8 +541,8 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [Atom](https://github.com/portify/language-torquescript)
 
 #### Debugger for TorqueScript
-[gtdb](https://gitlab.com/andijh92/gtdb) - [1](http://forums.torque3d.org/viewtopic.php?t=987) GTDB is a graphical debugger for Torque3d.
-- [TorqueScript debugger](http://eviwo.free.fr/torque/Debugger-documentation.html) - [1](http://tdn.garagegames.com/wiki/TorqueScript/IDE/Guide/DebuggerForTorque) A Python-based debugger for Torque. Download: [1](http://eviwo.free.fr/download/DebuggerForTorque-V2-4.tar.gz) - [2](http://tdn.garagegames.com/wiki/images/c/c5/DebuggerForTorque.zip)
+- [GTDB](https://gitlab.com/andijh92/gtdb) - [1](http://forums.torque3d.org/viewtopic.php?t=987) GTDB is a graphical debugger for Torque3d.
+- [TorqueScript debugger](http://eviwo.free.fr/torque/Debugger-documentation.html) - [1](http://tdn.garagegames.com/wiki/TorqueScript/IDE/Guide/DebuggerForTorque) A Python-based debugger for Torque. Download: [1](http://eviwo.free.fr/download/DebuggerForTorque-V2-4.tar.gz) - [2](http://tdn.garagegames.com/wiki/images/c/c5/DebuggerForTorque.zip) - [Mirror](http://www.mediafire.com/view/pmqjvz5mqld573b)
 
 ## Sound & Music
 
