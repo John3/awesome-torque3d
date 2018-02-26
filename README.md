@@ -124,7 +124,7 @@ Artificial Intelligence
 - [Art by Duion](http://opengameart.org/users/duion) - [Textures](http://duion.com/art/main)
 - [the3dmodelstore](http://www.the3dmodelstore.com/free.php)
 - [Old buggy model](http://forums.torque3d.org/viewtopic.php?f=25&t=675&p=6676#p6559)
-- [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/John3/ContentPacks)
+- [GG content packs](https://github.com/GarageGames/ContentPacks) - [1](https://github.com/Torque3D-Resources/ContentPacks)
 - [Mobile Game Graphics (MGG)](https://mobilegamegraphics.com/product-category/all_products/freestuff/)
 - [3DRT Free Characters](http://3drt.com/store/free-downloads/free-characters/)
 - [3DRT Free Buildings](http://3drt.com/store/free-downloads/free-buildings/)
@@ -528,9 +528,10 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 - [TorqueDev](https://github.com/Torque3D-Resources/TorqueDev) - [1](http://www.torquedev.com/) A Free TorqueScript Integrated Development Enviroment.
 - [IDEA](https://github.com/lukaspj/TorqueSense) - [1](http://wiki.torque3d.org/communityproject:new-scripting-ide-based-on-idea) Is a plugin that can be used with the free IntelliJ community edition IDE.
 
-- [TIDE](http://torqueide.sourceforge.net/) - [1](https://sourceforge.net/projects/torqueide/) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor. [Fork](https://github.com/John3/torqueide) 
+- [TIDE](http://torqueide.sourceforge.net/) - [1](https://sourceforge.net/projects/torqueide/) - [2](https://github.com/Torque3D-Resources/torqueide) is a plugin for IDEA, that can be used with the free IntelliJ community edition IDE) It is implemented in Java as a "plugin suite" for the jEdit text editor.
 
-- [Torque-IDE](https://github.com/John3/torque-ide)
+- [Torque-IDE](https://sourceforge.net/projects/torque-ide/) - [1](http://torque-ide.sourceforge.net/) - [2](https://github.com/Torque3D-Resources/torque-ide) TorqueSCRIPT Editor.
+
 
 ### Editors
 #### TorqueScript syntax highlighting
@@ -666,7 +667,7 @@ Audio & Sound
 
 Easing/Tweening system
 
-- [Twillex](https://sourceforge.net/projects/twillex/) - [1](https://github.com/John3/Twillex) - [wiki](https://sourceforge.net/p/twillex/wiki/Home/) - [1](https://www.garagegames.com/community/resources/view/21480)
+- [Twillex](https://sourceforge.net/projects/twillex/) - [1](https://github.com/Torque3D-Resources/Twillex) - [wiki](https://sourceforge.net/p/twillex/wiki/Home/) - [1](https://www.garagegames.com/community/resources/view/21480)
 - [Animation Threads](http://garagegames.com/community/resources/view/14856)
 - [Ease](http://www.garagegames.com/community/resources/view/14863)
 
