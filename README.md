@@ -135,6 +135,9 @@ Artificial Intelligence
 - [Blend Swap](https://www.blendswap.com/) Is a community of passionate blender artists who share their work under creative commons licenses.
 - [TurboSquid](https://www.turbosquid.com/Search/Index.cfm?keyword=null&max_price=0&min_price=0) Save artists the time of making a great model, and instead let them add their own personality to their creations.
 - [GameDev Market](https://www.gamedevmarket.net/?s=&post_type=product&tags=1&limit=5&ixwps=1&type=free) A single place for indie game developers to buy and sell high quality game assets with really simple licensing, regardless of experience, budget or engine choice.
+- [TextureX](http://www.texturex.com) We specialize in high resolution texture photos, and offer them completely free for download. Use these Free stock textures for graphic design, digital art, Photoshop, matte paintings, level design, 3d rendering, game design, or advertizing.
+- [FreeStockTextures](https://freestocktextures.com/) All photos published on FreeStockTextures are licensed under Creative Commons Zero which means you can copy, modify, distribute and use textures for free, including commercial purposes, without asking permission from or providing attribution to the photographer or FreeStockTextures. - [License](https://freestocktextures.com/license/)
+- [Wild Textures](http://www.wildtextures.com) Free high resolution textures and patterns for commercial or personal use. Yes, it's that simple! - [Terms of use](http://www.wildtextures.com/terms-of-use/)
 
 #### Demo Levels
 - [T3D Demos](https://github.com/Torque3D-GameEngine/T3D-Demos) GarageGames released the arts of T3D Demos with MIT License.
@@ -201,6 +204,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 - [IPV6 Support](http://forums.torque3d.org/viewtopic.php?f=10&t=819) - [GitHub Repo](https://github.com/jamesu/Torque3D/tree/ipv6_support) ipv6 support for the T3D (and T2D) networking.
 - [Mac OSX support](http://forums.torque3d.org/viewtopic.php?f=40&t=815) Initial setup for Mac OSX support.
+- [Torque3D Premake5](https://gist.github.com/jamesu/4e4346837e9ae644b04d599ee1f23912) Torque3D premake build file. Generates a suitable project for T3D with premake. 
 
 ## Funds
 
@@ -642,6 +646,7 @@ Documentation & Tutorials
 - [T3D Car Tutorial Part 1](https://vimeo.com/57474314)
 - [T3D Car Tutorial Part 2](https://vimeo.com/57482910)
 - [T3D Car Tutorial Part 3](https://vimeo.com/57546491)
+- [Tower defense tutorial](http://forums.torque3d.org/viewtopic.php?f=8&t=1187)
 
 Audio & Sound
 - [Quick guide to sound and audio](http://www.garagegames.com/community/forums/viewthread/126888)
