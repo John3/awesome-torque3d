@@ -647,6 +647,8 @@ Documentation & Tutorials
 - [T3D Car Tutorial Part 2](https://vimeo.com/57482910)
 - [T3D Car Tutorial Part 3](https://vimeo.com/57546491)
 - [Tower defense tutorial](http://forums.torque3d.org/viewtopic.php?f=8&t=1187)
+- [Blender3D, Torque3D and Linux by Chad](http://forums.torque3d.org/viewtopic.php?f=24&t=1026&p=8197) - [Video](https://www.youtube.com/playlist?list=PLzzTRwQrX7ahKCG8JQ_sBQoi45X_qqhxR) Series of videos tutorial made by Chad.
+- [Blender3D and Torque3D](https://www.youtube.com/channel/UC2z923PauVTVLQvQxSl_DVg) Series of videos made by Chad of how he make "Gods and Nemesis".
 
 Audio & Sound
 - [Quick guide to sound and audio](http://www.garagegames.com/community/forums/viewthread/126888)
