@@ -105,6 +105,7 @@ Artificial Intelligence
 - [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
 - [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
+- [UAISK](https://github.com/TwistedJenius/UAISK) [Forum](http://forums.torque3d.org/viewtopic.php?f=11&t=1210) - [Mirror](https://github.com/Torque3D-Resources/UAISK) The Universal AI Starter Kit
 
 ## Assets
 
@@ -684,6 +685,7 @@ Easing/Tweening system
 - [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere..
 - [The Modern Air Combat Starter Kit (MACSK)](https://www.ignition-games.com/store/viewProduct.php?id=1) - [Register first](https://store.ignition-games.com/store/register.php) A starter kit for the Torque 3D engine that gives developers all the basics to start their own air combat game.
 - [PGD Ultimate Torque Pack](http://www.phantomdev.net/Torque3D/Bundle1/index.php) You'll have access to all of our packs we have created, including the Multiplayer Assembly Package, the Dynamic Weather Pack, the Advanced FPS Kit, and all of the T3D Micro Packs we have created.
+- [CutSceneCam](https://github.com/TwistedJenius/CutSceneCam) - [Forum](http://forums.torque3d.org/viewtopic.php?f=23&t=1216) - [Mirror](https://github.com/Torque3D-Resources/CutSceneCam) The Cut Scene Cam for the Torque 3D.
 
 ### Tools
 
