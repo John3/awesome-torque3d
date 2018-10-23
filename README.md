@@ -499,6 +499,8 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Creating a Dungeon](http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
 - [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
 - [Radar (C++)](http://www.garagegames.com/community/forums/viewthread/101223)
+- [Radar (C++) Damik](https://forums.torque3d.org/viewtopic.php?f=2&t=1430&p=10636#p10629) - [Download](https://www.dropbox.com/s/3zs2xamq8u7znrg/guiRadarTSCtrl.zip?dl=0)
+- [Radar (C++) FogofWar Damik](https://forums.torque3d.org/viewtopic.php?f=2&t=1430&p=10636#p10635) - [Download](https://www.dropbox.com/s/ymae2kf6by2k2ia/FogOfWar.zip?dl=0)
 - [Player Hit Explosions](https://github.com/Duion/Torque3D/commit/308063a006b6f6dfee1b55154a8d7d28da18fe60) [1](http://forums.torque3d.org/viewtopic.php?f=42&p=7042#p7035)
 - [Bullet decals disappear if the base is destroyed (C++)](http://forums.torque3d.org/viewtopic.php?f=23&t=741#p6163)
 - [Random Explosions For Projectiles](http://forums.torque3d.org/viewtopic.php?t=611)
