@@ -467,6 +467,7 @@ Open Source Licenses.
 ## Lighting
 
 - [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+- [Flashlight](https://forums.torque3d.org/viewtopic.php?f=23&t=1549&p=11526#p11526) simple flashlight that uses the weapons fire light as a flashlight.
 
 ## Modeling
 
@@ -512,7 +513,7 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 
 ### Resource collection
 - [My public collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
-- [My 2nd public collection of resources](https://github.com/orgs/Torque3D-Resources/) A mirror of repositories of resources.
+- [My 2nd public collection of resources](https://github.com/Torque3D-Resources/) A mirror of repositories of resources.
 - [GarageGames Resources](http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
 - [Assimilating GG Resources for FPS](http://www.garagegames.com/community/blogs/view/15915)
@@ -527,8 +528,8 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 
 - [Mirror "Main" Torque3D](https://github.com/Torque3D-GameEngine) A mirror of Torque3D Engine, official documentation and stuff related.
 - [Unnofficial Development releases](http://forums.torque3d.org/viewtopic.php?f=2&t=665&p=6230#p5508) - [GitHub](https://github.com/John3/Torque3D_Unofficial/releases) Torque3D Game Engine - Unofficial Repository. Clean Torque3D dev builds.
-- [Collection Games & Demos T3D](https://github.com/orgs/Torque3D-Games-Demos/) A mirror of games, demos and prototypes using T3D or related technology.
-- [My 2nd public collection of resources](https://github.com/orgs/Torque3D-Resources/) A mirror of repositories of resources, products or related technology.
+- [Collection Games & Demos T3D](https://github.com/Torque3D-Games-Demos/) A mirror of games, demos and prototypes using T3D or related technology.
+- [My 2nd public collection of resources](https://github.com/Torque3D-Resources/) A mirror of repositories of resources, products or related technology.
 
 ## IDEs
 - [Torsion](https://github.com/SickheadGames/Torsion) Is a powerful development environment for creating TorqueScript based games and mods. - [Download](http://ghc-games.com/SC/Torsion.zip) - [Mirror](http://www.mediafire.com/view/76t9hlhf6ihanz2)
@@ -582,6 +583,7 @@ Related to TorqueScript.
 
 - [Drop/Throw All Items in Player Inventory](https://www.garagegames.com/community/forums/viewthread/134795/1#comment-848508)
 - [MiniMap](http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
+- [Flashlight](https://forums.torque3d.org/viewtopic.php?f=23&t=1549&p=11526#p11526) simple flashlight that uses the weapons fire light as a flashlight.
 
 ## Server
 - [PHP MasterServer for Torque](https://www.garagegames.com/community/resources/view/14857)
