@@ -2,7 +2,7 @@
 
 A curated list of [Torque3D](http://torque3d.org) and related Torque Game Engine (TGA & TGEA) of games, products, scripts and resources.
 
-Suggestions and contributions are always welcome! 
+Suggestions and contributions are always welcome!!
 
 ## Table of contents
 
