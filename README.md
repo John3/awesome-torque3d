@@ -101,7 +101,7 @@ Artificial Intelligence
 
 - [AITutorial](https://github.com/RichardRanft/AITutorial) - [1](http://forums.torque3d.org/viewtopic.php?f=11&t=25#p111) AI Tutorial scripts.
 - [BadBehavior](https://github.com/BadBehavior/BadBehavior_T3D) - [1](http://forums.torque3d.org/viewtopic.php?f=8&t=74) Behavior Tree System.
-- [Basic AI Kit](http://www.mediafire.com/file/wcx237eausekut2/Basic_AI_Kit.zip) - [1](https://www.garagegames.com/community/forums/viewthread/141086/1#comment-863468) In the package is: "Improved AI Guard Unit by Twisted Jenius", "AI Marker Editor by Twisted Jenius", "Friendly AI Marker by Maximillian Brewer"
+- [Basic AI Kit](http://www.mediafire.com/file/wcx237eausekut2/Basic_AI_Kit.zip) - [1](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/141086/1#comment-863468) In the package is: "Improved AI Guard Unit by Twisted Jenius", "AI Marker Editor by Twisted Jenius", "Friendly AI Marker by Maximillian Brewer"
 - [GuideBot](https://github.com/logicking/GuideBot) The main goal of GuideBot is to give solid and comprehensive solution for AI of modern action games.
 - [ImmersiveAI](https://github.com/dawogfather/immersiveAI) AI Engine.
 - [Tactical AI Kit](http://www.hngamers.com/brycesoftware/index.php?osCsid=1a9j735s1cm41a344rj23onjg5) Powerful AI solution.
@@ -170,19 +170,19 @@ by Edward F. Maurina III](https://www.amazon.com/gp/product/1568812841) - [suppo
 
 - [Torque for Teens, 2nd Edition - July 16, 2010 by Michael Duggan](https://www.amazon.com/Torque-Teens-Michael-Duggan/dp/1435456424)
 
-- [3D Game Programming All in One, Third Edition - December 3, 2012 by Kenneth C Finney](https://www.amazon.com/Game-Programming-All-One-Third/dp/1435457447) - [1](https://www.garagegames.com/community/forums/viewthread/18132)
+- [3D Game Programming All in One, Third Edition - December 3, 2012 by Kenneth C Finney](https://www.amazon.com/Game-Programming-All-One-Third/dp/1435457447) - [1](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/18132)
 
 - [Advanced 3D Game Programming All in One - August 24, 2005 by Kenneth C Finney](https://www.amazon.com/Advanced-Game-Programming-All-One/dp/1592007333)
 
 - [Creating Game Art for 3D Engines - September 21, 2007 by Brad Strong](https://www.amazon.com/dp/158450548)
 
-- [Torque 3D Game Development Cookbook - Jan 25, 2013 by David Wyand](https://www.packtpub.com/game-development/torque-3d-game-development-cookbook) - [1](https://www.amazon.com/Torque-3D-Game-Development-Cookbook/dp/1849693544) - [2](https://www.garagegames.com/community/blogs/view/22146)
+- [Torque 3D Game Development Cookbook - Jan 25, 2013 by David Wyand](https://www.packtpub.com/game-development/torque-3d-game-development-cookbook) - [1](https://www.amazon.com/Torque-3D-Game-Development-Cookbook/dp/1849693544) - [2](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/22146)
 
-- [Multiplayer Gaming and Engine Coding for the Torque Game Engine - May 9, 2008 by Edward F. Maurina](https://www.amazon.com/Multiplayer-Gaming-Engine-Coding-Torque/dp/1568814224) - [1](http://www.garagegames.com/community/blogs/view/14494) - [support materials](https://github.com/roaminggamer/MGEC-Support)
+- [Multiplayer Gaming and Engine Coding for the Torque Game Engine - May 9, 2008 by Edward F. Maurina](https://www.amazon.com/Multiplayer-Gaming-Engine-Coding-Torque/dp/1568814224) - [1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/14494) - [support materials](https://github.com/roaminggamer/MGEC-Support)
 
 - [The Ultimate Guide to Torque 3D - Apr 22, 2015 by Robert Fritzen](http://www.phantomdev.net/Torque3D/Micro/guide.php) - [preview](http://www.phantomdev.net/staff/phantom139/public/RFT3DGuide_PREV.pdf) A massive resource collection of tutorials and guides to teach everyone. Topics included in this first edition are: 'The World Editor', 'The GUI Editor', 'Basic & Advanced TorqueScript', 'Basic - Advanced C++', 'Wiring Techniques', and much more!
 
-- [ShaderX7: Advanced Rendering Techniques - Mar 12, 2009 by Wolfgang Engel](https://www.amazon.com/ShaderX7-Rendering-Techniques-Wolfgang-Engel/dp/1584505982) Indispensable series for game and graphics programmers.This all-new volume is packed with a collection of insightful techniques, innovative solutions to common problems, and practical tools and tricks that provide you with a complete shader programming toolbox. [1](https://www.garagegames.com/community/blogs/view/22621)
+- [ShaderX7: Advanced Rendering Techniques - Mar 12, 2009 by Wolfgang Engel](https://www.amazon.com/ShaderX7-Rendering-Techniques-Wolfgang-Engel/dp/1584505982) Indispensable series for game and graphics programmers.This all-new volume is packed with a collection of insightful techniques, innovative solutions to common problems, and practical tools and tricks that provide you with a complete shader programming toolbox. [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/22621)
 
 ## Blogs
 
@@ -191,14 +191,14 @@ by Edward F. Maurina III](https://www.amazon.com/gp/product/1568812841) - [suppo
 ## Camera
 Cinematics and Cutscenes.
 
-- [Camera system for TGEA 1.8.1/T3D](http://www.garagegames.com/community/forums/viewthread/143037) The real gem being offered here is the camera math. It accepts keyframes and times, builds a path stored in a scriptObject and spits back the smoothest camera movement you have ever seen with a sample function. - Download: [1](https://www.dropbox.com/s/i15upcnj51lteuh/LODC%201.0.rar)
+- [Camera system for TGEA 1.8.1/T3D](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/143037) The real gem being offered here is the camera math. It accepts keyframes and times, builds a path stored in a scriptObject and spits back the smoothest camera movement you have ever seen with a sample function. - Download: [1](https://www.dropbox.com/s/i15upcnj51lteuh/LODC%201.0.rar)
 - [Verve Official repo](https://github.com/AnteSim/Verve) - [1](https://github.com/John3/Verve)
-- [Verve for T3D v3.5](https://github.com/J0linar/Verve) - [1](https://github.com/John3/J0linar-Verve) - [2](http://www.garagegames.com/community/blogs/view/22554)
+- [Verve for T3D v3.5](https://github.com/J0linar/Verve) - [1](https://github.com/John3/J0linar-Verve) - [2](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/22554)
 
 Game Mechanics Kit (GMK) Provides functionality and tools for programmers and game designers to script and edit the mechanics of game process in very easy and visual way. Include PHYSICS PACK for full scale physics with rigid bodies and ragdoll and CUT SCENE EDITOR full featured editor that makes creation of in game Cut Scenes easy and straightforward
 
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
-- [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
+- [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/136107)
 - [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728) T3D v2.0 + Bullet
 
 ## Development
@@ -236,10 +236,10 @@ Games that use Torque3D and the old Torque Game Engine (TGE & TGEA).
 ### Action Games
 
 - [Bit Shifter](http://bitshiftergame.com) - [1](http://plasticgames.com) - [Store Steam](http://store.steampowered.com/app/393170)  Is a full-featured game sporting novel gameplay. It is a 3D action/strategy game where you fly a hover-ship that can pickup, place, and heal your robotic soldiers; soldiers ready to fight in the war against the virus threatening your PC.
-- [Buccaneer: The Pursuit of Infamy](http://www.garagegames.com/community/blogs/view/15757) - [1](http://www.co-optimus.com/review/283/buccaneer-the-pursuit-of-infamy-co-op-review.html) - [Forum](http://steamcommunity.com/app/23100) - [Video](https://www.youtube.com/watch?v=pSpmYcwJFGo) - [Store](https://www.greenmangaming.com/games/buccaneer-the-pursuit-of-infamy)
+- [Buccaneer: The Pursuit of Infamy](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/15757) - [1](http://www.co-optimus.com/review/283/buccaneer-the-pursuit-of-infamy-co-op-review.html) - [Forum](http://steamcommunity.com/app/23100) - [Video](https://www.youtube.com/watch?v=pSpmYcwJFGo) - [Store](https://www.greenmangaming.com/games/buccaneer-the-pursuit-of-infamy)
 Become a famous pirate, sailing the seas and owning the biggest and baddest ship on the block. All the while you'll need to manage your crew's morale, upkeep and upgrade your ship, and of course - get the booty, er, infamy. (Dead game)
-- [Dark Horizons: Mechanized Corps](http://www.playmech.com) - [1](http://maxgaming.net) - [2](https://www.garagegames.com/community/blogs/view/22958) - [Video](https://www.youtube.com/playlist?list=PLP2sBuaPufMz0qvXwexvlK8X0D6tBpCyE) - [Store Steam](http://store.steampowered.com/app/266470/) Wage futuristic war by piloting a fully customizable 50 foot tall mech into battle. Fight for personal glory or battle for territorial domination in a persistent online warzone with your friends in various unique battlefields and combat environments. It is a sequel to Dark Horizons Lore: Invasion and the Lore Aftermath.
-- [Lore: Aftermath](https://www.garagegames.com/community/blogs/view/16545) - [1](http://dh-lore.wikia.com/wiki/Lore:_Aftermath) - [Video](https://www.youtube.com/playlist?list=PL5A6A711A73809005) Is a online mech simulation combat game, and the sequel to Dark Horizons Lore and Dark Horizon: Lore Invasion. (Dead game)
+- [Dark Horizons: Mechanized Corps](http://www.playmech.com) - [1](http://maxgaming.net) - [2](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/22958) - [Video](https://www.youtube.com/playlist?list=PLP2sBuaPufMz0qvXwexvlK8X0D6tBpCyE) - [Store Steam](http://store.steampowered.com/app/266470/) Wage futuristic war by piloting a fully customizable 50 foot tall mech into battle. Fight for personal glory or battle for territorial domination in a persistent online warzone with your friends in various unique battlefields and combat environments. It is a sequel to Dark Horizons Lore: Invasion and the Lore Aftermath.
+- [Lore: Aftermath](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/16545) - [1](http://dh-lore.wikia.com/wiki/Lore:_Aftermath) - [Video](https://www.youtube.com/playlist?list=PL5A6A711A73809005) Is a online mech simulation combat game, and the sequel to Dark Horizons Lore and Dark Horizon: Lore Invasion. (Dead game)
 
 #### Platform Games
 
@@ -263,19 +263,19 @@ Experimental multiplayer FPS game. (Predecessor of Terminal Overload)
 Free and open-source first person shooter.
 - [Legions: Overdrive](http://www.legionsoverdrive.com) - [1](http://www.indiedb.com/games/legions-overdrive) [2](https://en.wikipedia.org/wiki/Legions:_Overdrive) formerly Fallen Empire: Legions was developed as a "spiritual successor" to Tribes. Is a fast paced Team Based FPS+Z with such games modes as Team Deathmatch, Rabbit, Team Rabbit, Hunters and of course the classic Capture the Flag. [Reddit.com](https://www.reddit.com/r/legionsoverdrive/)
 - [Mantis 7DFPS](https://gibby.itch.io/mantis-7dfps) A first-person shooter in which players act the role of a sentient species of bipedal Insectiods, defending their galactic home from an aggressive empire of evil androids.
-- [Penguins Arena: Sedna's World](http://www.frogames.com/penguins_arena/) - [1](https://www.garagegames.com/community/blogs/view/15819) - [Store Steam](http://store.steampowered.com/app/11280/) - [Itch.io Store](https://frogames.itch.io/penguins-arena) A innovative First Penguin Shooter with very short rounds and where the magic of reincarnation, combined with the supernatural ability to return to the game as a ghost.
+- [Penguins Arena: Sedna's World](http://www.frogames.com/penguins_arena/) - [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/15819) - [Store Steam](http://store.steampowered.com/app/11280/) - [Itch.io Store](https://frogames.itch.io/penguins-arena) A innovative First Penguin Shooter with very short rounds and where the magic of reincarnation, combined with the supernatural ability to return to the game as a ghost.
 - [Ubergame](http://duion.com/games/uebergame/main) - [GitHub Repo](https://github.com/Duion/Uebergame) - [Store Steam](http://store.steampowered.com/app/391780) - [Forum](http://forums.torque3d.org/viewforum.php?f=42)
 Free and open source, realism like, multiplayer, casual, first-person-shooter.
-- [60 Tons](http://www.60tons.com/) [1](https://www.garagegames.com/community/blogs/view/22737) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=258785771) [3](http://www.indiedb.com/games/60-tons) is an intense online multiplayer tank game that pits 4 teams of 5 players each against each other. Join one of the four teams to capture the flag or dominate control of the arena.
+- [60 Tons](http://www.60tons.com/) [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/22737) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=258785771) [3](http://www.indiedb.com/games/60-tons) is an intense online multiplayer tank game that pits 4 teams of 5 players each against each other. Join one of the four teams to capture the flag or dominate control of the arena.
 
 ##### TPS
 Third-person shooter (TPS)
 
-- [Dark Horizons: Mechanized Corps](http://www.playmech.com) - [1](http://maxgaming.net) - [2](https://www.garagegames.com/community/blogs/view/22958) - [Video](https://www.youtube.com/playlist?list=PLP2sBuaPufMz0qvXwexvlK8X0D6tBpCyE) - [Store Steam](http://store.steampowered.com/app/266470/) Wage futuristic war by piloting a fully customizable 50 foot tall mech into battle. Fight for personal glory or battle for territorial domination in a persistent online warzone with your friends in various unique battlefields and combat environments. It is a sequel to Dark Horizons Lore: Invasion and the Lore Aftermath.
-- [Lore: Aftermath](https://www.garagegames.com/community/blogs/view/16545) - [1](http://dh-lore.wikia.com/wiki/Lore:_Aftermath) - [Video](https://www.youtube.com/playlist?list=PL5A6A711A73809005) Is a online mech simulation combat game, and the sequel to Dark Horizons Lore and Dark Horizon: Lore Invasion. (Dead game)
+- [Dark Horizons: Mechanized Corps](http://www.playmech.com) - [1](http://maxgaming.net) - [2](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/22958) - [Video](https://www.youtube.com/playlist?list=PLP2sBuaPufMz0qvXwexvlK8X0D6tBpCyE) - [Store Steam](http://store.steampowered.com/app/266470/) Wage futuristic war by piloting a fully customizable 50 foot tall mech into battle. Fight for personal glory or battle for territorial domination in a persistent online warzone with your friends in various unique battlefields and combat environments. It is a sequel to Dark Horizons Lore: Invasion and the Lore Aftermath.
+- [Lore: Aftermath](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/16545) - [1](http://dh-lore.wikia.com/wiki/Lore:_Aftermath) - [Video](https://www.youtube.com/playlist?list=PL5A6A711A73809005) Is a online mech simulation combat game, and the sequel to Dark Horizons Lore and Dark Horizon: Lore Invasion. (Dead game)
 
 #### Fighting games
-- [Legend of G](http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (In development)
+- [Legend of G](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/23054) [Videos](https://www.youtube.com/playlist?list=PLeeDi1SfQuOTW8zrYbF-pu7VyOYiMyu1A) Base on games: Northern Fist and DragonballZ. (In development)
 - [Determinance](http://www.mode7games.com/content/game.html) - [1](http://www.determinance.com/) A multiplayer action game sword-fighting... Swing the sword, duel to the death.
 - [AX:EL - Air XenoDawn](http://axeeel.com/site/) - [1](http://www.indiedb.com/games/morphshift-wars) - [Store Steam](http://store.steampowered.com/app/319830) Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean. 
 
@@ -300,16 +300,16 @@ No games released yet.
 
 #### Survival Adventure
 
-- [Homo Sapiens](http://www.homosapiens.game3d.ch/) - [1](http://www.garagegames.com/community/blogs/view/22964/1#comment-199996) Start with only some little food, in a beatyful stoneage environment. Search for resources, make weapons, fight with a lot creatures that will not make life easy.
-- [Mars Colony:Challenger](http://hyperkat.com/marschallenger.html) - [1](http://www.garagegames.com/community/forums/authorID/36603) - [Store Steam](http://store.steampowered.com/app/277910) You will have to setup and maintain the equipment that supplies pressure and a breathable atmosphere to the base. You are also tasked with growing food, setting up communications and extracting resources in order to make the base self-sufficient. 
+- [Homo Sapiens](http://www.homosapiens.game3d.ch/) - [1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/22964/1#comment-199996) Start with only some little food, in a beatyful stoneage environment. Search for resources, make weapons, fight with a lot creatures that will not make life easy.
+- [Mars Colony:Challenger](http://hyperkat.com/marschallenger.html) - [1](https://web.archive.org/web/http://www.garagegames.com/community/forums/authorID/36603) - [Store Steam](http://store.steampowered.com/app/277910) You will have to setup and maintain the equipment that supplies pressure and a breathable atmosphere to the base. You are also tasked with growing food, setting up communications and extracting resources in order to make the base self-sufficient. 
 
 ### Simulation games
 
-- [Mars Colony:Challenger](http://hyperkat.com/marschallenger.html) - [1](http://www.garagegames.com/community/forums/authorID/36603) - [Store Steam](http://store.steampowered.com/app/277910) You will have to setup and maintain the equipment that supplies pressure and a breathable atmosphere to the base. You are also tasked with growing food, setting up communications and extracting resources in order to make the base self-sufficient. 
+- [Mars Colony:Challenger](http://hyperkat.com/marschallenger.html) - [1](https://web.archive.org/web/http://www.garagegames.com/community/forums/authorID/36603) - [Store Steam](http://store.steampowered.com/app/277910) You will have to setup and maintain the equipment that supplies pressure and a breathable atmosphere to the base. You are also tasked with growing food, setting up communications and extracting resources in order to make the base self-sufficient. 
 
 #### Vehicle Simulation
 - [BeamNG.drive](http://www.beamng.com) - [Store Steam](http://store.steampowered.com/app/284160/)  An open world realistic vehicle simulator, immersive driving game offering near-limitless possibilities, simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior. Note: Has Torque3D modification.
-- [60 Tons](http://www.60tons.com/) [1](https://www.garagegames.com/community/blogs/view/22737) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=258785771) [3](http://www.indiedb.com/games/60-tons) is an intense online multiplayer tank game that pits 4 teams of 5 players each against each other. Join one of the four teams to capture the flag or dominate control of the arena.
+- [60 Tons](http://www.60tons.com/) [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/22737) [2](http://steamcommunity.com/sharedfiles/filedetails/?id=258785771) [3](http://www.indiedb.com/games/60-tons) is an intense online multiplayer tank game that pits 4 teams of 5 players each against each other. Join one of the four teams to capture the flag or dominate control of the arena.
 
 #### Aircraft Simulation
 - [AX:EL - Air XenoDawn](http://axeeel.com/site/) - [1](http://www.indiedb.com/games/morphshift-wars) - [Store Steam](http://store.steampowered.com/app/319830) Combining the very best of sci-fi and aerial dogfighting gameplay, AX:EL delivers a totally new gaming experience. Create your very own shape-shifting vehicle and dominate both the sky and the ocean. 
@@ -327,16 +327,16 @@ Role-playing games (RPG).
 
 #### Action RPG
 
-- [Hinterland](http://www.tiltedmill.com/hinterland/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17140/) Loot, level and build with fast paced RPG combat and strategic base building! 
+- [Hinterland](http://www.tiltedmill.com/hinterland/) - [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17140/) Loot, level and build with fast paced RPG combat and strategic base building! 
 
 #### MMORPGs
 Massively multiplayer online role-playing games (MMORPGs)
 
 - [AlterVerse](https://www.alterverse.com/) - [1](http://steamcommunity.com/sharedfiles/filedetails/?id=446054581) - [2](http://www.indiedb.com/games/the-alterverse-project) Is a VR world and game creation platform (Play our games or create your own!). Try to complete the engaging quest in single player mode and/or join the crew of an existing ship and raid the cargo of others. Challenge your friends to dog fights and play the space-age Draft Ball. (In development)
 - [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
-- [Crowns of Power](http://crownsofpower.com/index.php) - [1](http://www.garagegames.com/community/blogs/view/15445) - [ScreenShot](https://imgur.com/a/RpvCz) - [Video](https://imgur.com/a/RpvCz) Is a online 3D fantasy-themed MMORPG game of magical spells, magical gear, strategy, alliances, politics and more!, drawing inspiration from the text-based MUD genre of old as well as the traditional role-playing games like Dungeons & Dragons. Players used their avatar to adventure through a fantasy world called Arder. Players progressed through the game by slaying mobs and completing quests which yield experience points for levels and loot like armor, weapons, potions, magical spell runes and artifacts.
+- [Crowns of Power](http://crownsofpower.com/index.php) - [1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/15445) - [ScreenShot](https://imgur.com/a/RpvCz) - [Video](https://imgur.com/a/RpvCz) Is a online 3D fantasy-themed MMORPG game of magical spells, magical gear, strategy, alliances, politics and more!, drawing inspiration from the text-based MUD genre of old as well as the traditional role-playing games like Dungeons & Dragons. Players used their avatar to adventure through a fantasy world called Arder. Players progressed through the game by slaying mobs and completing quests which yield experience points for levels and loot like armor, weapons, potions, magical spell runes and artifacts.
 - [Darkwind: War on Wheels](http://www.dark-wind.com) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat.
-- [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) - [1](http://www.garagegames.com/community/blogs/view/22833) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
+- [Life is Feudal: MMO](http://lifeisfeudal.com/mmo) - [1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/22833) Hardcore Sandbox RPG and MMORPG, set in a Realistic Medieval fictional world. (In development)
 - [Villagers and Heroes](http://www.villagersandheroes.com) - [Video](https://www.youtube.com/user/VillagersAndHeroes) - [Store Steam](http://store.steampowered.com/app/263540) Is a free-to-play MMO game in which players experience not just the thrill of battling unique monsters or the satisfaction of tailoring an exquisite robe.
 - [World of Antra](http://www.worldofantra.com)  is a fantasy MMORPG where players are dropped into the world and left to explore vast landscapes under their own direction. World of Antra draws inspiration from MUDs rather than traditional MMORPG.
 - [Steam Hammer](https://steamhammer.us) - [Reddit](https://www.reddit.com/r/steamhammergame/) - [Store Steam](http://store.steampowered.com/app/530560/STEAM_HAMMER/) - [Youtube Channel](https://www.youtube.com/channel/UC4NPspsDNSwOFaCKzIoQvbA) is the first hardcore sandbox RPG in a steampunk setting featuring survival elements. Try yourself as an explorer, craftsman, architect, industrialist and conqueror. Forge weapons and armor, build houses, factories and towers, fly airships and jetpacks and stand up to the enemy. Here you'll find all the advantages of sandbox games in the mysterious world of steam engines. [Video](https://www.youtube.com/watch?v=pg8v3eVDa4U)
@@ -352,7 +352,7 @@ No games released yet.
 #### Fantasy
 
 - [Auteria](http://www.auteria.com) - Video: [1](https://www.youtube.com/watch?v=vVN7y9b8lzk) - [2](https://www.youtube.com/watch?v=_3QqAO-ZwBw) Is a fantasy world within our real world. You are able to develop the skills of your character. There will be more skills, more lands, more quests as the game is developed.
-- [Crowns of Power](http://crownsofpower.com/index.php) - [1](http://www.garagegames.com/community/blogs/view/15445) - [ScreenShot](https://imgur.com/a/RpvCz) - [Video](https://imgur.com/a/RpvCz) Is a online 3D fantasy-themed MMORPG game of magical spells, magical gear, strategy, alliances, politics and more!, drawing inspiration from the text-based MUD genre of old as well as the traditional role-playing games like Dungeons & Dragons. Players used their avatar to adventure through a fantasy world called Arder. Players progressed through the game by slaying mobs and completing quests which yield experience points for levels and loot like armor, weapons, potions, magical spell runes and artifacts.
+- [Crowns of Power](http://crownsofpower.com/index.php) - [1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/15445) - [ScreenShot](https://imgur.com/a/RpvCz) - [Video](https://imgur.com/a/RpvCz) Is a online 3D fantasy-themed MMORPG game of magical spells, magical gear, strategy, alliances, politics and more!, drawing inspiration from the text-based MUD genre of old as well as the traditional role-playing games like Dungeons & Dragons. Players used their avatar to adventure through a fantasy world called Arder. Players progressed through the game by slaying mobs and completing quests which yield experience points for levels and loot like armor, weapons, potions, magical spell runes and artifacts.
 - [The Master's Eye](http://www.richardsgamestudio.com/games.html) Is a first person, role-playing game in a fantasy and medieval setting and takes place in the lands of Ishkandragh.
 - [World of Antra](http://www.worldofantra.com)  is a fantasy MMORPG where players are dropped into the world and left to explore vast landscapes under their own direction. World of Antra draws inspiration from MUDs rather than traditional MMORPG.
 
@@ -377,7 +377,7 @@ Multiplayer online battle arena (MOBA)
 #### Tower Defense
 - [Cogflicts](http://www.indiedb.com/games/cogflicts) - [HomePage](http://ratfishstudios.com/2017/index.php/cogflicts/) is a Real Time Strategic shooter with Tower Defense inspiration. Seamlessly integrating first person and tactical decision making into every moment of gameplay. (In development)
 - [Tower Wars](http://www.towerwarsgame.com) - [Store Steam](http://store.steampowered.com/app/214360) Combines elements of tower defense, RTS, and all-out multi-player mayhem to bring you a completely unique experience, delivered with a fun and funny not-so-old world style! 
-- [Monoliths of Terravia](http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
+- [Monoliths of Terravia](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/20181) - [Video](https://www.youtube.com/watch?v=l9b1R0kqVi8) Featuring an engaging storyline, strategic campaign planning, RPG elements, an offensive play capability. (Dead game)
 
 #### TBS
 [Turn-based strategy (TBS)](https://en.wikipedia.org/wiki/Turn-based_strategy)
@@ -386,12 +386,12 @@ Multiplayer online battle arena (MOBA)
 - [Dead State](http://www.deadstate.doublebearproductions.com/) - [1](http://www.doublebearproductions.com/) - [Steam Store](http://store.steampowered.com/app/239840) Is a compelling, high-tension RPG set at the beginning of the zombie apocalypse, the player must organize a scant handful of allies, working on fortifying a shelter, scouting for food and supplies, making uncertain alliances with others.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
 - [The Age of Decadence]( http://irontowerstudio.com/age-of-decadence-news) - [1](http://irontowerstudio.com/) - [Store Steam](http://store.steampowered.com/app/230070/) A turn-based, isometric hardcore role-playing game set in a low magic, post-apocalyptic fantasy world. The game features a detailed skill-based character system, multiple skill-based ways to handle quests, choices & consequences, and extensive dialogue trees. 
-- [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
+- [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
 
 #### TBT
 [Turn-based tactics (TBT)](https://en.wikipedia.org/wiki/Turn-based_tactics)
 
-- [Airship Dragoon](http://www.yorkshirerifles.com/) - [1](http://www.indiedb.com/games/airship-dragoon) - [2](http://www.garagegames.com/community/blogs/view/22499) - [Store Steam](http://store.steampowered.com/app/308380) Steampunk squad tactical combat and global strategy with emergent gameplay. 
+- [Airship Dragoon](http://www.yorkshirerifles.com/) - [1](http://www.indiedb.com/games/airship-dragoon) - [2](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/22499) - [Store Steam](http://store.steampowered.com/app/308380) Steampunk squad tactical combat and global strategy with emergent gameplay. 
     
 ### Sports Games
 
@@ -402,9 +402,9 @@ Multiplayer online battle arena (MOBA)
 #### Sport fighting
 Sports-based fighting
 
-- [Darkwind: War on Wheels](http://www.dark-wind.com) - [1](http://www.garagegames.com/community/blogs/view/20451) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat. Set in a post-apocalyptic world, it involves physics-based tactical combat and deathracing, online leagues as well as cooperative wilderness scouting and looting, trading and camp-based crafting.
+- [Darkwind: War on Wheels](http://www.dark-wind.com) - [1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/20451) - [Store Steam](http://store.steampowered.com/app/295710/) A multiplayer online, simultaneous turn-based game of vehicular combat. Set in a post-apocalyptic world, it involves physics-based tactical combat and deathracing, online leagues as well as cooperative wilderness scouting and looting, trading and camp-based crafting.
 - [Frozen Cortex](http://www.frozencortex.com) - [Store Steam](http://store.steampowered.com/app/237350) Is a simultaneous turn-based strategy game. Defeat your opponent’s plans on a randomly-generated playfield in this brutal futuresport.
-- [Metal Drift](http://www.metaldrift.com/) - [1](https://www.garagegames.com/community/blogs/view/18571) - [Store Steam](http://store.steampowered.com/app/32200/) Is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena.
+- [Metal Drift](http://www.metaldrift.com/) - [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/18571) - [Store Steam](http://store.steampowered.com/app/32200/) Is a vehicular sport combat game set in a distant future. As the player, you command an agile, high powered hover tank in a futuristic sports arena.
 
 ### Other genres
 - [1t!](https://irei1as.itch.io/1t) You're in a test called "1t!". What kind of KungFu trial is it?
@@ -413,14 +413,14 @@ Sports-based fighting
 - [Star Trek 50th Anniversary Tribute Game](http://gambitrealm.com/INSTALLER/download_release45_vr.php) - [Forum](http://forums.torque3d.org/viewtopic.php?f=17&t=551) - Download: [1](http://gambitrealm.com/INSTALLER/50thAnniversaryFanCreatedTrekTribute.rar)
 
 #### Card Games
-- [Bellatorus Deluxe](http://www.garagegames.com/products/bellatorus) Is a strategic card game where you attempt to destroy your opponents tower while protecting your own. (Dead game) [Download Demo](http://demos.garagegames.com/pangus/Bellatorus_Win_ig_2.1.0.30.exe)
+- [Bellatorus Deluxe](https://web.archive.org/web/http://www.garagegames.com/products/bellatorus) Is a strategic card game where you attempt to destroy your opponents tower while protecting your own. (Dead game) [Download Demo](http://demos.garagegames.com/pangus/Bellatorus_Win_ig_2.1.0.30.exe)
 
 #### Educational Games
 - [DimensionU](http://www.dimensionu.com/dimu/home/Games_Dimu.aspx) Multiplayer games with access to curriculum in both Math and Literacy, grades 3 – 9. Each game is designed with unique features to bring out distinct academic and strategic skills in students.
 - [MoonBaseOne](http://moonbaseone.blogspot.com/) A tool to be used at FOGE summer camps to teach kids about space. The game centers on an astronaut, who newly arrived to MoonBaseOne. Download: [v4](http://wecreategames.com/games/MoonBaseOne/MoonBaseOneVersion4.zip) - [v3](http://wecreategames.com/games/MoonBaseOne/MoonBaseOneInstaller.msi)
 
 #### Historical Games
-- [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
+- [Mosby's Confederacy](http://tiltedmill.com/mosbys_confederacy/) - [1](https://web.archive.org/web/https://www.garagegames.com/community/blogs/view/15547) - [Store Steam](http://store.steampowered.com/app/17180/) As John Singleton Mosby, one of the Civil War's most interesting and dynamic leaders, you are charged, not with leading vast armies into battle, but with commanding small bands of skirmishers, scouts, and guerilla fighters.
 
 #### Open World Games
 - [DeadlyMatter](http://www.deadlymatter.com/) - [1](http://www.indiedb.com/games/deadlymatter) The world is ruled by a secret society. You role is to prevent the production of antimatter by sabotaging the facilities and extract the source material. (In development)
@@ -438,20 +438,20 @@ Sports-based fighting
 
 Six degrees of freedom.
 
-- [Talon](http://www.talongame.com) - [1](http://www.refractorystudios.com/) - [2](https://www.garagegames.com/community/blog/view/22395) Is a true 6DoF multiplayer sci-fi flight combat game blending elements from FPS, flight sim, and space combat for adrenaline-fueled high-speed action in a team-based tactical shooter with colorful weapons and plentiful explosions. Download: [1](http://talongame.com/download/talon_setup_1.1.0.2.exe)
+- [Talon](http://www.talongame.com) - [1](http://www.refractorystudios.com/) - [2](https://web.archive.org/web/https://www.garagegames.com/community/blog/view/22395) Is a true 6DoF multiplayer sci-fi flight combat game blending elements from FPS, flight sim, and space combat for adrenaline-fueled high-speed action in a team-based tactical shooter with colorful weapons and plentiful explosions. Download: [1](http://talongame.com/download/talon_setup_1.1.0.2.exe)
 
 ## Gui
 - [Torque3D Awesomium](https://github.com/StefanLundmark/Torque3D_Awesomium) This lets you embed HTML5/Flash in your games. You can integrate it via JavaScript to interact with elements in the game.
 - [Web UI](https://github.com/BlzFans/Torque3D) Web UI, based on WebKit.
-- [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
-- [Simple GUI list](http://www.garagegames.com/community/resources/view/23043)
-- [Dark UI by Nils Eikelenboom](https://www.garagegames.com/community/resources/view/22855) - [Download](http://i-dropper.net/torque/darkUI/T3D361_DarkUI_Beta14.zip)
+- [Modern GUI Template and XML Saving](https://github.com/Mountainsong/T3D-GUI-Template) - [1](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/22861) Modern GUI Template and XML Saving.
+- [Simple GUI list](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/23043)
+- [Dark UI by Nils Eikelenboom](https://web.archive.org/web/https://www.garagegames.com/community/resources/view/22855) - [Download](http://i-dropper.net/torque/darkUI/T3D361_DarkUI_Beta14.zip)
 - [Dark UI modified by Janders](http://forums.torque3d.org/viewtopic.php?f=26&t=380) - [Download](https://www.dropbox.com/s/swb334sxjjkw1mk/T3D361_DarkUI_Beta14_Jan_Edition.zip?dl=0)
 - [SQL GUI system gets XML](http://forums.torque3d.org/viewtopic.php?f=17&t=604) - [GitHub](https://github.com/ChrisCalef/Torque3D/tree/uiForms)
 
 # Input
 - [Rally Car and Xbox One Gamepad Example](http://forums.torque3d.org/viewtopic.php?f=24&t=853) - Download: [1](https://drive.google.com/file/d/0B4K1M7P0W_qbOWxpaERrUE50Mk0/view) I wanted to see if my old xbox keybinds would work with an Xbox One gamepad.
-- [Joystick axis support in guiInputCtrl](https://www.garagegames.com/community/resources/view/22448) how to add joystick axis mapping in options gui.
+- [Joystick axis support in guiInputCtrl](https://web.archive.org/web/https://www.garagegames.com/community/resources/view/22448) how to add joystick axis mapping in options gui.
 
 ## License
 
@@ -466,7 +466,7 @@ Open Source Licenses.
 
 ## Lighting
 
-- [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+- [Stealth-game Light-Level detection](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
 - [Flashlight](https://forums.torque3d.org/viewtopic.php?f=23&t=1549&p=11526#p11526) simple flashlight that uses the weapons fire light as a flashlight.
 
 ## Modeling
@@ -476,12 +476,12 @@ Open Source Licenses.
 ## Physics
 
 - [Breakables - simple](http://www.gameartstore.com/shop/index.php?route=product/product&path=60_66&product_id=55) This set contains unbroken and broken models. Originally made for Physx in T3D but the models can be used anywhere...
-- [Creating Physics Shapes](http://www.garagegames.com/community/forums/viewthread/119211)
+- [Creating Physics Shapes](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/119211)
 
 Game Mechanics Kit (GMK) Provides functionality and tools for programmers and game designers to script and edit the mechanics of game process in very easy and visual way. Include PHYSICS PACK for full scale physics with rigid bodies and ragdoll and CUT SCENE EDITOR full featured editor that makes creation of in game Cut Scenes easy and straightforward
 
 - [Game Mechanics Kit (GMK)](https://github.com/logicking/GMK) - [1](https://github.com/John3/GMK) - [2](http://www.logicking.com/index.php?page=torque3d) 
-- [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://www.garagegames.com/community/forums/viewthread/136107)
+- [GMK for T3D v3.5](https://github.com/RoundedIcon/T3D-MIT-GMK-Port) - [1](https://github.com/John3/T3D-MIT-GMK-Port) - [2](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/136107)
 - [GMK foc T3D v2.0 & Bullet](https://github.com/John3/T3D_GMK_BULLET) - [1](http://forums.torque3d.org/viewtopic.php?f=25&t=728) T3D v2.0 + Bullet
 
 ## Resources
@@ -489,17 +489,17 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Door Class](http://www.richardsgamestudio.com/downloadDoorPack.html) This pack contains all the necessary source files to add the Door class.
 - [Extended GuiObjectView](https://github.com/Will-of-the-Wisp/Resources/tree/Extended-GuiObjectView) - [1](http://www.willowispgames.com/) - [Forum](http://forums.torque3d.org/viewtopic.php?f=26&t=809) An extension to the GuiObjectView class.
 - [Fading Gui Controls](https://github.com/Will-of-the-Wisp/Resources/tree/Fading-Gui-Controls) - [1](http://www.willowispgames.com/) New gui control classes that support fading via custom rendering code and script commands.
-- [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
+- [RPG Resource](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
 - [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
-- [Save and Load Game System](http://www.garagegames.com/community/resources/view/21450)
+- [Save and Load Game System](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/21450)
 - [Starter.Racing](http://forums.torque3d.org/viewtopic.php?f=23&t=821) - [GitHub Repo](https://github.com/yourarcade/torque/tree/master/t3d/resources/starter.racing) Slightly enhanced port of the original TGE starter.racing demo.
-- [FlyingCar](http://www.garagegames.com/community/forums/viewthread/141128/1#comment-863559) - Download: [1](https://www.mediafire.com/?uhboziwwpwtd4hc)
+- [FlyingCar](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/141128/1#comment-863559) - Download: [1](https://www.mediafire.com/?uhboziwwpwtd4hc)
 - [Hover Vehicle](http://forums.torque3d.org/viewtopic.php?f=12&t=605#p5027) - Download: [1](https://www.mediafire.com/?paehuce9926sx1e)
-- [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
-- [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
-- [Creating a Dungeon](http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
-- [Double Jumping](https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://www.garagegames.com/community/forums/viewthread/126674)
-- [Radar (C++)](http://www.garagegames.com/community/forums/viewthread/101223)
+- [Zombie Resources](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
+- [Stealth-game Light-Level detection](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+- [Creating a Dungeon](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7323) "How can I make a dungeon?" Well this will of course depend on your definition of a dungeon.... I managed to create a really nice looking cave with just the stock tools.
+- [Double Jumping](https://web.archive.org/web/https://www.garagegames.com/community/resources/view/7191/2#comment-141357) - [C++](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/126674)
+- [Radar (C++)](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/101223)
 - [Radar (C++) Damik](https://forums.torque3d.org/viewtopic.php?f=2&t=1430&p=10636#p10629) - [Download](https://www.dropbox.com/s/3zs2xamq8u7znrg/guiRadarTSCtrl.zip?dl=0)
 - [Radar (C++) FogofWar Damik](https://forums.torque3d.org/viewtopic.php?f=2&t=1430&p=10636#p10635) - [Download](https://www.dropbox.com/s/ymae2kf6by2k2ia/FogOfWar.zip?dl=0)
 - [Player Hit Explosions](https://github.com/Duion/Torque3D/commit/308063a006b6f6dfee1b55154a8d7d28da18fe60) [1](http://forums.torque3d.org/viewtopic.php?f=42&p=7042#p7035)
@@ -508,17 +508,17 @@ Game Mechanics Kit (GMK) Provides functionality and tools for programmers and ga
 - [Future fighterjet for T3D](http://forums.torque3d.org/viewtopic.php?f=24&t=930#p7504) - [Download](http://opengameart.org/content/future-fighterjet-for-torque3d)
 - [Basic flyingVehicle mod](http://forums.torque3d.org/viewtopic.php?f=23&t=931&p=7509#p7509)
 - [ExplosionShape Improvement](http://forums.torque3d.org/viewtopic.php?f=10&p=7429) - [1](http://yorkshirerifles.blogspot.mx/2017/01/fancy-pants-stuff.html)
-- [Jeep-like Vehicle with Mounted Gun and Headlamps](http://www.garagegames.com/community/resources/view/23050) - [Download 1](https://www.mediafire.com/?ldiiahyr2di85l0) - [Download 2](https://drive.google.com/file/d/0B0d1pOYTSlgIY09YaENBSkhpRlU/view?usp=sharing)
-- [MiniMap](http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
+- [Jeep-like Vehicle with Mounted Gun and Headlamps](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/23050) - [Download 1](https://www.mediafire.com/?ldiiahyr2di85l0) - [Download 2](https://drive.google.com/file/d/0B0d1pOYTSlgIY09YaENBSkhpRlU/view?usp=sharing)
+- [MiniMap](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
 
 ### Resource collection
 - [My public collection](https://1drv.ms/f/s!AiiusoQV-IpRjEwW-rtrdnxoC838) Is like bighole 2!!! :) My public collection of resources, mirrors, demos, scripts, and stuff related to Torque3D.
 - [My 2nd public collection of resources](https://github.com/Torque3D-Resources/) A mirror of repositories of resources.
-- [GarageGames Resources](http://www.garagegames.com/community/resources)
+- [GarageGames Resources](https://web.archive.org/web/http://www.garagegames.com/community/resources)
 - [A big hole of resources](http://abighole.hngamers.com)
-- [Assimilating GG Resources for FPS](http://www.garagegames.com/community/blogs/view/15915)
-- [The big addon thread!](http://www.garagegames.com/community/forums/viewthread/131140)
-- [Bookmarked resources](http://www.garagegames.com/community/blogs/view/15983)
+- [Assimilating GG Resources for FPS](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/15915)
+- [The big addon thread!](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/131140)
+- [Bookmarked resources](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/15983)
 
 # Repositories
 
@@ -545,7 +545,7 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 #### TorqueScript syntax highlighting
 
 - [Notepad++](https://forum.blockland.us/index.php?topic=152179.0) - [Download](https://drive.google.com/file/d/0B79CdBHH7jyoZGM3ZGIyNzUtZGRiMS00ZDE3LWE3NDQtNjhhNmQyMzA4NWFm)
-- [vim](https://github.com/crabmusket/vim-torquescript) - [1](http://www.garagegames.com/community/resources/view/22242)
+- [vim](https://github.com/crabmusket/vim-torquescript) - [1](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/22242)
 - [EMACS](http://forums.torque3d.org/viewtopic.php?f=12&t=173&p=1483&hilit=emacs#p1483)
 - [Atom](https://github.com/portify/language-torquescript)
 
@@ -581,12 +581,12 @@ All repositories related to Torque 3D or the related to the Torque Technology.
 
 Related to TorqueScript.
 
-- [Drop/Throw All Items in Player Inventory](https://www.garagegames.com/community/forums/viewthread/134795/1#comment-848508)
-- [MiniMap](http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
+- [Drop/Throw All Items in Player Inventory](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/134795/1#comment-848508)
+- [MiniMap](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/19059) This resource creates a minimap to put in a gui. Points can be added at x,y coordinates, or they can track objects. No source code edits required.
 - [Flashlight](https://forums.torque3d.org/viewtopic.php?f=23&t=1549&p=11526#p11526) simple flashlight that uses the weapons fire light as a flashlight.
 
 ## Server
-- [PHP MasterServer for Torque](https://www.garagegames.com/community/resources/view/14857)
+- [PHP MasterServer for Torque](https://web.archive.org/web/https://www.garagegames.com/community/resources/view/14857)
 
 ## Social
 
@@ -611,11 +611,11 @@ Torque3D
 - [Shader Pack Vol 2](http://www.liman3d.com/shaderpackvol2_overview.html)
 - [Outline Shader](http://forums.torque3d.org/viewtopic.php?f=27&t=560#p4824)
 - [Toon Shading](http://forums.torque3d.org/viewtopic.php?f=27&t=560#p4776)
-- [Sun glare/screen dirt shader](http://www.garagegames.com/community/resource/view/22785) - [1](http://forums.torque3d.org/viewtopic.php?f=10&t=698)
-- [Custom Shader - Part 1](http://www.garagegames.com/community/blogs/view/20989)
-- [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
-- [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
-- [Sample Fullscreen Shaders](http://www.garagegames.com/community/resources/view/15648)
+- [Sun glare/screen dirt shader](https://web.archive.org/web/http://www.garagegames.com/community/resource/view/22785) - [1](http://forums.torque3d.org/viewtopic.php?f=10&t=698)
+- [Custom Shader - Part 1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/20989)
+- [Custom Shader - Part 2](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/20990)
+- [Custom Shader - Part 3](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/20991)
+- [Sample Fullscreen Shaders](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/15648)
 
 ## Terrain
 
@@ -633,18 +633,18 @@ Documentation & Tutorials
 - [AITutorial](https://github.com/RichardRanft/AITutorial) AI Tutorial scripts.
 - [CodeSamples Tutorials](http://www.codesampler.com/torque.htm)
 - [CoinCollectionTutorial](https://github.com/lukaspj/Torque3D-Tutorials)
-- [Creating Physics Shapes](http://www.garagegames.com/community/forums/viewthread/119211)
-- [Destroying things is fun!](http://www.garagegames.com/community/blogs/view/21709) Series of resources, Damage and Destruction.
-- [Documentation](http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
-- [FPS Tutorial](http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
+- [Creating Physics Shapes](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/119211)
+- [Destroying things is fun!](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/21709) Series of resources, Damage and Destruction.
+- [Documentation](https://web.archive.org/web/http://www.garagegames.com/documentation) You have a ton of great resources available to help you learn the technology!
+- [FPS Tutorial](https://web.archive.org/web/http://www.garagegames.com/products/torque-3d/fps#/1-setup/1)
 - [Gem-A-Day](http://garagegames.com/community/resources/view/14868) A gem is a self contained bit of code and/or art, often along with some useful conventions, that solves a particular problem in a way that makes it easy to use this solution again in the future.
-- [T3D tutorials en masse](http://www.garagegames.com/community/forums/viewthread/134078) Full list of tutorials!
+- [T3D tutorials en masse](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/134078) Full list of tutorials!
 - [How to compile Torque3D v3.9](http://forums.torque3d.org/viewtopic.php?f=12&t=713#p5913)
 - [Torque Developer Network (TDN)](http://tdn.garagegames.com/wiki/TDN_Home) Online documentation site for GarageGames technologies.
 - [T3D Documentation by RichardRanft](https://github.com/RichardRanft/Torque3D-Documentation)
-- [Custom Shader - Part 1](http://www.garagegames.com/community/blogs/view/20989)
-- [Custom Shader - Part 2](http://www.garagegames.com/community/resources/view/20990)
-- [Custom Shader - Part 3](http://www.garagegames.com/community/resources/view/20991)
+- [Custom Shader - Part 1](https://web.archive.org/web/http://www.garagegames.com/community/blogs/view/20989)
+- [Custom Shader - Part 2](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/20990)
+- [Custom Shader - Part 3](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/20991)
 - [L3DT - Making terrain](http://www.bundysoft.com/wiki/doku.php?id=tutorials:torque:t3d:aaron)
 - [T3D v3.9+ Editors video tutorials](http://forums.torque3d.org/viewtopic.php?f=12&t=862#p6927) Useful video tutorials using the latest version of T3D 3.9+.
 - [Torque3D v3.9 Code Engine/Script Reference](http://forums.torque3d.org/viewtopic.php?f=25&t=751#p6229)
@@ -656,21 +656,21 @@ Documentation & Tutorials
 - [Blender3D and Torque3D](https://www.youtube.com/channel/UC2z923PauVTVLQvQxSl_DVg) Series of videos made by Chad of how he make "Gods and Nemesis".
 
 Audio & Sound
-- [Quick guide to sound and audio](http://www.garagegames.com/community/forums/viewthread/126888)
-- [SFX Workflows](http://www.garagegames.com/community/forums/viewthread/106725)
-- [SFX Changes](http://www.garagegames.com/community/forums/viewthread/106271) 
+- [Quick guide to sound and audio](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/126888)
+- [SFX Workflows](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/106725)
+- [SFX Changes](https://web.archive.org/web/http://www.garagegames.com/community/forums/viewthread/106271) 
 
 ### MMORPG Tutorial
-- [1 Inventory for the Client](http://www.garagegames.com/community/resources/view/7514)
-- [2 RPG style targeting](http://www.garagegames.com/community/resources/view/7515)
-- [3 part 1, RPG Style Animals](http://www.garagegames.com/community/resources/view/7516)
-- [3 part 2, Gone Fishin!](http://www.garagegames.com/community/resources/view/7517)
-- [4 Server Side Melee Redux!](http://www.garagegames.com/community/resources/view/7583)
-- [5 Simply Magic..](http://www.garagegames.com/community/resources/view/7584)
-- [6 Logins R US](http://www.garagegames.com/community/resources/view/7605)
-- [7 Pick a Char Any Char!](http://www.garagegames.com/community/resources/view/7695)
-- [8 Forage, Bake and Eat a Cake!](http://www.garagegames.com/community/resources/view/7886)
-- [9 Dreamers Theory on Quests](http://www.garagegames.com/community/resources/view/7987)
+- [1 Inventory for the Client](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7514)
+- [2 RPG style targeting](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7515)
+- [3 part 1, RPG Style Animals](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7516)
+- [3 part 2, Gone Fishin!](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7517)
+- [4 Server Side Melee Redux!](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7583)
+- [5 Simply Magic..](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7584)
+- [6 Logins R US](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7605)
+- [7 Pick a Char Any Char!](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7695)
+- [8 Forage, Bake and Eat a Cake!](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7886)
+- [9 Dreamers Theory on Quests](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/7987)
 - [Part1, Building a simple yet powerful MMO game architecture](https://www.ibm.com/developerworks/library/ar-powerup1/index.html) Introduction
 - [Part2, Building a simple yet powerful MMO game architecture](https://www.ibm.com/developerworks/library/ar-powerup2/index.html) Gaming and Web integration
 - [Part3, Building a simple yet powerful MMO game architecture](https://www.ibm.com/developerworks/library/ar-powerup3/ar-powerup3.html) Capabilities and limitations
@@ -679,9 +679,9 @@ Audio & Sound
 
 Easing/Tweening system
 
-- [Twillex](https://sourceforge.net/projects/twillex/) - [1](https://github.com/Torque3D-Resources/Twillex) - [wiki](https://sourceforge.net/p/twillex/wiki/Home/) - [1](https://www.garagegames.com/community/resources/view/21480)
+- [Twillex](https://sourceforge.net/projects/twillex/) - [1](https://github.com/Torque3D-Resources/Twillex) - [wiki](https://sourceforge.net/p/twillex/wiki/Home/) - [1](https://web.archive.org/web/https://www.garagegames.com/community/resources/view/21480)
 - [Animation Threads](http://garagegames.com/community/resources/view/14856)
-- [Ease](http://www.garagegames.com/community/resources/view/14863)
+- [Ease](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/14863)
 
 ## Utilities
 
@@ -700,23 +700,23 @@ Torque related tools
 - [Terrain Master](https://github.com/ChrisCalef/T3DTerrainMaster) It provides two services: a system for importing very large terrain heightmap datasets, and a paging system for loading and dropping terrain tiles as the player moves across the landscape.
 
 ### Level Editor
-- [Trenchbroom](http://forums.torque3d.org/viewtopic.php?f=25&t=600) - [1](https://www.garagegames.com/community/forums/viewthread/135318) - [tutorial](http://www.moddb.com/games/zentense/tutorials/from-a-quake-map-to-torque3d) - [main site](http://kristianduske.com/trenchbroom/)
+- [Trenchbroom](http://forums.torque3d.org/viewtopic.php?f=25&t=600) - [1](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/135318) - [tutorial](http://www.moddb.com/games/zentense/tutorials/from-a-quake-map-to-torque3d) - [main site](http://kristianduske.com/trenchbroom/)
 - [LevelBuddy](http://forums.torque3d.org/viewtopic.php?f=25&t=639) - [main site](https://matt-lucas.itch.io/level-buddy)
 
 ### RPG & MMORPGs
 - [RPG Tool Kit](https://gumroad.com/12catblack)
 - [RPG Art Starter Pack](http://www.turbosquid.com/Search/Artists/shoiko)
-- [RPG Resource](http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
+- [RPG Resource](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/20583) - Download: [1](http://www.mediafire.com/?44rhme68uhhuc)
 - [RPG Dialog](http://forums.torque3d.org/viewtopic.php?f=23&t=746) Adds standard RPG Dialogs support, including multiple choice questions and question linking. - Download: [1](https://www.dropbox.com/sh/gxfy58huq3hvrpl/AACefZCSBHwnU4JAftDhzv9Ga?dl=0)
 - [MyRPG Master](http://myrpg.eu) - [Store Steam](http://store.steampowered.com/app/329890) Software for the creation of your own role playing 3D worlds. It allows you to imagine and build your own play areas, your own GUI and your own adventures. Is composed of many editors that meet all the needs of a role playing game creation. Note: A Torque3D Modification for RPG games. 
 
 ### Stealth
 
-- [Stealth-game Light-Level detection](http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
-- [Cloak pickup](https://www.garagegames.com/community/forums/viewthread/5220)
+- [Stealth-game Light-Level detection](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/22970) Provides code which 'detects' the amount of light a player is exposed to in order to assist with stealth game mechanics, and demonstrates a practical use of ScriptTickObject.
+- [Cloak pickup](https://web.archive.org/web/https://www.garagegames.com/community/forums/viewthread/5220)
 
 ### Zombie
 
-- [Zombie Resources](http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
+- [Zombie Resources](https://web.archive.org/web/http://www.garagegames.com/community/resources/view/21702) This resource contains all the code wrote for a Zombie Game Jam. Download: [1](http://abighole.hngamers.com/ZombieResource.zip)
 
 Note: For the pay old products that is still around. Not expect so much support.
