@@ -154,6 +154,7 @@ Artificial Intelligence
 - [3DRT](http://3drt.com/store/) - We specialize in high-quality 3D models for video games.
 - [TurboSquid](https://www.turbosquid.com/) - Our goal is to save artists the time of making a great model, and instead let them add their own personality to their creations.
 - [CGTrader ](https://www.cgtrader.com/) - is the largest 3D model marketplace for computer graphics, virtual/augmented reality/ and gaming, backed by a strong professional designer community.
+- [Hum3D](https://hum3d.com/) - is the largest source for vehicle 3D models
 - [GameDev Market](https://www.gamedevmarket.net/) A single place for indie game developers to buy and sell high quality game assets with really simple licensing, regardless of experience, budget or engine choice.
 
 ## Virtual Reality
